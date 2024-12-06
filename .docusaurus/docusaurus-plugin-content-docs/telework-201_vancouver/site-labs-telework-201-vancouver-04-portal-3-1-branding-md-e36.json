@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/04-Portal/3.1 Branding.md",
   "sourceDirName": "04-Portal",
   "slug": "/Portal/3.1 Branding",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.1 Branding",
+  "permalink": "/workshops/labs/telework-201_vancouver/Portal/3.1 Branding",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "2. Record Producer",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer"
+    "permalink": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Record-Producer"
   },
   "next": {
     "title": "Portal",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.2 Add a Widget"
+    "permalink": "/workshops/labs/telework-201_vancouver/Portal/3.2 Add a Widget"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/00-Introduction/02-Takeoff_Checklist.md",
   "sourceDirName": "00-Introduction",
   "slug": "/Introduction/takeoff",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/takeoff",
+  "permalink": "/workshops/labs/telework-201_vancouver/Introduction/takeoff",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "1. Visão Geral do Laboratório",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Overview"
+    "permalink": "/workshops/labs/telework-201_vancouver/Introduction/Overview"
   },
   "next": {
     "title": "3. Importar o aplicativo",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App"
+    "permalink": "/workshops/labs/telework-201_vancouver/Introduction/Import-App"
   }
 }

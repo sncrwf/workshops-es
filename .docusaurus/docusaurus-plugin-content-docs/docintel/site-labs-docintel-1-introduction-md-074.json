@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/1-introduction.md",
   "sourceDirName": ".",
   "slug": "/introduction",
-  "permalink": "/workshops-es/labs/docintel/introduction",
+  "permalink": "/workshops/labs/docintel/introduction",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,6 +20,6 @@
   "sidebar": "docintel",
   "next": {
     "title": "1.1 Localize os documentos na sua instância",
-    "permalink": "/workshops-es/labs/docintel/design/1-locate-doc"
+    "permalink": "/workshops/labs/docintel/design/1-locate-doc"
   }
 }

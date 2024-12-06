@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "1. Introdução",
-        "href": "/workshops-es/labs/docintel/introduction",
+        "href": "/workshops/labs/docintel/introduction",
         "docId": "introduction"
       },
       {
@@ -22,13 +22,13 @@
           {
             "type": "link",
             "label": "1.1 Localize os documentos na sua instância",
-            "href": "/workshops-es/labs/docintel/design/1-locate-doc",
+            "href": "/workshops/labs/docintel/design/1-locate-doc",
             "docId": "design/1-locate-doc"
           },
           {
             "type": "link",
             "label": "1.2 Explore as tabelas e entenda a solução",
-            "href": "/workshops-es/labs/docintel/design/2-explore-tables",
+            "href": "/workshops/labs/docintel/design/2-explore-tables",
             "docId": "design/2-explore-tables"
           }
         ],
@@ -42,19 +42,19 @@
           {
             "type": "link",
             "label": "2.1 Configurar um caso de uso com Document Intelligence Admin",
-            "href": "/workshops-es/labs/docintel/configure-docintel/1-use-case",
+            "href": "/workshops/labs/docintel/configure-docintel/1-use-case",
             "docId": "configure-docintel/1-use-case"
           },
           {
             "type": "link",
             "label": "2.2 Configurar Flows para Document Intelligence",
-            "href": "/workshops-es/labs/docintel/configure-docintel/2-flow",
+            "href": "/workshops/labs/docintel/configure-docintel/2-flow",
             "docId": "configure-docintel/2-flow"
           },
           {
             "type": "link",
             "label": "2.3 Adicionar Flows para processamento avançado",
-            "href": "/workshops-es/labs/docintel/configure-docintel/3-advanced",
+            "href": "/workshops/labs/docintel/configure-docintel/3-advanced",
             "docId": "configure-docintel/3-advanced"
           }
         ],
@@ -68,19 +68,19 @@
           {
             "type": "link",
             "label": "3.1 Enviar como solicitante e processar um documento",
-            "href": "/workshops-es/labs/docintel/e2e/1-submit",
+            "href": "/workshops/labs/docintel/e2e/1-submit",
             "docId": "e2e/1-submit"
           },
           {
             "type": "link",
             "label": "3.2 Aumente a produtividade do agente com Autofill",
-            "href": "/workshops-es/labs/docintel/e2e/2-autofill",
+            "href": "/workshops/labs/docintel/e2e/2-autofill",
             "docId": "e2e/2-autofill"
           },
           {
             "type": "link",
             "label": "3.3 Exporte sua solução",
-            "href": "/workshops-es/labs/docintel/e2e/3-export",
+            "href": "/workshops/labs/docintel/e2e/3-export",
             "docId": "e2e/3-export"
           }
         ],
@@ -90,13 +90,13 @@
       {
         "type": "link",
         "label": "Baixar Guia do Laboratório em PDF",
-        "href": "/workshops-es/labs/docintel/lab-guide-pdf",
+        "href": "/workshops/labs/docintel/lab-guide-pdf",
         "docId": "lab-guide-pdf"
       },
       {
         "type": "link",
         "label": "Pesquisa",
-        "href": "/workshops-es/labs/docintel/survey",
+        "href": "/workshops/labs/docintel/survey",
         "docId": "survey"
       }
     ]

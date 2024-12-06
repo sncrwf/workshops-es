@@ -6,7 +6,7 @@
   "source": "@site/labs/rpa/lab-guide-pdf.md",
   "sourceDirName": ".",
   "slug": "/lab-guide-pdf",
-  "permalink": "/workshops-es/labs/rpa/lab-guide-pdf",
+  "permalink": "/workshops/labs/rpa/lab-guide-pdf",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "rpa",
   "previous": {
     "title": "3. Não tem tempo para terminar?",
-    "permalink": "/workshops-es/labs/rpa/finish"
+    "permalink": "/workshops/labs/rpa/finish"
   },
   "next": {
     "title": "Pesquisa",
-    "permalink": "/workshops-es/labs/rpa/survey"
+    "permalink": "/workshops/labs/rpa/survey"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/2-configure-docintel/3-advanced.md",
   "sourceDirName": "2-configure-docintel",
   "slug": "/configure-docintel/3-advanced",
-  "permalink": "/workshops-es/labs/docintel/configure-docintel/3-advanced",
+  "permalink": "/workshops/labs/docintel/configure-docintel/3-advanced",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "docintel",
   "previous": {
     "title": "2.2 Configurar Flows para Document Intelligence",
-    "permalink": "/workshops-es/labs/docintel/configure-docintel/2-flow"
+    "permalink": "/workshops/labs/docintel/configure-docintel/2-flow"
   },
   "next": {
     "title": "3.1 Enviar como solicitante e processar um documento",
-    "permalink": "/workshops-es/labs/docintel/e2e/1-submit"
+    "permalink": "/workshops/labs/docintel/e2e/1-submit"
   }
 }

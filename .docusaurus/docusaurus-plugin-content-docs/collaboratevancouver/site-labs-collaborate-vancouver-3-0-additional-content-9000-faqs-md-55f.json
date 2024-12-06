@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-faqs.md",
   "sourceDirName": "3.0-additional_content",
   "slug": "/3.0-additional_content/faqs",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/faqs",
+  "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/faqs",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Dicas de Clonagem",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/cloning"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/cloning"
   },
   "next": {
     "title": "Requisitos de Instalação",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/install-reqs"
   }
 }

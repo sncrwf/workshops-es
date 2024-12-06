@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/lab-guide-pdf.md",
   "sourceDirName": ".",
   "slug": "/lab-guide-pdf",
-  "permalink": "/workshops-es/labs/docintel/lab-guide-pdf",
+  "permalink": "/workshops/labs/docintel/lab-guide-pdf",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docintel",
   "previous": {
     "title": "3.3 Exporte sua solução",
-    "permalink": "/workshops-es/labs/docintel/e2e/3-export"
+    "permalink": "/workshops/labs/docintel/e2e/3-export"
   },
   "next": {
     "title": "Pesquisa",
-    "permalink": "/workshops-es/labs/docintel/survey"
+    "permalink": "/workshops/labs/docintel/survey"
   }
 }

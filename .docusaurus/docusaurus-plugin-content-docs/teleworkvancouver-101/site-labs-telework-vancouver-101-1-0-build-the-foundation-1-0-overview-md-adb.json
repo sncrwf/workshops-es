@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/1.0-Build-the-Foundation/1.0-overview.md",
   "sourceDirName": "1.0-Build-the-Foundation",
   "slug": "/1.0-Build-the-Foundation/overview",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview",
+  "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -21,10 +21,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "5. Lista de Verificação para Decolagem 🚀",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/takeoff"
+    "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/takeoff"
   },
   "next": {
     "title": "1.1 Revisar os Dados de Entrada",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data"
   }
 }

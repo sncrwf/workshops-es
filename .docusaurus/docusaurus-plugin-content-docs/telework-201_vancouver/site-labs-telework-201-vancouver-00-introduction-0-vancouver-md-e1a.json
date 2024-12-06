@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/00-Introduction/0-vancouver.md",
   "sourceDirName": "00-Introduction",
   "slug": "/Introduction/vancouver",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/vancouver",
+  "permalink": "/workshops/labs/telework-201_vancouver/Introduction/vancouver",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "teleworkvancouver",
   "next": {
     "title": "1. Visão Geral do Laboratório",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Overview"
+    "permalink": "/workshops/labs/telework-201_vancouver/Introduction/Overview"
   }
 }

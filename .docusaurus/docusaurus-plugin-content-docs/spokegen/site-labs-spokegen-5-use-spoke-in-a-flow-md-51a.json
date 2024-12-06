@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/5-use-spoke-in-a-flow.md",
   "sourceDirName": ".",
   "slug": "/use-spoke-in-a-flow",
-  "permalink": "/workshops-es/labs/spokegen/use-spoke-in-a-flow",
+  "permalink": "/workshops/labs/spokegen/use-spoke-in-a-flow",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "spokegen",
   "previous": {
     "title": "Teste o Spoke",
-    "permalink": "/workshops-es/labs/spokegen/test-the-spoke"
+    "permalink": "/workshops/labs/spokegen/test-the-spoke"
   },
   "next": {
     "title": "Laboratório Opcional: Seção 1",
-    "permalink": "/workshops-es/labs/spokegen/optional-lab-section-1"
+    "permalink": "/workshops/labs/spokegen/optional-lab-section-1"
   }
 }

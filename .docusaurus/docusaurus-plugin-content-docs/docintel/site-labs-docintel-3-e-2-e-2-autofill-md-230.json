@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/3-e2e/2-autofill.md",
   "sourceDirName": "3-e2e",
   "slug": "/e2e/2-autofill",
-  "permalink": "/workshops-es/labs/docintel/e2e/2-autofill",
+  "permalink": "/workshops/labs/docintel/e2e/2-autofill",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "docintel",
   "previous": {
     "title": "3.1 Enviar como solicitante e processar um documento",
-    "permalink": "/workshops-es/labs/docintel/e2e/1-submit"
+    "permalink": "/workshops/labs/docintel/e2e/1-submit"
   },
   "next": {
     "title": "3.3 Exporte sua solução",
-    "permalink": "/workshops-es/labs/docintel/e2e/3-export"
+    "permalink": "/workshops/labs/docintel/e2e/3-export"
   }
 }

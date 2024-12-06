@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/02-Flow/3-Modify-Main-Flow.md",
   "sourceDirName": "02-Flow",
   "slug": "/Flow/Modify-Main-Flow",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow",
+  "permalink": "/workshops/labs/telework-201_vancouver/Flow/Modify-Main-Flow",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "2. Criar Tabela de Decisão",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table"
+    "permalink": "/workshops/labs/telework-201_vancouver/Flow/Create-Decision-Table"
   },
   "next": {
     "title": "1. Adicionar um playbook",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook"
+    "permalink": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Playbook"
   }
 }

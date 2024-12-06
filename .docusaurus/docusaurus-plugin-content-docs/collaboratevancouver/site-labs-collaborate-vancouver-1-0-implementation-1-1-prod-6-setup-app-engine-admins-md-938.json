@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.1-prod/6-setup-app-engine-admins.md",
   "sourceDirName": "1.0-implementation/1.1-prod",
   "slug": "/1.0-implementation/1.1-prod/admins-group",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group",
+  "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "5. App Intake",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake"
   },
   "next": {
     "title": "Prod Complete",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete"
   }
 }

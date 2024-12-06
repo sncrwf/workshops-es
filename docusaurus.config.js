@@ -8,13 +8,13 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Workshop Creator Workflows",
-  tagline: "¿Listo para aprender algo nuevo?",
+  tagline: "Pronto para aprender algo novo?",
   url: "https://sncrwf.github.io",
   trailingSlash: false,
-  baseUrl: "/workshops-es/", // Set the /<baseUrl>/ pathname under which your site is served. For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: "/workshops/", // Set the /<baseUrl>/ pathname under which your site is served. For GitHub pages deployment, it is often '/<projectName>/'
   favicon: "img/favicon.ico",
   organizationName: "sncrwf", // GitHub pages deployment config.
-  projectName: "workshops-es",
+  projectName: "workshops",
 
   staticDirectories: ["static"],
 
@@ -47,9 +47,10 @@ const config = {
     [
       "@docusaurus/plugin-content-docs",
       {
-        path: "labs/underconstruction",
-        id: "underconstruction",
-        routeBasePath: "labs/underconstruction",
+        path: "labs/telework-vancouver-101",
+        id: "teleworkvancouver-101",
+        routeBasePath: "labs/telework-vancouver-101",
+        sidebarPath: require.resolve("./labs/telework-vancouver-101/sidebar.js"),
         showLastUpdateAuthor: false,
         showLastUpdateTime: false,
         breadcrumbs: false,
@@ -136,12 +137,20 @@ const config = {
         breadcrumbs: false,
       },
     ],
+    /*
+     * EWF+CrWF: Dept Svc
+     */
+
+
+    /*
+     * TRAVEL REQUEST
+     */
+
 
     /*
      * THE FOLLOWING SECTIONS ARE NOT CURRENTLY IN USE.
      * THEY ARE DEFINED HERE TO MAKE IT EASY TO MANUALLY GO THE URL AND TEST THEM.
      */
-
 
     [
       "@docusaurus/plugin-content-docs",
@@ -153,9 +162,6 @@ const config = {
         breadcrumbs: false,
       },
     ],
-
-
-
 
   ],
 
@@ -267,6 +273,10 @@ const config = {
               {
                 label: "Developer Glossary",
                 href: "https://developer.servicenow.com/dev.do#!/guides/vancouver/now-platform/glossary/developer-glossary",
+              },
+              {
+                label: "CSM-VA-Utah",
+                href: "/labs/csm-va-utah/overview",
               },
               {
                 label: "Now Create",

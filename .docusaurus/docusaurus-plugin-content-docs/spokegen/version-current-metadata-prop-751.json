@@ -12,13 +12,13 @@
       {
         "type": "link",
         "label": "🏞️ Vancouver",
-        "href": "/workshops-es/labs/spokegen/vancouver",
+        "href": "/workshops/labs/spokegen/vancouver",
         "docId": "vancouver"
       },
       {
         "type": "link",
         "label": "Visão Geral",
-        "href": "/workshops-es/labs/spokegen/overview",
+        "href": "/workshops/labs/spokegen/overview",
         "docId": "overview"
       },
       {
@@ -28,25 +28,25 @@
           {
             "type": "link",
             "label": "Caso de Uso",
-            "href": "/workshops-es/labs/spokegen/use-case",
+            "href": "/workshops/labs/spokegen/use-case",
             "docId": "use-case"
           },
           {
             "type": "link",
             "label": "Criar o Spoke",
-            "href": "/workshops-es/labs/spokegen/create-the-spoke",
+            "href": "/workshops/labs/spokegen/create-the-spoke",
             "docId": "create-the-spoke"
           },
           {
             "type": "link",
             "label": "Teste o Spoke",
-            "href": "/workshops-es/labs/spokegen/test-the-spoke",
+            "href": "/workshops/labs/spokegen/test-the-spoke",
             "docId": "test-the-spoke"
           },
           {
             "type": "link",
             "label": "Use o Spoke em um Fluxo",
-            "href": "/workshops-es/labs/spokegen/use-spoke-in-a-flow",
+            "href": "/workshops/labs/spokegen/use-spoke-in-a-flow",
             "docId": "use-spoke-in-a-flow"
           }
         ],
@@ -60,13 +60,13 @@
           {
             "type": "link",
             "label": "Seção 1",
-            "href": "/workshops-es/labs/spokegen/optional-lab-section-1",
+            "href": "/workshops/labs/spokegen/optional-lab-section-1",
             "docId": "optional-lab-section-1"
           },
           {
             "type": "link",
             "label": "Seção 2",
-            "href": "/workshops-es/labs/spokegen/optional-lab-section-2",
+            "href": "/workshops/labs/spokegen/optional-lab-section-2",
             "docId": "optional-lab-section-2"
           }
         ],
@@ -76,13 +76,13 @@
       {
         "type": "link",
         "label": "Baixar Guia do Laboratório em PDF",
-        "href": "/workshops-es/labs/spokegen/lab-guide-pdf",
+        "href": "/workshops/labs/spokegen/lab-guide-pdf",
         "docId": "lab-guide-pdf"
       },
       {
         "type": "link",
         "label": "Pesquisa",
-        "href": "/workshops-es/labs/spokegen/Survey",
+        "href": "/workshops/labs/spokegen/Survey",
         "docId": "Survey"
       }
     ]

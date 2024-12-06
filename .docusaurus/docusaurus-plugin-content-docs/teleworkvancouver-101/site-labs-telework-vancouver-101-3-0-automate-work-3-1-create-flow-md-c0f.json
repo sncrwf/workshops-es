@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/3.0-Automate-Work/3.1-create-flow.md",
   "sourceDirName": "3.0-Automate-Work",
   "slug": "/3.0-Automate-Work/create-workflow",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow",
+  "permalink": "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "3. Automatize o trabalho com Fluxos: Visão Geral",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/overview"
+    "permalink": "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/overview"
   },
   "next": {
     "title": "3.2 Testar o Fluxo",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow"
+    "permalink": "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow"
   }
 }

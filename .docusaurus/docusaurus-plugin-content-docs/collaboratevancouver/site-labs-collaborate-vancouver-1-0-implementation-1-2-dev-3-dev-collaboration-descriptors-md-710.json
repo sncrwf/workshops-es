@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.2-dev/3-dev-collaboration-descriptors.md",
   "sourceDirName": "1.0-implementation/1.2-dev",
   "slug": "/1.0-implementation/1.2-dev/collaboration",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration",
+  "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "2. Ambiente Controller",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment"
   },
   "next": {
     "title": "Implementação Completa",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/1.0-Build-the-Foundation/1.6-review.md",
   "sourceDirName": "1.0-Build-the-Foundation",
   "slug": "/1.0-Build-the-Foundation/review",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review",
+  "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/review",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "1.5 Configurar o Formulário do Caso de Teletrabalho",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form"
   },
   "next": {
     "title": "2. Experiência do Usuário: Visão Geral",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/overview"
+    "permalink": "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/overview"
   }
 }

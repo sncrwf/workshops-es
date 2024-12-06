@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/6.0-Bonus/1-Create-People-Finder-Spoke.md",
   "sourceDirName": "6.0-Bonus",
   "slug": "/6.0-Bonus/Create-People-Finder-Spoke",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke",
+  "permalink": "/workshops/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "Apêndice",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/appendix"
+    "permalink": "/workshops/labs/telework-vancouver-101/5.0-conclusion/appendix"
   },
   "next": {
     "title": "CHANGELOG",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/CHANGELOG"
+    "permalink": "/workshops/labs/telework-vancouver-101/CHANGELOG"
   }
 }

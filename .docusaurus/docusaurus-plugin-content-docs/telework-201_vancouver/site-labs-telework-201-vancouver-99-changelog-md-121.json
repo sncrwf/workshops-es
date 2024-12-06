@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/99-CHANGELOG.md",
   "sourceDirName": ".",
   "slug": "/CHANGELOG",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/CHANGELOG",
+  "permalink": "/workshops/labs/telework-201_vancouver/CHANGELOG",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "Conclusão",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Conclusion/"
+    "permalink": "/workshops/labs/telework-201_vancouver/Conclusion/"
   },
   "next": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/lab-guide-pdf"
+    "permalink": "/workshops/labs/telework-201_vancouver/lab-guide-pdf"
   }
 }

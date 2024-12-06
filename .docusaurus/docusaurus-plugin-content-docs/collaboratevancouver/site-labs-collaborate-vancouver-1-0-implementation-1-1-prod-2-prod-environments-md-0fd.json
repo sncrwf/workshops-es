@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.1-prod/2-prod-environments.md",
   "sourceDirName": "1.0-implementation/1.1-prod",
   "slug": "/1.0-implementation/1.1-prod/environments",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments",
+  "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "1. Credenciais",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential"
   },
   "next": {
     "title": "3. Pipeline",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/rpa/5-rpa-design.md",
   "sourceDirName": ".",
   "slug": "/rpa-design",
-  "permalink": "/workshops-es/labs/rpa/rpa-design",
+  "permalink": "/workshops/labs/rpa/rpa-design",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "rpa",
   "previous": {
     "title": "1. Conectando à VM",
-    "permalink": "/workshops-es/labs/rpa/vm-connect"
+    "permalink": "/workshops/labs/rpa/vm-connect"
   },
   "next": {
     "title": "3. Não tem tempo para terminar?",
-    "permalink": "/workshops-es/labs/rpa/finish"
+    "permalink": "/workshops/labs/rpa/finish"
   }
 }

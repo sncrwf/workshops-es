@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/05-Conclusion/index.mdx",
   "sourceDirName": "05-Conclusion",
   "slug": "/Conclusion/",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Conclusion/",
+  "permalink": "/workshops/labs/telework-201_vancouver/Conclusion/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "Portal",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.3 Create a Widget"
+    "permalink": "/workshops/labs/telework-201_vancouver/Portal/3.3 Create a Widget"
   },
   "next": {
     "title": "CHANGELOG",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/CHANGELOG"
+    "permalink": "/workshops/labs/telework-201_vancouver/CHANGELOG"
   }
 }

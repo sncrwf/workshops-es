@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/4-test-spoke.md",
   "sourceDirName": ".",
   "slug": "/test-the-spoke",
-  "permalink": "/workshops-es/labs/spokegen/test-the-spoke",
+  "permalink": "/workshops/labs/spokegen/test-the-spoke",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "spokegen",
   "previous": {
     "title": "Criar o Spoke",
-    "permalink": "/workshops-es/labs/spokegen/create-the-spoke"
+    "permalink": "/workshops/labs/spokegen/create-the-spoke"
   },
   "next": {
     "title": "Use o Spoke em um Fluxo",
-    "permalink": "/workshops-es/labs/spokegen/use-spoke-in-a-flow"
+    "permalink": "/workshops/labs/spokegen/use-spoke-in-a-flow"
   }
 }

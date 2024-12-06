@@ -6,7 +6,7 @@
   "source": "@site/labs/rpa/survey.md",
   "sourceDirName": ".",
   "slug": "/survey",
-  "permalink": "/workshops-es/labs/rpa/survey",
+  "permalink": "/workshops/labs/rpa/survey",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "rpa",
   "previous": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/rpa/lab-guide-pdf"
+    "permalink": "/workshops/labs/rpa/lab-guide-pdf"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/2.0-The-User-Experience/2.4-preview-in-portal.md",
   "sourceDirName": "2.0-The-User-Experience",
   "slug": "/2.0-The-User-Experience/preview-in-portal",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal",
+  "permalink": "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "2.3 Visualizar no AES",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes"
+    "permalink": "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes"
   },
   "next": {
     "title": "Revisão",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/review"
+    "permalink": "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/review"
   }
 }

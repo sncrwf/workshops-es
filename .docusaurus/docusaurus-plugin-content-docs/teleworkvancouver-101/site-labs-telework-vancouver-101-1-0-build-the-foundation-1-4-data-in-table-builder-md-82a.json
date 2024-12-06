@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/1.0-Build-the-Foundation/1.4-Data-in-Table-Builder.md",
   "sourceDirName": "1.0-Build-the-Foundation",
   "slug": "/1.0-Build-the-Foundation/table-builder-data",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/table-builder-data",
+  "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/table-builder-data",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "1.3 Importar Dados",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/import-data"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/import-data"
   },
   "next": {
     "title": "1.5 Configurar o Formulário do Caso de Teletrabalho",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form"
   }
 }

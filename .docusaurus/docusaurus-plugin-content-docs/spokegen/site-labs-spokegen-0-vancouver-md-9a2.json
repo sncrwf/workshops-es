@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/0-vancouver.md",
   "sourceDirName": ".",
   "slug": "/vancouver",
-  "permalink": "/workshops-es/labs/spokegen/vancouver",
+  "permalink": "/workshops/labs/spokegen/vancouver",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,6 +20,6 @@
   "sidebar": "spokegen",
   "next": {
     "title": "Visão Geral",
-    "permalink": "/workshops-es/labs/spokegen/overview"
+    "permalink": "/workshops/labs/spokegen/overview"
   }
 }

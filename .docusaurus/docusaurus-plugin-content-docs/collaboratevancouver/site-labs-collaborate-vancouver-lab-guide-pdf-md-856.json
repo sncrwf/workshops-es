@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/lab-guide-pdf.md",
   "sourceDirName": ".",
   "slug": "/lab-guide-pdf",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf",
+  "permalink": "/workshops/labs/collaborate-vancouver/lab-guide-pdf",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Guia do Administrador - App Engine",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/admin-guide"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/admin-guide"
   },
   "next": {
     "title": "Pesquisa",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/Survey"
+    "permalink": "/workshops/labs/collaborate-vancouver/Survey"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/2.0-simulation/5-collaboration-approval.md",
   "sourceDirName": "2.0-simulation",
   "slug": "/2.0-simulation/collaboration-approval",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval",
+  "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-approval",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "4. Requisição de Colaboração",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-request"
   },
   "next": {
     "title": "6. Configurar Integração",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/configure-integration"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/configure-integration"
   }
 }

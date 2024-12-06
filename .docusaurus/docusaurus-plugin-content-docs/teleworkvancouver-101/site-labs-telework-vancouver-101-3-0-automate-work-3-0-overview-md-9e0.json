@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/3.0-Automate-Work/3.0-overview.md",
   "sourceDirName": "3.0-Automate-Work",
   "slug": "/3.0-Automate-Work/overview",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/overview",
+  "permalink": "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -21,10 +21,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "Revisão",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/review"
+    "permalink": "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/review"
   },
   "next": {
     "title": "3.1 Criar o Fluxo",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow"
+    "permalink": "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow"
   }
 }

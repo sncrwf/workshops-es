@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/1-design/1-locate-doc.md",
   "sourceDirName": "1-design",
   "slug": "/design/1-locate-doc",
-  "permalink": "/workshops-es/labs/docintel/design/1-locate-doc",
+  "permalink": "/workshops/labs/docintel/design/1-locate-doc",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "docintel",
   "previous": {
     "title": "1. Introdução",
-    "permalink": "/workshops-es/labs/docintel/introduction"
+    "permalink": "/workshops/labs/docintel/introduction"
   },
   "next": {
     "title": "1.2 Explore as tabelas e entenda a solução",
-    "permalink": "/workshops-es/labs/docintel/design/2-explore-tables"
+    "permalink": "/workshops/labs/docintel/design/2-explore-tables"
   }
 }

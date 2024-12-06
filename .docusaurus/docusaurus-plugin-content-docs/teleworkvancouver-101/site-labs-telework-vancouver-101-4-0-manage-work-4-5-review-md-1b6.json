@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.5-review.md",
   "sourceDirName": "4.0-Manage-Work",
   "slug": "/4.0-Manage-Work/review",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/review",
+  "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/review",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -21,10 +21,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "4.4 Usar o Workspace",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/use"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/use"
   },
   "next": {
     "title": "Revisão do Laboratório",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/lab-review"
+    "permalink": "/workshops/labs/telework-vancouver-101/5.0-conclusion/lab-review"
   }
 }

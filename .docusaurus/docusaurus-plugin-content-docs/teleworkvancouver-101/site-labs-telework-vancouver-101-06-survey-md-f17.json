@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/06-Survey.md",
   "sourceDirName": ".",
   "slug": "/Survey",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/Survey",
+  "permalink": "/workshops/labs/telework-vancouver-101/Survey",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/lab-guide-pdf"
+    "permalink": "/workshops/labs/telework-vancouver-101/lab-guide-pdf"
   }
 }

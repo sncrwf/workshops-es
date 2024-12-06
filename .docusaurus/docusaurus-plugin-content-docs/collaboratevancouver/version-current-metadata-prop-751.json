@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "🏞️ Vancouver",
-        "href": "/workshops-es/labs/collaborate-vancouver/vancouver",
+        "href": "/workshops/labs/collaborate-vancouver/vancouver",
         "docId": "vancouver"
       },
       {
@@ -22,31 +22,31 @@
           {
             "type": "link",
             "label": "Introdução",
-            "href": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro",
+            "href": "/workshops/labs/collaborate-vancouver/0.0-get_started/intro",
             "docId": "0.0-get_started/intro"
           },
           {
             "type": "link",
             "label": "Desafios Comuns",
-            "href": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common",
+            "href": "/workshops/labs/collaborate-vancouver/0.0-get_started/common",
             "docId": "0.0-get_started/common"
           },
           {
             "type": "link",
             "label": "Soluções",
-            "href": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions",
+            "href": "/workshops/labs/collaborate-vancouver/0.0-get_started/solutions",
             "docId": "0.0-get_started/solutions"
           },
           {
             "type": "link",
             "label": "Estrutura do Laboratório",
-            "href": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure",
+            "href": "/workshops/labs/collaborate-vancouver/0.0-get_started/lab-structure",
             "docId": "0.0-get_started/lab-structure"
           },
           {
             "type": "link",
             "label": "Dicas e Truques",
-            "href": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/tips",
+            "href": "/workshops/labs/collaborate-vancouver/0.0-get_started/tips",
             "docId": "0.0-get_started/tips"
           }
         ],
@@ -64,43 +64,43 @@
               {
                 "type": "link",
                 "label": "1. Credenciais",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential",
                 "docId": "1.0-implementation/1.1-prod/credential"
               },
               {
                 "type": "link",
                 "label": "2. Ambientes",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments",
                 "docId": "1.0-implementation/1.1-prod/environments"
               },
               {
                 "type": "link",
                 "label": "3. Pipeline",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline",
                 "docId": "1.0-implementation/1.1-prod/pipeline"
               },
               {
                 "type": "link",
                 "label": "4. Provisionamento de Usuários",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning",
                 "docId": "1.0-implementation/1.1-prod/user-provisioning"
               },
               {
                 "type": "link",
                 "label": "5. App Intake",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake",
                 "docId": "1.0-implementation/1.1-prod/intake"
               },
               {
                 "type": "link",
                 "label": "6. App Engine Admins",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group",
                 "docId": "1.0-implementation/1.1-prod/admins-group"
               },
               {
                 "type": "link",
                 "label": "Prod Complete",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete",
                 "docId": "1.0-implementation/1.1-prod/complete"
               }
             ],
@@ -114,25 +114,25 @@
               {
                 "type": "link",
                 "label": "1. Credential Alias",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential",
                 "docId": "1.0-implementation/1.2-dev/credential"
               },
               {
                 "type": "link",
                 "label": "2. Ambiente Controller",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment",
                 "docId": "1.0-implementation/1.2-dev/environment"
               },
               {
                 "type": "link",
                 "label": "3. Collaboration Descriptors",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration",
                 "docId": "1.0-implementation/1.2-dev/collaboration"
               },
               {
                 "type": "link",
                 "label": "Implementação Completa",
-                "href": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete",
+                "href": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete",
                 "docId": "1.0-implementation/1.2-dev/complete"
               }
             ],
@@ -150,61 +150,61 @@
           {
             "type": "link",
             "label": "Visão Geral",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/overview",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/overview",
             "docId": "2.0-simulation/overview"
           },
           {
             "type": "link",
             "label": "1. Requisição de Intake",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/intake",
             "docId": "2.0-simulation/intake"
           },
           {
             "type": "link",
             "label": "2. Aprovação de Intake",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-approval",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/intake-approval",
             "docId": "2.0-simulation/intake-approval"
           },
           {
             "type": "link",
             "label": "3. Construir App via template",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/build-app-from-template",
             "docId": "2.0-simulation/build-app-from-template"
           },
           {
             "type": "link",
             "label": "4. Requisição de Colaboração",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-request",
             "docId": "2.0-simulation/collaboration-request"
           },
           {
             "type": "link",
             "label": "5. Aprovação de Colaboração",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-approval",
             "docId": "2.0-simulation/collaboration-approval"
           },
           {
             "type": "link",
             "label": "6. Configurar Integração",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/configure-integration",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/configure-integration",
             "docId": "2.0-simulation/configure-integration"
           },
           {
             "type": "link",
             "label": "7. Requisição de Deploy",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-request",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/deployment-request",
             "docId": "2.0-simulation/deployment-request"
           },
           {
             "type": "link",
             "label": "8. Deployment Approval",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-approval",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/deployment-approval",
             "docId": "2.0-simulation/deployment-approval"
           },
           {
             "type": "link",
             "label": "Lab Completo",
-            "href": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/lab-complete",
+            "href": "/workshops/labs/collaborate-vancouver/2.0-simulation/lab-complete",
             "docId": "2.0-simulation/lab-complete"
           }
         ],
@@ -218,55 +218,55 @@
           {
             "type": "link",
             "label": "AES vs. Studio",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/aes-vs-studio",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/aes-vs-studio",
             "docId": "3.0-additional_content/aes-vs-studio"
           },
           {
             "type": "link",
             "label": "Dicas de Clonagem",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/cloning",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/cloning",
             "docId": "3.0-additional_content/cloning"
           },
           {
             "type": "link",
             "label": "FAQs",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/faqs",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/faqs",
             "docId": "3.0-additional_content/faqs"
           },
           {
             "type": "link",
             "label": "Requisitos de Instalação",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/install-reqs",
             "docId": "3.0-additional_content/install-reqs"
           },
           {
             "type": "link",
             "label": "Tarefas Opcionais de Configuração",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/optional-tasks",
             "docId": "3.0-additional_content/optional-tasks"
           },
           {
             "type": "link",
             "label": "Personas e Papéis",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/personas",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/personas",
             "docId": "3.0-additional_content/personas"
           },
           {
             "type": "link",
             "label": "Preparar Ambientes",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/prepare-env",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/prepare-env",
             "docId": "3.0-additional_content/prepare-env"
           },
           {
             "type": "link",
             "label": "Documentação do Produto",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/docs",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/docs",
             "docId": "3.0-additional_content/docs"
           },
           {
             "type": "link",
             "label": "Guia do Administrador - App Engine",
-            "href": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/admin-guide",
+            "href": "/workshops/labs/collaborate-vancouver/3.0-additional_content/admin-guide",
             "docId": "3.0-additional_content/admin-guide"
           }
         ],
@@ -276,13 +276,13 @@
       {
         "type": "link",
         "label": "Baixar Guia do Laboratório em PDF",
-        "href": "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf",
+        "href": "/workshops/labs/collaborate-vancouver/lab-guide-pdf",
         "docId": "lab-guide-pdf"
       },
       {
         "type": "link",
         "label": "Pesquisa",
-        "href": "/workshops-es/labs/collaborate-vancouver/Survey",
+        "href": "/workshops/labs/collaborate-vancouver/Survey",
         "docId": "Survey"
       }
     ]

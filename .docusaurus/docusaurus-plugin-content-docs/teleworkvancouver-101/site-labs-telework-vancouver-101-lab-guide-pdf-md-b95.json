@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/lab-guide-pdf.md",
   "sourceDirName": ".",
   "slug": "/lab-guide-pdf",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/lab-guide-pdf",
+  "permalink": "/workshops/labs/telework-vancouver-101/lab-guide-pdf",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "CHANGELOG",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/CHANGELOG"
+    "permalink": "/workshops/labs/telework-vancouver-101/CHANGELOG"
   },
   "next": {
     "title": "Pesquisa",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/Survey"
+    "permalink": "/workshops/labs/telework-vancouver-101/Survey"
   }
 }

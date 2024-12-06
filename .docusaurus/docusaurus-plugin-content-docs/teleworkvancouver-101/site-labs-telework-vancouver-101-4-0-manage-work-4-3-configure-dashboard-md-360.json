@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.3-configure-dashboard.md",
   "sourceDirName": "4.0-Manage-Work",
   "slug": "/4.0-Manage-Work/configure-dashboard",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard",
+  "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "4.2 Configurar Listas",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists"
   },
   "next": {
     "title": "4.4 Usar o Workspace",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/use"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/use"
   }
 }

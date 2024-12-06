@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/5.0-conclusion/02-Appendix.md",
   "sourceDirName": "5.0-conclusion",
   "slug": "/5.0-conclusion/appendix",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/appendix",
+  "permalink": "/workshops/labs/telework-vancouver-101/5.0-conclusion/appendix",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "Recursos Suplementares",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/resources"
+    "permalink": "/workshops/labs/telework-vancouver-101/5.0-conclusion/resources"
   },
   "next": {
     "title": "1. Criar People Finder Spoke",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke"
+    "permalink": "/workshops/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke"
   }
 }

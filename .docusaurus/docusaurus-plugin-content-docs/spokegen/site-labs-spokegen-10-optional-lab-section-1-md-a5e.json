@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/10-optional-lab-section-1.md",
   "sourceDirName": ".",
   "slug": "/optional-lab-section-1",
-  "permalink": "/workshops-es/labs/spokegen/optional-lab-section-1",
+  "permalink": "/workshops/labs/spokegen/optional-lab-section-1",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "spokegen",
   "previous": {
     "title": "Use o Spoke em um Fluxo",
-    "permalink": "/workshops-es/labs/spokegen/use-spoke-in-a-flow"
+    "permalink": "/workshops/labs/spokegen/use-spoke-in-a-flow"
   },
   "next": {
     "title": "Laboratório Opcional: Seção 2",
-    "permalink": "/workshops-es/labs/spokegen/optional-lab-section-2"
+    "permalink": "/workshops/labs/spokegen/optional-lab-section-2"
   }
 }

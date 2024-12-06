@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-sys-admin-guide.md",
   "sourceDirName": "3.0-additional_content",
   "slug": "/3.0-additional_content/admin-guide",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/admin-guide",
+  "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/admin-guide",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Documentação do Produto",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/docs"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/docs"
   },
   "next": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf"
+    "permalink": "/workshops/labs/collaborate-vancouver/lab-guide-pdf"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/1-design/2-explore-tables.md",
   "sourceDirName": "1-design",
   "slug": "/design/2-explore-tables",
-  "permalink": "/workshops-es/labs/docintel/design/2-explore-tables",
+  "permalink": "/workshops/labs/docintel/design/2-explore-tables",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "docintel",
   "previous": {
     "title": "1.1 Localize os documentos na sua instância",
-    "permalink": "/workshops-es/labs/docintel/design/1-locate-doc"
+    "permalink": "/workshops/labs/docintel/design/1-locate-doc"
   },
   "next": {
     "title": "2.1 Configurar um caso de uso com Document Intelligence Admin",
-    "permalink": "/workshops-es/labs/docintel/configure-docintel/1-use-case"
+    "permalink": "/workshops/labs/docintel/configure-docintel/1-use-case"
   }
 }

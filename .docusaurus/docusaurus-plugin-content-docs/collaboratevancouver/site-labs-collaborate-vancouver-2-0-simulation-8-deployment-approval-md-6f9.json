@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/2.0-simulation/8-deployment-approval.md",
   "sourceDirName": "2.0-simulation",
   "slug": "/2.0-simulation/deployment-approval",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-approval",
+  "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/deployment-approval",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "7. Requisição de Deploy",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-request"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/deployment-request"
   },
   "next": {
     "title": "Lab Completo",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/lab-complete"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/lab-complete"
   }
 }

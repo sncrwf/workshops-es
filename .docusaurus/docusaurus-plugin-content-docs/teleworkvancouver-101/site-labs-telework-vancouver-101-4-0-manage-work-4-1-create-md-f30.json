@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.1-create.md",
   "sourceDirName": "4.0-Manage-Work",
   "slug": "/4.0-Manage-Work/create",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/create",
+  "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/create",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "4. Gerenciar trabalho: Visão Geral",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/overview"
   },
   "next": {
     "title": "4.2 Configurar Listas",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists"
   }
 }

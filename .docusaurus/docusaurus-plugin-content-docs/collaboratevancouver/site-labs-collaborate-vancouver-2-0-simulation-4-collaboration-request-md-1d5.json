@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/2.0-simulation/4-collaboration-request.md",
   "sourceDirName": "2.0-simulation",
   "slug": "/2.0-simulation/collaboration-request",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request",
+  "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-request",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "3. Construir App via template",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/build-app-from-template"
   },
   "next": {
     "title": "5. Aprovação de Colaboração",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-approval"
   }
 }

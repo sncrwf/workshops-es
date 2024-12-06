@@ -6,7 +6,7 @@
   "source": "@site/labs/logistics/get_started/00-introduction.md",
   "sourceDirName": "get_started",
   "slug": "/get_started/overview",
-  "permalink": "/workshops-es/labs/logistics/get_started/overview",
+  "permalink": "/workshops/labs/logistics/get_started/overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,6 +22,6 @@
   "sidebar": "logistics",
   "next": {
     "title": "Goals",
-    "permalink": "/workshops-es/labs/logistics/get_started/goals"
+    "permalink": "/workshops/labs/logistics/get_started/goals"
   }
 }

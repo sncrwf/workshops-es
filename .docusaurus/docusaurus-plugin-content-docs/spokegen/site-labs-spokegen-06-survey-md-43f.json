@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/06-Survey.md",
   "sourceDirName": ".",
   "slug": "/Survey",
-  "permalink": "/workshops-es/labs/spokegen/Survey",
+  "permalink": "/workshops/labs/spokegen/Survey",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   "sidebar": "spokegen",
   "previous": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/spokegen/lab-guide-pdf"
+    "permalink": "/workshops/labs/spokegen/lab-guide-pdf"
   }
 }

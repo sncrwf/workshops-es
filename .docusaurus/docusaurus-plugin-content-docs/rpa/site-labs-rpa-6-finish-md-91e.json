@@ -6,7 +6,7 @@
   "source": "@site/labs/rpa/6-finish.md",
   "sourceDirName": ".",
   "slug": "/finish",
-  "permalink": "/workshops-es/labs/rpa/finish",
+  "permalink": "/workshops/labs/rpa/finish",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "rpa",
   "previous": {
     "title": "2. RPA Design Studio",
-    "permalink": "/workshops-es/labs/rpa/rpa-design"
+    "permalink": "/workshops/labs/rpa/rpa-design"
   },
   "next": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/rpa/lab-guide-pdf"
+    "permalink": "/workshops/labs/rpa/lab-guide-pdf"
   }
 }

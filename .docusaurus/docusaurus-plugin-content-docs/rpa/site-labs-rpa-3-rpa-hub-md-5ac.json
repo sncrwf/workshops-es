@@ -6,7 +6,7 @@
   "source": "@site/labs/rpa/3-rpa-hub.md",
   "sourceDirName": ".",
   "slug": "/rpa-hub",
-  "permalink": "/workshops-es/labs/rpa/rpa-hub",
+  "permalink": "/workshops/labs/rpa/rpa-hub",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "rpa",
   "previous": {
     "title": "2. Revisar Aplicativo",
-    "permalink": "/workshops-es/labs/rpa/review-app"
+    "permalink": "/workshops/labs/rpa/review-app"
   },
   "next": {
     "title": "1. Conectando à VM",
-    "permalink": "/workshops-es/labs/rpa/vm-connect"
+    "permalink": "/workshops/labs/rpa/vm-connect"
   }
 }

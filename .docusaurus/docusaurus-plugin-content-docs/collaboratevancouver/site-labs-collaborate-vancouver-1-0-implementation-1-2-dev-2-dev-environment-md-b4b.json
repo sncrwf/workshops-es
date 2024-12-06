@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.2-dev/2-dev-environment.md",
   "sourceDirName": "1.0-implementation/1.2-dev",
   "slug": "/1.0-implementation/1.2-dev/environment",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment",
+  "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "1. Credential Alias",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential"
   },
   "next": {
     "title": "3. Collaboration Descriptors",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-install-reqs.md",
   "sourceDirName": "3.0-additional_content",
   "slug": "/3.0-additional_content/install-reqs",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs",
+  "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/install-reqs",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "FAQs",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/faqs"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/faqs"
   },
   "next": {
     "title": "Tarefas Opcionais de Configuração",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/optional-tasks"
   }
 }

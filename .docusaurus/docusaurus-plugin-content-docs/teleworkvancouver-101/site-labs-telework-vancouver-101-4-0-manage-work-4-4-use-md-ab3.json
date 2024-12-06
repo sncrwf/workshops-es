@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.4-use.md",
   "sourceDirName": "4.0-Manage-Work",
   "slug": "/4.0-Manage-Work/use",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/use",
+  "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/use",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "4.3 Configurar Dashboard",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard"
   },
   "next": {
     "title": "4. Gerenciar trabalho: Revisão",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/review"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/review"
   }
 }

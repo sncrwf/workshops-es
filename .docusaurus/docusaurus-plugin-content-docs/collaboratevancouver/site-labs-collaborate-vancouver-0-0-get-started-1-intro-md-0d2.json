@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/0.0-get_started/1-intro.md",
   "sourceDirName": "0.0-get_started",
   "slug": "/0.0-get_started/intro",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro",
+  "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/intro",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -21,10 +21,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "🏞️ Vancouver",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/vancouver"
+    "permalink": "/workshops/labs/collaborate-vancouver/vancouver"
   },
   "next": {
     "title": "Desafios Comuns",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common"
+    "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/common"
   }
 }

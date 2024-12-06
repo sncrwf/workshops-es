@@ -6,7 +6,7 @@
   "source": "@site/labs/rpa/1-introduction.md",
   "sourceDirName": ".",
   "slug": "/introduction",
-  "permalink": "/workshops-es/labs/rpa/introduction",
+  "permalink": "/workshops/labs/rpa/introduction",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,6 +22,6 @@
   "sidebar": "rpa",
   "next": {
     "title": "2. Revisar Aplicativo",
-    "permalink": "/workshops-es/labs/rpa/review-app"
+    "permalink": "/workshops/labs/rpa/review-app"
   }
 }

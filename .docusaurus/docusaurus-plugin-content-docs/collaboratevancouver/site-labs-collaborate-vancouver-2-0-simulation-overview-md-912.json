@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/2.0-simulation/overview.md",
   "sourceDirName": "2.0-simulation",
   "slug": "/2.0-simulation/overview",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/overview",
+  "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Implementação Completa",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete"
   },
   "next": {
     "title": "1. Requisição de Intake",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/intake"
   }
 }

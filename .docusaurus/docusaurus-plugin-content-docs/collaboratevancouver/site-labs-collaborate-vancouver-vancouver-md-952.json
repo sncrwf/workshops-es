@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/vancouver.md",
   "sourceDirName": ".",
   "slug": "/vancouver",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/vancouver",
+  "permalink": "/workshops/labs/collaborate-vancouver/vancouver",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   "sidebar": "labaemc",
   "next": {
     "title": "Introdução",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro"
+    "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/intro"
   }
 }

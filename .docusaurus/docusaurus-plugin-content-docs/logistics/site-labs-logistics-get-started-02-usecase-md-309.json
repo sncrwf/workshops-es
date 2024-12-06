@@ -6,7 +6,7 @@
   "source": "@site/labs/logistics/get_started/02-usecase.md",
   "sourceDirName": "get_started",
   "slug": "/get_started/usecase",
-  "permalink": "/workshops-es/labs/logistics/get_started/usecase",
+  "permalink": "/workshops/labs/logistics/get_started/usecase",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "logistics",
   "previous": {
     "title": "Goals",
-    "permalink": "/workshops-es/labs/logistics/get_started/goals"
+    "permalink": "/workshops/labs/logistics/get_started/goals"
   },
   "next": {
     "title": "Setup",
-    "permalink": "/workshops-es/labs/logistics/get_started/setup"
+    "permalink": "/workshops/labs/logistics/get_started/setup"
   }
 }

@@ -16,25 +16,25 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/workshops-es/labs/logistics/get_started/overview",
+            "href": "/workshops/labs/logistics/get_started/overview",
             "docId": "get_started/overview"
           },
           {
             "type": "link",
             "label": "Goals",
-            "href": "/workshops-es/labs/logistics/get_started/goals",
+            "href": "/workshops/labs/logistics/get_started/goals",
             "docId": "get_started/goals"
           },
           {
             "type": "link",
             "label": "Use Case",
-            "href": "/workshops-es/labs/logistics/get_started/usecase",
+            "href": "/workshops/labs/logistics/get_started/usecase",
             "docId": "get_started/usecase"
           },
           {
             "type": "link",
             "label": "Setup",
-            "href": "/workshops-es/labs/logistics/get_started/setup",
+            "href": "/workshops/labs/logistics/get_started/setup",
             "docId": "get_started/setup"
           }
         ],
@@ -48,25 +48,25 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/workshops-es/labs/logistics/build_an_app/overview",
+            "href": "/workshops/labs/logistics/build_an_app/overview",
             "docId": "build_an_app/overview"
           },
           {
             "type": "link",
             "label": "App Framework",
-            "href": "/workshops-es/labs/logistics/build_an_app/section1",
+            "href": "/workshops/labs/logistics/build_an_app/section1",
             "docId": "build_an_app/section1"
           },
           {
             "type": "link",
             "label": "Create Data",
-            "href": "/workshops-es/labs/logistics/build_an_app/section2",
+            "href": "/workshops/labs/logistics/build_an_app/section2",
             "docId": "build_an_app/section2"
           },
           {
             "type": "link",
             "label": "Purpose",
-            "href": "/workshops-es/labs/logistics/build_an_app/purpose",
+            "href": "/workshops/labs/logistics/build_an_app/purpose",
             "docId": "build_an_app/purpose"
           }
         ],

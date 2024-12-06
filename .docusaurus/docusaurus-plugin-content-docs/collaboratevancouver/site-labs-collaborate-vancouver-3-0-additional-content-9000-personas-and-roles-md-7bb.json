@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-personas-and-roles.md",
   "sourceDirName": "3.0-additional_content",
   "slug": "/3.0-additional_content/personas",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/personas",
+  "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/personas",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Tarefas Opcionais de Configuração",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/optional-tasks"
   },
   "next": {
     "title": "Preparar Ambientes",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/prepare-env"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/prepare-env"
   }
 }

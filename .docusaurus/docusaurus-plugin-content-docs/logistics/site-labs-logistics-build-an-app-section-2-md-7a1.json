@@ -6,7 +6,7 @@
   "source": "@site/labs/logistics/build_an_app/section2.md",
   "sourceDirName": "build_an_app",
   "slug": "/build_an_app/section2",
-  "permalink": "/workshops-es/labs/logistics/build_an_app/section2",
+  "permalink": "/workshops/labs/logistics/build_an_app/section2",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "logistics",
   "previous": {
     "title": "App Framework",
-    "permalink": "/workshops-es/labs/logistics/build_an_app/section1"
+    "permalink": "/workshops/labs/logistics/build_an_app/section1"
   },
   "next": {
     "title": "Purpose",
-    "permalink": "/workshops-es/labs/logistics/build_an_app/purpose"
+    "permalink": "/workshops/labs/logistics/build_an_app/purpose"
   }
 }

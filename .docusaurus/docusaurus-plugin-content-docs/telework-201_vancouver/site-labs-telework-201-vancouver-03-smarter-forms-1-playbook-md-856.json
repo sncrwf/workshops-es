@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/03-Smarter-Forms/1-Playbook.md",
   "sourceDirName": "03-Smarter-Forms",
   "slug": "/Smarter-Forms/Playbook",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook",
+  "permalink": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Playbook",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "3. Modificar Fluxo de Aprovação de Caso de Teletrabalho",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow"
+    "permalink": "/workshops/labs/telework-201_vancouver/Flow/Modify-Main-Flow"
   },
   "next": {
     "title": "2. Record Producer",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer"
+    "permalink": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Record-Producer"
   }
 }

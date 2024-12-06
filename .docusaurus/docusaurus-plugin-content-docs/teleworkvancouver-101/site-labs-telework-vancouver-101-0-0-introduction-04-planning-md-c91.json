@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/0.0-introduction/04-Planning.md",
   "sourceDirName": "0.0-introduction",
   "slug": "/0.0-introduction/planning",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/planning",
+  "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/planning",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "3. Caso de Uso",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/use-case"
+    "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/use-case"
   },
   "next": {
     "title": "5. Lista de Verificação para Decolagem 🚀",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/takeoff"
+    "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/takeoff"
   }
 }

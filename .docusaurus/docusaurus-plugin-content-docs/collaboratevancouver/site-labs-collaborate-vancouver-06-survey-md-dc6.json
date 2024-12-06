@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/06-Survey.md",
   "sourceDirName": ".",
   "slug": "/Survey",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/Survey",
+  "permalink": "/workshops/labs/collaborate-vancouver/Survey",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf"
+    "permalink": "/workshops/labs/collaborate-vancouver/lab-guide-pdf"
   }
 }

@@ -1,517 +1,661 @@
 {
-  "/workshops-es/__docusaurus/debug-89c": {
+  "/workshops/__docusaurus/debug-249": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---workshops-es-docusaurus-debuge-2-a-237"
+      "plugin": "plugin---workshops-docusaurus-debuge-2-a-bd1"
     }
   },
-  "/workshops-es/__docusaurus/debug/config-029": {
+  "/workshops/__docusaurus/debug/config-c25": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---workshops-es-docusaurus-debuge-2-a-237"
+      "plugin": "plugin---workshops-docusaurus-debuge-2-a-bd1"
     }
   },
-  "/workshops-es/__docusaurus/debug/content-611": {
+  "/workshops/__docusaurus/debug/content-a38": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---workshops-es-docusaurus-debuge-2-a-237"
+      "plugin": "plugin---workshops-docusaurus-debuge-2-a-bd1"
     },
-    "allContent": "allContent---workshops-es-docusaurus-debug-content-246-0df"
+    "allContent": "allContent---workshops-docusaurus-debug-content-246-b18"
   },
-  "/workshops-es/__docusaurus/debug/globalData-bdd": {
+  "/workshops/__docusaurus/debug/globalData-8a5": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---workshops-es-docusaurus-debuge-2-a-237"
+      "plugin": "plugin---workshops-docusaurus-debuge-2-a-bd1"
     }
   },
-  "/workshops-es/__docusaurus/debug/metadata-94b": {
+  "/workshops/__docusaurus/debug/metadata-860": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---workshops-es-docusaurus-debuge-2-a-237"
+      "plugin": "plugin---workshops-docusaurus-debuge-2-a-bd1"
     }
   },
-  "/workshops-es/__docusaurus/debug/registry-001": {
+  "/workshops/__docusaurus/debug/registry-0a9": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---workshops-es-docusaurus-debuge-2-a-237"
+      "plugin": "plugin---workshops-docusaurus-debuge-2-a-bd1"
     }
   },
-  "/workshops-es/__docusaurus/debug/routes-033": {
+  "/workshops/__docusaurus/debug/routes-af6": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---workshops-es-docusaurus-debuge-2-a-237"
+      "plugin": "plugin---workshops-docusaurus-debuge-2-a-bd1"
     }
   },
-  "/workshops-es/labs/collaborate-vancouver/tags-58d": {
+  "/workshops/labs/collaborate-vancouver/tags-05c": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-collaborate-vancouver-tags-2-c-8-881"
+      "plugin": "plugin---workshops-labs-collaborate-vancouver-tags-2-c-8-4ee"
     },
-    "tags": "tags---workshops-es-labs-collaborate-vancouver-tags-350-209"
+    "tags": "tags---workshops-labs-collaborate-vancouver-tags-350-eb6"
   },
-  "/workshops-es/labs/collaborate-vancouver/tags/dicas-803": {
+  "/workshops/labs/collaborate-vancouver/tags/dicas-b36": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-collaborate-vancouver-tags-2-c-8-881"
+      "plugin": "plugin---workshops-labs-collaborate-vancouver-tags-2-c-8-4ee"
     },
-    "tag": "tag---workshops-es-labs-collaborate-vancouver-tags-dicas-2-fd-589"
+    "tag": "tag---workshops-labs-collaborate-vancouver-tags-dicas-70-c-597"
   },
-  "/workshops-es/search-441": {
+  "/workshops/search-f02": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "plugin---workshops-es-search-410-52f"
+      "plugin": "plugin---workshops-search-410-dd8"
     }
   },
-  "/workshops-es/labs/collaborate-vancouver-ef9": {
+  "/workshops/labs/collaborate-vancouver-fb5": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-collaborate-vancouver-tags-2-c-8-881"
+      "plugin": "plugin---workshops-labs-collaborate-vancouver-tags-2-c-8-4ee"
     },
-    "versionMetadata": "versionMetadata---workshops-es-labs-collaborate-vancouver-9-c-7-b19"
+    "versionMetadata": "versionMetadata---workshops-labs-collaborate-vancouver-9-c-7-cfa"
   },
-  "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common-371": {
+  "/workshops/labs/collaborate-vancouver/0.0-get_started/common-57c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-0-0-get-started-commonf-87-8d8"
+    "content": "content---workshops-labs-collaborate-vancouver-0-0-get-started-commonf-87-99f"
   },
-  "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro-aec": {
+  "/workshops/labs/collaborate-vancouver/0.0-get_started/intro-43c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-0-0-get-started-intro-0-d-2-0d7"
+    "content": "content---workshops-labs-collaborate-vancouver-0-0-get-started-intro-0-d-2-2a7"
   },
-  "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure-cea": {
+  "/workshops/labs/collaborate-vancouver/0.0-get_started/lab-structure-041": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-0-0-get-started-lab-structure-596-677"
+    "content": "content---workshops-labs-collaborate-vancouver-0-0-get-started-lab-structure-596-e85"
   },
-  "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions-2e6": {
+  "/workshops/labs/collaborate-vancouver/0.0-get_started/solutions-aff": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-0-0-get-started-solutions-811-7b8"
+    "content": "content---workshops-labs-collaborate-vancouver-0-0-get-started-solutions-811-8c3"
   },
-  "/workshops-es/labs/collaborate-vancouver/0.0-get_started/tips-3ff": {
+  "/workshops/labs/collaborate-vancouver/0.0-get_started/tips-fda": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-0-0-get-started-tips-244-1dc"
+    "content": "content---workshops-labs-collaborate-vancouver-0-0-get-started-tips-244-61e"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group-bea": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group-dd4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-1-prod-admins-group-938-d17"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-1-prod-admins-group-938-1dc"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete-0f7": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete-3f2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-1-prod-completeda-1-095"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-1-prod-completeda-1-c9c"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential-37f": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential-f5e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-1-prod-credential-59-a-95b"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-1-prod-credential-59-a-2ed"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments-643": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments-029": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-1-prod-environments-0-fd-6fc"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-1-prod-environments-0-fd-c16"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake-dd5": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake-f01": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-1-prod-intakea-02-3c7"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-1-prod-intakea-02-1cc"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline-7a8": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline-725": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-1-prod-pipelineae-6-7b4"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-1-prod-pipelineae-6-ff9"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning-245": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning-125": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-1-prod-user-provisioninged-3-d52"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-1-prod-user-provisioninged-3-f8b"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration-284": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration-bba": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-2-dev-collaboration-710-4f1"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-2-dev-collaboration-710-3c4"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete-a7c": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete-ca2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-2-dev-complete-09-a-627"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-2-dev-complete-09-a-c84"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential-865": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential-9ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-2-dev-credential-630-f03"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-2-dev-credential-630-128"
   },
-  "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment-5e3": {
+  "/workshops/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment-d94": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-1-0-implementation-1-2-dev-environmentb-4-b-556"
+    "content": "content---workshops-labs-collaborate-vancouver-1-0-implementation-1-2-dev-environmentb-4-b-b9c"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-0c8": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-08e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-build-app-from-templateb-61-d48"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-build-app-from-templateb-61-34b"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2-3ee": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2-a6b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-build-app-from-template-v-2-bfe-b06"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-build-app-from-template-v-2-bfe-06a"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval-924": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-approval-a4f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-collaboration-approval-97-a-f76"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-collaboration-approval-97-a-c7d"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request-008": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-request-848": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-collaboration-request-1-d-5-9d6"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-collaboration-request-1-d-5-ebd"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/configure-integration-d86": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/configure-integration-b31": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-configure-integratione-1-b-a3b"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-configure-integratione-1-b-52b"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-approval-ee2": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/deployment-approval-97c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-deployment-approval-6-f-9-9f2"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-deployment-approval-6-f-9-b8a"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-request-b59": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/deployment-request-17c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-deployment-request-97-d-d79"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-deployment-request-97-d-ff1"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-ff4": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/intake-b7f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-intaked-64-630"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-intaked-64-4be"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-approval-368": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/intake-approval-c40": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-intake-approval-0-b-0-cb9"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-intake-approval-0-b-0-b42"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/lab-complete-63b": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/lab-complete-0d5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-lab-completefd-2-93e"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-lab-completefd-2-7ac"
   },
-  "/workshops-es/labs/collaborate-vancouver/2.0-simulation/overview-f52": {
+  "/workshops/labs/collaborate-vancouver/2.0-simulation/overview-28b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-2-0-simulation-overview-912-d79"
+    "content": "content---workshops-labs-collaborate-vancouver-2-0-simulation-overview-912-a0c"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/admin-guide-1b4": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/admin-guide-aa5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-admin-guide-365-956"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-admin-guide-365-93d"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/aes-vs-studio-ef7": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/aes-vs-studio-05f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-aes-vs-studiofc-8-c5e"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-aes-vs-studiofc-8-eda"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/cloning-9c7": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/cloning-d04": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-cloning-346-4a5"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-cloning-346-03f"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/docs-8f9": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/docs-f26": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-docsaf-7-a36"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-docsaf-7-944"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/faqs-425": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/faqs-80d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-faqs-55-f-e32"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-faqs-55-f-423"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs-4e1": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/install-reqs-c49": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-install-reqsc-00-847"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-install-reqsc-00-6db"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks-853": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/optional-tasks-64e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-optional-tasks-65-d-b35"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-optional-tasks-65-d-1b7"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/personas-9d8": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/personas-d64": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-personas-7-bb-b7b"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-personas-7-bb-e10"
   },
-  "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/prepare-env-cc4": {
+  "/workshops/labs/collaborate-vancouver/3.0-additional_content/prepare-env-9e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-3-0-additional-content-prepare-env-028-fa4"
+    "content": "content---workshops-labs-collaborate-vancouver-3-0-additional-content-prepare-env-028-93d"
   },
-  "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf-148": {
+  "/workshops/labs/collaborate-vancouver/lab-guide-pdf-1b4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-lab-guide-pdf-856-45a"
+    "content": "content---workshops-labs-collaborate-vancouver-lab-guide-pdf-856-235"
   },
-  "/workshops-es/labs/collaborate-vancouver/Survey-ec4": {
+  "/workshops/labs/collaborate-vancouver/Survey-a32": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-surveydc-6-703"
+    "content": "content---workshops-labs-collaborate-vancouver-surveydc-6-1a3"
   },
-  "/workshops-es/labs/collaborate-vancouver/vancouver-bdb": {
+  "/workshops/labs/collaborate-vancouver/vancouver-41b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-collaborate-vancouver-vancouver-952-4e7"
+    "content": "content---workshops-labs-collaborate-vancouver-vancouver-952-7a7"
   },
-  "/workshops-es/labs/docintel-441": {
+  "/workshops/labs/docintel-491": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-docintele-73-257"
+      "plugin": "plugin---workshops-labs-docintele-73-d78"
     },
-    "versionMetadata": "versionMetadata---workshops-es-labs-docintel-1-ae-a92"
+    "versionMetadata": "versionMetadata---workshops-labs-docintel-1-ae-54f"
   },
-  "/workshops-es/labs/docintel/configure-docintel/1-use-case-e38": {
+  "/workshops/labs/docintel/configure-docintel/1-use-case-1b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-configure-docintel-1-use-case-8-b-5-2f5"
+    "content": "content---workshops-labs-docintel-configure-docintel-1-use-case-8-b-5-bbd"
   },
-  "/workshops-es/labs/docintel/configure-docintel/2-flow-9ee": {
+  "/workshops/labs/docintel/configure-docintel/2-flow-478": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-configure-docintel-2-flowa-90-4de"
+    "content": "content---workshops-labs-docintel-configure-docintel-2-flowa-90-3cb"
   },
-  "/workshops-es/labs/docintel/configure-docintel/3-advanced-acd": {
+  "/workshops/labs/docintel/configure-docintel/3-advanced-c0d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-configure-docintel-3-advanced-302-6e3"
+    "content": "content---workshops-labs-docintel-configure-docintel-3-advanced-302-d1b"
   },
-  "/workshops-es/labs/docintel/design/1-locate-doc-7d8": {
+  "/workshops/labs/docintel/design/1-locate-doc-35f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-design-1-locate-doc-71-f-1bf"
+    "content": "content---workshops-labs-docintel-design-1-locate-doc-71-f-b6e"
   },
-  "/workshops-es/labs/docintel/design/2-explore-tables-bb5": {
+  "/workshops/labs/docintel/design/2-explore-tables-dfe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-design-2-explore-tables-792-9dd"
+    "content": "content---workshops-labs-docintel-design-2-explore-tables-792-3d0"
   },
-  "/workshops-es/labs/docintel/e2e/1-submit-3dc": {
+  "/workshops/labs/docintel/e2e/1-submit-408": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-e-2-e-1-submitb-50-64f"
+    "content": "content---workshops-labs-docintel-e-2-e-1-submitb-50-9e3"
   },
-  "/workshops-es/labs/docintel/e2e/2-autofill-ec1": {
+  "/workshops/labs/docintel/e2e/2-autofill-9e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-e-2-e-2-autofill-230-cad"
+    "content": "content---workshops-labs-docintel-e-2-e-2-autofill-230-7c8"
   },
-  "/workshops-es/labs/docintel/e2e/3-export-c1b": {
+  "/workshops/labs/docintel/e2e/3-export-31f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-e-2-e-3-exportb-83-90e"
+    "content": "content---workshops-labs-docintel-e-2-e-3-exportb-83-e8e"
   },
-  "/workshops-es/labs/docintel/introduction-837": {
+  "/workshops/labs/docintel/introduction-09d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-introduction-074-7e7"
+    "content": "content---workshops-labs-docintel-introduction-074-93e"
   },
-  "/workshops-es/labs/docintel/lab-guide-pdf-234": {
+  "/workshops/labs/docintel/lab-guide-pdf-3ff": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-lab-guide-pdf-35-c-dbb"
+    "content": "content---workshops-labs-docintel-lab-guide-pdf-35-c-1f0"
   },
-  "/workshops-es/labs/docintel/survey-6fc": {
+  "/workshops/labs/docintel/survey-ccc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-docintel-survey-383-f04"
+    "content": "content---workshops-labs-docintel-survey-383-09b"
   },
-  "/workshops-es/labs/logistics-54e": {
+  "/workshops/labs/logistics-283": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-logisticsce-0-305"
+      "plugin": "plugin---workshops-labs-logisticsce-0-a22"
     },
-    "versionMetadata": "versionMetadata---workshops-es-labs-logisticsaa-6-453"
+    "versionMetadata": "versionMetadata---workshops-labs-logisticsaa-6-d67"
   },
-  "/workshops-es/labs/logistics/build_an_app/overview-ddf": {
+  "/workshops/labs/logistics/build_an_app/overview-a16": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-build-an-app-overview-21-d-aa5"
+    "content": "content---workshops-labs-logistics-build-an-app-overview-21-d-142"
   },
-  "/workshops-es/labs/logistics/build_an_app/purpose-6d1": {
+  "/workshops/labs/logistics/build_an_app/purpose-6ef": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-build-an-app-purpose-62-c-f9e"
+    "content": "content---workshops-labs-logistics-build-an-app-purpose-62-c-18a"
   },
-  "/workshops-es/labs/logistics/build_an_app/section1-a6a": {
+  "/workshops/labs/logistics/build_an_app/section1-273": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-build-an-app-section-1956-78f"
+    "content": "content---workshops-labs-logistics-build-an-app-section-1956-19d"
   },
-  "/workshops-es/labs/logistics/build_an_app/section2-cd0": {
+  "/workshops/labs/logistics/build_an_app/section2-610": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-build-an-app-section-27-a-1-d6a"
+    "content": "content---workshops-labs-logistics-build-an-app-section-27-a-1-783"
   },
-  "/workshops-es/labs/logistics/get_started/goals-578": {
+  "/workshops/labs/logistics/get_started/goals-d77": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-get-started-goalsc-18-1ad"
+    "content": "content---workshops-labs-logistics-get-started-goalsc-18-8fe"
   },
-  "/workshops-es/labs/logistics/get_started/overview-502": {
+  "/workshops/labs/logistics/get_started/overview-f4d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-get-started-overview-06-a-a34"
+    "content": "content---workshops-labs-logistics-get-started-overview-06-a-9c9"
   },
-  "/workshops-es/labs/logistics/get_started/setup-c1a": {
+  "/workshops/labs/logistics/get_started/setup-78b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-get-started-setupaf-5-1d7"
+    "content": "content---workshops-labs-logistics-get-started-setupaf-5-cdd"
   },
-  "/workshops-es/labs/logistics/get_started/usecase-51f": {
+  "/workshops/labs/logistics/get_started/usecase-fe9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-get-started-usecase-309-1ec"
+    "content": "content---workshops-labs-logistics-get-started-usecase-309-c07"
   },
-  "/workshops-es/labs/logistics/utah-ce3": {
+  "/workshops/labs/logistics/utah-ada": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-logistics-utah-5-ed-cf9"
+    "content": "content---workshops-labs-logistics-utah-5-ed-88c"
   },
-  "/workshops-es/labs/rpa-916": {
+  "/workshops/labs/rpa-b8d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-rpa-8-d-7-a74"
+      "plugin": "plugin---workshops-labs-rpa-8-d-7-3b2"
     },
-    "versionMetadata": "versionMetadata---workshops-es-labs-rpa-744-caf"
+    "versionMetadata": "versionMetadata---workshops-labs-rpa-744-0ff"
   },
-  "/workshops-es/labs/rpa/finish-793": {
+  "/workshops/labs/rpa/finish-142": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-finish-91-e-af3"
+    "content": "content---workshops-labs-rpa-finish-91-e-977"
   },
-  "/workshops-es/labs/rpa/introduction-dca": {
+  "/workshops/labs/rpa/introduction-258": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-introductiona-8-c-5f6"
+    "content": "content---workshops-labs-rpa-introductiona-8-c-2ce"
   },
-  "/workshops-es/labs/rpa/lab-guide-pdf-ba4": {
+  "/workshops/labs/rpa/lab-guide-pdf-455": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-lab-guide-pdfa-29-fa5"
+    "content": "content---workshops-labs-rpa-lab-guide-pdfa-29-778"
   },
-  "/workshops-es/labs/rpa/review-app-115": {
+  "/workshops/labs/rpa/review-app-582": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-review-app-2-af-7a5"
+    "content": "content---workshops-labs-rpa-review-app-2-af-0d8"
   },
-  "/workshops-es/labs/rpa/rpa-design-282": {
+  "/workshops/labs/rpa/rpa-design-867": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-rpa-design-651-abe"
+    "content": "content---workshops-labs-rpa-rpa-design-651-0bd"
   },
-  "/workshops-es/labs/rpa/rpa-hub-664": {
+  "/workshops/labs/rpa/rpa-hub-822": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-rpa-hub-5-ac-930"
+    "content": "content---workshops-labs-rpa-rpa-hub-5-ac-a79"
   },
-  "/workshops-es/labs/rpa/survey-fe3": {
+  "/workshops/labs/rpa/survey-893": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-survey-4-c-2-dae"
+    "content": "content---workshops-labs-rpa-survey-4-c-2-4aa"
   },
-  "/workshops-es/labs/rpa/vm-connect-d81": {
+  "/workshops/labs/rpa/vm-connect-506": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-rpa-vm-connect-338-442"
+    "content": "content---workshops-labs-rpa-vm-connect-338-c2a"
   },
-  "/workshops-es/labs/spokegen-e6d": {
+  "/workshops/labs/spokegen-509": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-spokegen-503-540"
+      "plugin": "plugin---workshops-labs-spokegen-503-af3"
     },
-    "versionMetadata": "versionMetadata---workshops-es-labs-spokegenf-99-8aa"
+    "versionMetadata": "versionMetadata---workshops-labs-spokegenf-99-c43"
   },
-  "/workshops-es/labs/spokegen/create-the-spoke-04a": {
+  "/workshops/labs/spokegen/create-the-spoke-b88": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-create-the-spokeca-8-264"
+    "content": "content---workshops-labs-spokegen-create-the-spokeca-8-28c"
   },
-  "/workshops-es/labs/spokegen/lab-guide-pdf-242": {
+  "/workshops/labs/spokegen/lab-guide-pdf-0be": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-lab-guide-pdfd-7-e-525"
+    "content": "content---workshops-labs-spokegen-lab-guide-pdfd-7-e-662"
   },
-  "/workshops-es/labs/spokegen/optional-lab-section-1-704": {
+  "/workshops/labs/spokegen/optional-lab-section-1-5a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-optional-lab-section-1-a-5-e-f02"
+    "content": "content---workshops-labs-spokegen-optional-lab-section-1-a-5-e-7ab"
   },
-  "/workshops-es/labs/spokegen/optional-lab-section-2-f9f": {
+  "/workshops/labs/spokegen/optional-lab-section-2-9af": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-optional-lab-section-2-d-78-402"
+    "content": "content---workshops-labs-spokegen-optional-lab-section-2-d-78-f47"
   },
-  "/workshops-es/labs/spokegen/overview-826": {
+  "/workshops/labs/spokegen/overview-09b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-overview-19-e-f3c"
+    "content": "content---workshops-labs-spokegen-overview-19-e-86a"
   },
-  "/workshops-es/labs/spokegen/Survey-e3e": {
+  "/workshops/labs/spokegen/Survey-629": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-survey-43-f-ab9"
+    "content": "content---workshops-labs-spokegen-survey-43-f-367"
   },
-  "/workshops-es/labs/spokegen/test-the-spoke-46a": {
+  "/workshops/labs/spokegen/test-the-spoke-9ff": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-test-the-spoke-33-b-908"
+    "content": "content---workshops-labs-spokegen-test-the-spoke-33-b-67c"
   },
-  "/workshops-es/labs/spokegen/use-case-7a1": {
+  "/workshops/labs/spokegen/use-case-e85": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-use-cased-2-c-f0f"
+    "content": "content---workshops-labs-spokegen-use-cased-2-c-59a"
   },
-  "/workshops-es/labs/spokegen/use-spoke-in-a-flow-39b": {
+  "/workshops/labs/spokegen/use-spoke-in-a-flow-96d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-use-spoke-in-a-flow-51-a-4c5"
+    "content": "content---workshops-labs-spokegen-use-spoke-in-a-flow-51-a-327"
   },
-  "/workshops-es/labs/spokegen/vancouver-a7a": {
+  "/workshops/labs/spokegen/vancouver-a41": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-spokegen-vancouver-9-a-2-252"
+    "content": "content---workshops-labs-spokegen-vancouver-9-a-2-542"
   },
-  "/workshops-es/labs/telework-201_vancouver-e19": {
+  "/workshops/labs/telework-201_vancouver-ce1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-telework-201-vancouver-630-0b6"
+      "plugin": "plugin---workshops-labs-telework-201-vancouver-630-f74"
     },
-    "versionMetadata": "versionMetadata---workshops-es-labs-telework-201-vancouver-2-d-9-62a"
+    "versionMetadata": "versionMetadata---workshops-labs-telework-201-vancouver-2-d-9-bb2"
   },
-  "/workshops-es/labs/telework-201_vancouver/CHANGELOG-8c5": {
+  "/workshops/labs/telework-201_vancouver/CHANGELOG-11e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-changelog-121-165"
+    "content": "content---workshops-labs-telework-201-vancouver-changelog-121-ec1"
   },
-  "/workshops-es/labs/telework-201_vancouver/Conclusion-7a6": {
+  "/workshops/labs/telework-201_vancouver/Conclusion-ff8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-conclusion-7-cc-9c8"
+    "content": "content---workshops-labs-telework-201-vancouver-conclusion-7-cc-328"
   },
-  "/workshops-es/labs/telework-201_vancouver/Flow-303": {
+  "/workshops/labs/telework-201_vancouver/Flow-24a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-flowfbf-b6c"
+    "content": "content---workshops-labs-telework-201-vancouver-flowfbf-f2b"
   },
-  "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table-3ad": {
+  "/workshops/labs/telework-201_vancouver/Flow/Create-Decision-Table-3b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-flow-create-decision-tabled-4-c-a36"
+    "content": "content---workshops-labs-telework-201-vancouver-flow-create-decision-tabled-4-c-9e4"
   },
-  "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke-cd9": {
+  "/workshops/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke-58f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-flow-create-people-finder-spoke-183-6a7"
+    "content": "content---workshops-labs-telework-201-vancouver-flow-create-people-finder-spoke-183-34d"
   },
-  "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow-b04": {
+  "/workshops/labs/telework-201_vancouver/Flow/Modify-Main-Flow-04d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-flow-modify-main-flow-513-993"
+    "content": "content---workshops-labs-telework-201-vancouver-flow-modify-main-flow-513-249"
   },
-  "/workshops-es/labs/telework-201_vancouver/Governance-a4e": {
+  "/workshops/labs/telework-201_vancouver/Governance-c4f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-governance-9-c-4-a51"
+    "content": "content---workshops-labs-telework-201-vancouver-governance-9-c-4-623"
   },
-  "/workshops-es/labs/telework-201_vancouver/Governance/Securely-Expand-1ab": {
+  "/workshops/labs/telework-201_vancouver/Governance/Securely-Expand-c3c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-governance-securely-expand-233-262"
+    "content": "content---workshops-labs-telework-201-vancouver-governance-securely-expand-233-f9b"
   },
-  "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App-ac5": {
+  "/workshops/labs/telework-201_vancouver/Introduction/Import-App-3f9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-introduction-import-appc-0-f-fd6"
+    "content": "content---workshops-labs-telework-201-vancouver-introduction-import-appc-0-f-2b2"
   },
-  "/workshops-es/labs/telework-201_vancouver/Introduction/Overview-fa7": {
+  "/workshops/labs/telework-201_vancouver/Introduction/Overview-d8b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-introduction-overviewdd-7-f8f"
+    "content": "content---workshops-labs-telework-201-vancouver-introduction-overviewdd-7-df5"
   },
-  "/workshops-es/labs/telework-201_vancouver/Introduction/takeoff-07c": {
+  "/workshops/labs/telework-201_vancouver/Introduction/takeoff-2a4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-introduction-takeoff-335-a8f"
+    "content": "content---workshops-labs-telework-201-vancouver-introduction-takeoff-335-c35"
   },
-  "/workshops-es/labs/telework-201_vancouver/Introduction/vancouver-6c8": {
+  "/workshops/labs/telework-201_vancouver/Introduction/vancouver-b20": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-introduction-vancouvere-1-a-45d"
+    "content": "content---workshops-labs-telework-201-vancouver-introduction-vancouvere-1-a-bca"
   },
-  "/workshops-es/labs/telework-201_vancouver/lab-guide-pdf-8c2": {
+  "/workshops/labs/telework-201_vancouver/lab-guide-pdf-e65": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-lab-guide-pdf-374-3c5"
+    "content": "content---workshops-labs-telework-201-vancouver-lab-guide-pdf-374-258"
   },
-  "/workshops-es/labs/telework-201_vancouver/Portal-aa4": {
+  "/workshops/labs/telework-201_vancouver/Portal-8f8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-portalf-2-d-d58"
+    "content": "content---workshops-labs-telework-201-vancouver-portalf-2-d-922"
   },
-  "/workshops-es/labs/telework-201_vancouver/Portal/3.1 Branding-fef": {
+  "/workshops/labs/telework-201_vancouver/Portal/3.1 Branding-f19": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-portal-3-1-brandinge-36-781"
+    "content": "content---workshops-labs-telework-201-vancouver-portal-3-1-brandinge-36-4b4"
   },
-  "/workshops-es/labs/telework-201_vancouver/Portal/3.2 Add a Widget-187": {
+  "/workshops/labs/telework-201_vancouver/Portal/3.2 Add a Widget-a17": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-portal-3-2-add-a-widget-3-c-4-81f"
+    "content": "content---workshops-labs-telework-201-vancouver-portal-3-2-add-a-widget-3-c-4-b08"
   },
-  "/workshops-es/labs/telework-201_vancouver/Portal/3.3 Create a Widget-fc5": {
+  "/workshops/labs/telework-201_vancouver/Portal/3.3 Create a Widget-d08": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-portal-3-3-create-a-widget-3-df-c77"
+    "content": "content---workshops-labs-telework-201-vancouver-portal-3-3-create-a-widget-3-df-af4"
   },
-  "/workshops-es/labs/telework-201_vancouver/Smarter-Forms-9fb": {
+  "/workshops/labs/telework-201_vancouver/Smarter-Forms-0b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-smarter-formsa-29-cab"
+    "content": "content---workshops-labs-telework-201-vancouver-smarter-formsa-29-d66"
   },
-  "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook-afb": {
+  "/workshops/labs/telework-201_vancouver/Smarter-Forms/Playbook-738": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-smarter-forms-playbook-856-2d5"
+    "content": "content---workshops-labs-telework-201-vancouver-smarter-forms-playbook-856-f66"
   },
-  "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer-551": {
+  "/workshops/labs/telework-201_vancouver/Smarter-Forms/Record-Producer-bde": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-smarter-forms-record-produceraa-1-f20"
+    "content": "content---workshops-labs-telework-201-vancouver-smarter-forms-record-produceraa-1-d26"
   },
-  "/workshops-es/labs/telework-201_vancouver/Survey-122": {
+  "/workshops/labs/telework-201_vancouver/Survey-744": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-telework-201-vancouver-survey-0-b-9-df0"
+    "content": "content---workshops-labs-telework-201-vancouver-survey-0-b-9-8c6"
   },
-  "/workshops-es/labs/underconstruction-07f": {
+  "/workshops/labs/telework-vancouver-101-404": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---workshops-es-labs-underconstructionbf-2-de9"
+      "plugin": "plugin---workshops-labs-telework-vancouver-101-f-21-db1"
     },
-    "versionMetadata": "versionMetadata---workshops-es-labs-underconstructiondb-0-de8"
+    "versionMetadata": "versionMetadata---workshops-labs-telework-vancouver-101976-0de"
   },
-  "/workshops-es/labs/underconstruction/underconstruction-640": {
+  "/workshops/labs/telework-vancouver-101/0.0-introduction/app-engine-overview-de5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---workshops-es-labs-underconstruction-underconstructiondd-2-fc7"
+    "content": "content---workshops-labs-telework-vancouver-101-0-0-introduction-app-engine-overviewce-2-21d"
   },
-  "/workshops-es/-fc7": {
+  "/workshops/labs/telework-vancouver-101/0.0-introduction/lab-goals-3b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-0-0-introduction-lab-goals-7-eb-f93"
+  },
+  "/workshops/labs/telework-vancouver-101/0.0-introduction/planning-7eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-0-0-introduction-planningc-91-e68"
+  },
+  "/workshops/labs/telework-vancouver-101/0.0-introduction/takeoff-d49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-0-0-introduction-takeoff-640-2bc"
+  },
+  "/workshops/labs/telework-vancouver-101/0.0-introduction/use-case-32e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-0-0-introduction-use-case-1-b-7-b09"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form-8ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-configure-telework-form-24-e-623"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-app-a4b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-create-app-3-ec-9cb"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-telework-case-table-353": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-create-telework-case-table-67-c-19e"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/import-data-2c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-import-databe-7-687"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview-ea8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-overviewadb-e49"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-adf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-review-99-c-c08"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data-dbe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-review-input-data-681-9b1"
+  },
+  "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/table-builder-data-2fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-1-0-build-the-foundation-table-builder-data-82-a-274"
+  },
+  "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/configure-record-producer-224": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-2-0-the-user-experience-configure-record-producer-558-517"
+  },
+  "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer-3cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-2-0-the-user-experience-create-record-producer-740-1f0"
+  },
+  "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/overview-75c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-2-0-the-user-experience-overview-742-119"
+  },
+  "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes-4fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-2-0-the-user-experience-preview-in-aes-5-b-6-3f9"
+  },
+  "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal-488": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-2-0-the-user-experience-preview-in-portal-1-c-2-d26"
+  },
+  "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/review-723": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-2-0-the-user-experience-review-021-053"
+  },
+  "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow-f71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-3-0-automate-work-create-workflowc-0-f-926"
+  },
+  "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/overview-772": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-3-0-automate-work-overview-9-e-0-1db"
+  },
+  "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/review-0c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-3-0-automate-work-review-13-d-514"
+  },
+  "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow-a24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-3-0-automate-work-test-workflow-26-a-246"
+  },
+  "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard-96f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-4-0-manage-work-configure-dashboard-360-be5"
+  },
+  "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists-36c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-4-0-manage-work-configure-lists-6-a-6-f02"
+  },
+  "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/create-429": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-4-0-manage-work-createf-30-689"
+  },
+  "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/overview-140": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-4-0-manage-work-overviewdad-9b4"
+  },
+  "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/review-135": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-4-0-manage-work-review-1-b-6-3fe"
+  },
+  "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/use-dca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-4-0-manage-work-useab-3-5bb"
+  },
+  "/workshops/labs/telework-vancouver-101/5.0-conclusion/appendix-334": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-5-0-conclusion-appendix-434-6d5"
+  },
+  "/workshops/labs/telework-vancouver-101/5.0-conclusion/lab-review-c2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-5-0-conclusion-lab-review-166-959"
+  },
+  "/workshops/labs/telework-vancouver-101/5.0-conclusion/resources-c67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-5-0-conclusion-resources-62-a-a27"
+  },
+  "/workshops/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke-5d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-6-0-bonus-create-people-finder-spoke-823-90e"
+  },
+  "/workshops/labs/telework-vancouver-101/CHANGELOG-4e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-changelo-gca-5-1aa"
+  },
+  "/workshops/labs/telework-vancouver-101/lab-guide-pdf-8d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-lab-guide-pdfb-95-2d0"
+  },
+  "/workshops/labs/telework-vancouver-101/Survey-0e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-surveyf-17-006"
+  },
+  "/workshops/labs/telework-vancouver-101/vancouver-9b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---workshops-labs-telework-vancouver-101-vancouver-1-ed-2b6"
+  },
+  "/workshops/-c86": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---workshops-es-7-b-3-abc"
+      "plugin": "plugin---workshops-7-b-3-5a2"
     },
-    "config": "config---workshops-es-5-e-9-f07"
+    "config": "config---workshops-5-e-9-e24"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/rpa/2-review-app.md",
   "sourceDirName": ".",
   "slug": "/review-app",
-  "permalink": "/workshops-es/labs/rpa/review-app",
+  "permalink": "/workshops/labs/rpa/review-app",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "rpa",
   "previous": {
     "title": "1. Introdução",
-    "permalink": "/workshops-es/labs/rpa/introduction"
+    "permalink": "/workshops/labs/rpa/introduction"
   },
   "next": {
     "title": "3. RPA Hub Workspace",
-    "permalink": "/workshops-es/labs/rpa/rpa-hub"
+    "permalink": "/workshops/labs/rpa/rpa-hub"
   }
 }

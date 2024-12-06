@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/2-use-case.md",
   "sourceDirName": ".",
   "slug": "/use-case",
-  "permalink": "/workshops-es/labs/spokegen/use-case",
+  "permalink": "/workshops/labs/spokegen/use-case",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "spokegen",
   "previous": {
     "title": "Visão Geral",
-    "permalink": "/workshops-es/labs/spokegen/overview"
+    "permalink": "/workshops/labs/spokegen/overview"
   },
   "next": {
     "title": "Criar o Spoke",
-    "permalink": "/workshops-es/labs/spokegen/create-the-spoke"
+    "permalink": "/workshops/labs/spokegen/create-the-spoke"
   }
 }

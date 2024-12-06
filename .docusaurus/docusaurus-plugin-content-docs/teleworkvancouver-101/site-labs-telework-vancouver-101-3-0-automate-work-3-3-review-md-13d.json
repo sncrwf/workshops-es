@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/3.0-Automate-Work/3.3-review.md",
   "sourceDirName": "3.0-Automate-Work",
   "slug": "/3.0-Automate-Work/review",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/review",
+  "permalink": "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/review",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "3.2 Testar o Fluxo",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow"
+    "permalink": "/workshops/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow"
   },
   "next": {
     "title": "4. Gerenciar trabalho: Visão Geral",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview"
+    "permalink": "/workshops/labs/telework-vancouver-101/4.0-Manage-Work/overview"
   }
 }

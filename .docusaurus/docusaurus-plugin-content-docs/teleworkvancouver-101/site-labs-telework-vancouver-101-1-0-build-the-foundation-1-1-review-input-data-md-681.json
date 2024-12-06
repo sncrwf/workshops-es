@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/1.0-Build-the-Foundation/1.1-review-input-data.md",
   "sourceDirName": "1.0-Build-the-Foundation",
   "slug": "/1.0-Build-the-Foundation/review-input-data",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data",
+  "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "1. Construir a Fundação: Visão Geral",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview"
   },
   "next": {
     "title": "1.2 Criar o Aplicativo",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-app"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-app"
   }
 }

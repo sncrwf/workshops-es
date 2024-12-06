@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/CHANGELOG.md",
   "sourceDirName": ".",
   "slug": "/CHANGELOG",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/CHANGELOG",
+  "permalink": "/workshops/labs/telework-vancouver-101/CHANGELOG",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "1. Criar People Finder Spoke",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke"
+    "permalink": "/workshops/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke"
   },
   "next": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/lab-guide-pdf"
+    "permalink": "/workshops/labs/telework-vancouver-101/lab-guide-pdf"
   }
 }

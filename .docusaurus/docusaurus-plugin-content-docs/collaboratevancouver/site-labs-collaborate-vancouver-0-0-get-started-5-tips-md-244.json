@@ -6,12 +6,12 @@
   "source": "@site/labs/collaborate-vancouver/0.0-get_started/5-tips.md",
   "sourceDirName": "0.0-get_started",
   "slug": "/0.0-get_started/tips",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/tips",
+  "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/tips",
   "draft": false,
   "tags": [
     {
       "label": "dicas",
-      "permalink": "/workshops-es/labs/collaborate-vancouver/tags/dicas"
+      "permalink": "/workshops/labs/collaborate-vancouver/tags/dicas"
     }
   ],
   "version": "current",
@@ -28,10 +28,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Estrutura do Laboratório",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure"
+    "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/lab-structure"
   },
   "next": {
     "title": "1. Credenciais",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential"
   }
 }

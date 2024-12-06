@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/lab-guide-pdf.md",
   "sourceDirName": ".",
   "slug": "/lab-guide-pdf",
-  "permalink": "/workshops-es/labs/spokegen/lab-guide-pdf",
+  "permalink": "/workshops/labs/spokegen/lab-guide-pdf",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "spokegen",
   "previous": {
     "title": "Laboratório Opcional: Seção 2",
-    "permalink": "/workshops-es/labs/spokegen/optional-lab-section-2"
+    "permalink": "/workshops/labs/spokegen/optional-lab-section-2"
   },
   "next": {
     "title": "Pesquisa",
-    "permalink": "/workshops-es/labs/spokegen/Survey"
+    "permalink": "/workshops/labs/spokegen/Survey"
   }
 }

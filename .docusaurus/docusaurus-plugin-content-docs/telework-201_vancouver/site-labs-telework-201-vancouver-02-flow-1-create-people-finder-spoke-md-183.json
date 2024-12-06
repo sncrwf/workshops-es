@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/02-Flow/1-Create-People-Finder-Spoke.md",
   "sourceDirName": "02-Flow",
   "slug": "/Flow/Create-People-Finder-Spoke",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke",
+  "permalink": "/workshops/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "3. Importar o aplicativo",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App"
+    "permalink": "/workshops/labs/telework-201_vancouver/Introduction/Import-App"
   },
   "next": {
     "title": "2. Criar Tabela de Decisão",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table"
+    "permalink": "/workshops/labs/telework-201_vancouver/Flow/Create-Decision-Table"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/2.0-The-User-Experience/2.0-Overview.md",
   "sourceDirName": "2.0-The-User-Experience",
   "slug": "/2.0-The-User-Experience/overview",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/overview",
+  "permalink": "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -21,10 +21,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "Revisão",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/review"
   },
   "next": {
     "title": "2.1 Criar o Formulário de Solicitação",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer"
+    "permalink": "/workshops/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer"
   }
 }

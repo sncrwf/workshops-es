@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.1-prod/3-prod-pipeline.md",
   "sourceDirName": "1.0-implementation/1.1-prod",
   "slug": "/1.0-implementation/1.1-prod/pipeline",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline",
+  "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "2. Ambientes",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments"
   },
   "next": {
     "title": "4. Provisionamento de Usuários",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning"
+    "permalink": "/workshops/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-product-docs.md",
   "sourceDirName": "3.0-additional_content",
   "slug": "/3.0-additional_content/docs",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/docs",
+  "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/docs",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Preparar Ambientes",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/prepare-env"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/prepare-env"
   },
   "next": {
     "title": "Guia do Administrador - App Engine",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/admin-guide"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/admin-guide"
   }
 }

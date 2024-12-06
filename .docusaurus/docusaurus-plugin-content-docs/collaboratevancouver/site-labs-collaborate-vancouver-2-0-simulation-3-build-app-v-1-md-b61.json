@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/2.0-simulation/3-build-app-v1.md",
   "sourceDirName": "2.0-simulation",
   "slug": "/2.0-simulation/build-app-from-template",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template",
+  "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/build-app-from-template",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "2. Aprovação de Intake",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-approval"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/intake-approval"
   },
   "next": {
     "title": "4. Requisição de Colaboração",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request"
+    "permalink": "/workshops/labs/collaborate-vancouver/2.0-simulation/collaboration-request"
   }
 }

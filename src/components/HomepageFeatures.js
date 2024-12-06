@@ -47,50 +47,50 @@ export default HomepageFeatures;
 const FeatureList = [
 
   {
-    title: 'Gestión de Casos de Teletrabajo',
+    title: 'Gestão de Casos de Teletrabalho',
     icon: faHouseUser,
     description: (
       <>
-      <div class="button-homepage-vancouver">🛠️ App Engine Studio (AES)</div><br/><strong>Nivel 1 - </strong>Gana experiencia valiosa a través de ejercicios prácticos con el App Engine Studio.
+      <div class="button-homepage-vancouver">🛠️ App Engine Studio (AES)</div><br/><strong>Nível 1 - </strong>Ganhe experiência valiosa através de exercícios práticos com o App Engine Studio.
       </>
     ),
-    to: 'labs/underconstruction/underconstruction',
+    to: '/labs/telework-vancouver-101/0.0-introduction/app-engine-overview',
     target: '_self',
   },
 
   {
-    title: 'Gestión de Casos de Teletrabajo',
+    title: 'Gestão de Casos de Teletrabalho',
     icon: faHouseUser,
     description: (
       <>
-      <div class="button-homepage-vancouver">🛠️ App Engine Studio (AES)</div><br/><strong>Nivel 2 - </strong>Profundiza en el caso de uso explorando recursos más avanzados.
+      <div class="button-homepage-vancouver">🛠️ App Engine Studio (AES)</div><br/><strong>Nível 2 - </strong>Aprofunde-se no caso de uso explorando recursos mais avançados.
       </>
     ),
-    to: 'labs/underconstruction/underconstruction',
+    to: '/labs/telework-201_vancouver/Introduction/Overview',
     target: '_self',
   },
 
   {
-    title: 'Colabora para Acelerar',
+    title: 'Colabore para Acelerar',
     icon: faPeopleGroup,
     description: (
       <>
-      <div class="button-homepage-vancouver">📊 App Engine Management Center (AEMC)</div><br/>Aprende a gestionar aplicaciones low-code con el Centro de Gestión del App Engine.
+      <div class="button-homepage-vancouver">📊 App Engine Management Center (AEMC)</div><br/>Aprenda a gerenciar aplicativos low-code com o Centro de Gestão do App Engine.
       </>
     ),
-    to: 'labs/underconstruction/underconstruction',
+    to: '/labs/collaborate-vancouver/0.0-get_started/intro',
     target: '_self',
   },
 
   {
-    title: 'IHub: Generador de Spokes',
+    title: 'IHub: Gerador de Spokes',
     icon: faDiagramProject,
     description: (
       <>
-      <div class="button-homepage-vancouver">🧩 Integration Hub</div><br/>Obtén más información sobre la función más reciente del Integration Hub: Generador de Spokes.
+      <div class="button-homepage-vancouver">🧩 Integration Hub</div><br/>Saiba mais sobre o mais novo recurso do Integration Hub: Gerador de Spokes.
       </>
     ),
-    to: 'labs/underconstruction/underconstruction',
+    to: '/labs/spokegen/overview',
     target: '_self',
   },
 
@@ -99,10 +99,10 @@ const FeatureList = [
     icon: faRobot,
     description: (
       <>
-      <div class="button-homepage-vancouver">⚙️ Automation Engine</div><br/>Obtén más información sobre el proceso de Automatización de Procesos de ServiceNow.
+      <div class="button-homepage-vancouver">⚙️ Automation Engine</div><br/>Saiba mais sobre o processo de Automação de Processos da ServiceNow.
       </>
     ),
-    to: 'labs/underconstruction/underconstruction',
+    to: '/labs/rpa/introduction',
     target: '_self',
   },
 
@@ -111,10 +111,10 @@ const FeatureList = [
     icon: faFileInvoice,
     description: (
       <>
-      <div class="button-homepage-vancouver">⚙️ Automation Engine</div><br/>Automatiza tus flujos de trabajo basados en documentos con la Inteligencia Documental.
+      <div class="button-homepage-vancouver">⚙️ Automation Engine</div><br/>Automatize seus fluxos de trabalho baseados em documentos com o Document Intelligence.
       </>
     ),
-    to: 'labs/underconstruction/underconstruction',
+    to: '/labs/docintel/introduction',
     target: '_self',
   }
 

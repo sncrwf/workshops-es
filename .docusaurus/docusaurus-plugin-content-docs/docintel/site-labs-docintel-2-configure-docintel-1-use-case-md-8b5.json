@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/2-configure-docintel/1-use-case.md",
   "sourceDirName": "2-configure-docintel",
   "slug": "/configure-docintel/1-use-case",
-  "permalink": "/workshops-es/labs/docintel/configure-docintel/1-use-case",
+  "permalink": "/workshops/labs/docintel/configure-docintel/1-use-case",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "docintel",
   "previous": {
     "title": "1.2 Explore as tabelas e entenda a solução",
-    "permalink": "/workshops-es/labs/docintel/design/2-explore-tables"
+    "permalink": "/workshops/labs/docintel/design/2-explore-tables"
   },
   "next": {
     "title": "2.2 Configurar Flows para Document Intelligence",
-    "permalink": "/workshops-es/labs/docintel/configure-docintel/2-flow"
+    "permalink": "/workshops/labs/docintel/configure-docintel/2-flow"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/spokegen/1-overview.md",
   "sourceDirName": ".",
   "slug": "/overview",
-  "permalink": "/workshops-es/labs/spokegen/overview",
+  "permalink": "/workshops/labs/spokegen/overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "spokegen",
   "previous": {
     "title": "🏞️ Vancouver",
-    "permalink": "/workshops-es/labs/spokegen/vancouver"
+    "permalink": "/workshops/labs/spokegen/vancouver"
   },
   "next": {
     "title": "Caso de Uso",
-    "permalink": "/workshops-es/labs/spokegen/use-case"
+    "permalink": "/workshops/labs/spokegen/use-case"
   }
 }

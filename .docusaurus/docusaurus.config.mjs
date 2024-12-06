@@ -5,13 +5,13 @@
  */
 export default {
   "title": "Workshop Creator Workflows",
-  "tagline": "¿Listo para aprender algo nuevo?",
+  "tagline": "Pronto para aprender algo novo?",
   "url": "https://sncrwf.github.io",
   "trailingSlash": false,
-  "baseUrl": "/workshops-es/",
+  "baseUrl": "/workshops/",
   "favicon": "img/favicon.ico",
   "organizationName": "sncrwf",
-  "projectName": "workshops-es",
+  "projectName": "workshops",
   "staticDirectories": [
     "static"
   ],
@@ -29,9 +29,10 @@ export default {
     [
       "@docusaurus/plugin-content-docs",
       {
-        "path": "labs/underconstruction",
-        "id": "underconstruction",
-        "routeBasePath": "labs/underconstruction",
+        "path": "labs/telework-vancouver-101",
+        "id": "teleworkvancouver-101",
+        "routeBasePath": "labs/telework-vancouver-101",
+        "sidebarPath": "/Users/lucasalmeida/Documents/GitHub/workshops-es/labs/telework-vancouver-101/sidebar.js",
         "showLastUpdateAuthor": false,
         "showLastUpdateTime": false,
         "breadcrumbs": false
@@ -208,6 +209,10 @@ export default {
             {
               "label": "Developer Glossary",
               "href": "https://developer.servicenow.com/dev.do#!/guides/vancouver/now-platform/glossary/developer-glossary"
+            },
+            {
+              "label": "CSM-VA-Utah",
+              "href": "/labs/csm-va-utah/overview"
             },
             {
               "label": "Now Create",

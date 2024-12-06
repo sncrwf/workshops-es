@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-optional-setup-tasks.md",
   "sourceDirName": "3.0-additional_content",
   "slug": "/3.0-additional_content/optional-tasks",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks",
+  "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/optional-tasks",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Requisitos de Instalação",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/install-reqs"
   },
   "next": {
     "title": "Personas e Papéis",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/personas"
+    "permalink": "/workshops/labs/collaborate-vancouver/3.0-additional_content/personas"
   }
 }

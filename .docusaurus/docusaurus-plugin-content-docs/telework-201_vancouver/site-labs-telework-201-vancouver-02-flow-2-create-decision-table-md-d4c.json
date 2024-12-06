@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-201_vancouver/02-Flow/2-Create-Decision-Table.md",
   "sourceDirName": "02-Flow",
   "slug": "/Flow/Create-Decision-Table",
-  "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table",
+  "permalink": "/workshops/labs/telework-201_vancouver/Flow/Create-Decision-Table",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "1. Criar People Finder Spoke",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke"
+    "permalink": "/workshops/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke"
   },
   "next": {
     "title": "3. Modificar Fluxo de Aprovação de Caso de Teletrabalho",
-    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow"
+    "permalink": "/workshops/labs/telework-201_vancouver/Flow/Modify-Main-Flow"
   }
 }

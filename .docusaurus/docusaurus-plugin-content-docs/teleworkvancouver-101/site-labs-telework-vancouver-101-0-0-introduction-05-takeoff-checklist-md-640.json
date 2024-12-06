@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/0.0-introduction/05-Takeoff_Checklist.md",
   "sourceDirName": "0.0-introduction",
   "slug": "/0.0-introduction/takeoff",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/takeoff",
+  "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/takeoff",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "4. Planejamento",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/planning"
+    "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/planning"
   },
   "next": {
     "title": "1. Construir a Fundação: Visão Geral",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview"
+    "permalink": "/workshops/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview"
   }
 }

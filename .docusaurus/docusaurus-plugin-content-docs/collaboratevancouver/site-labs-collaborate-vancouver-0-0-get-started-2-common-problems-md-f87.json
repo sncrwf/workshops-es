@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/0.0-get_started/2-common-problems.md",
   "sourceDirName": "0.0-get_started",
   "slug": "/0.0-get_started/common",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common",
+  "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/common",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Introdução",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro"
+    "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/intro"
   },
   "next": {
     "title": "Soluções",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions"
+    "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/solutions"
   }
 }

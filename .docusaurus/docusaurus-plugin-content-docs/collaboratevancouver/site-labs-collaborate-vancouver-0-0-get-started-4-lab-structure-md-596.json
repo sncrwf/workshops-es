@@ -6,7 +6,7 @@
   "source": "@site/labs/collaborate-vancouver/0.0-get_started/4-lab-structure.md",
   "sourceDirName": "0.0-get_started",
   "slug": "/0.0-get_started/lab-structure",
-  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure",
+  "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/lab-structure",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "labaemc",
   "previous": {
     "title": "Soluções",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions"
+    "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/solutions"
   },
   "next": {
     "title": "Dicas e Truques",
-    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/tips"
+    "permalink": "/workshops/labs/collaborate-vancouver/0.0-get_started/tips"
   }
 }

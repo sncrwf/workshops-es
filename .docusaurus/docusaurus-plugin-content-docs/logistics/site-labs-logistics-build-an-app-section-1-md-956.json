@@ -6,7 +6,7 @@
   "source": "@site/labs/logistics/build_an_app/section1.md",
   "sourceDirName": "build_an_app",
   "slug": "/build_an_app/section1",
-  "permalink": "/workshops-es/labs/logistics/build_an_app/section1",
+  "permalink": "/workshops/labs/logistics/build_an_app/section1",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -22,10 +22,10 @@
   "sidebar": "logistics",
   "previous": {
     "title": "Overview",
-    "permalink": "/workshops-es/labs/logistics/build_an_app/overview"
+    "permalink": "/workshops/labs/logistics/build_an_app/overview"
   },
   "next": {
     "title": "Create Data",
-    "permalink": "/workshops-es/labs/logistics/build_an_app/section2"
+    "permalink": "/workshops/labs/logistics/build_an_app/section2"
   }
 }

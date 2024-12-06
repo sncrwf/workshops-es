@@ -6,7 +6,7 @@
   "source": "@site/labs/docintel/survey.md",
   "sourceDirName": ".",
   "slug": "/survey",
-  "permalink": "/workshops-es/labs/docintel/survey",
+  "permalink": "/workshops/labs/docintel/survey",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "docintel",
   "previous": {
     "title": "Baixar Guia do Laboratório em PDF",
-    "permalink": "/workshops-es/labs/docintel/lab-guide-pdf"
+    "permalink": "/workshops/labs/docintel/lab-guide-pdf"
   }
 }

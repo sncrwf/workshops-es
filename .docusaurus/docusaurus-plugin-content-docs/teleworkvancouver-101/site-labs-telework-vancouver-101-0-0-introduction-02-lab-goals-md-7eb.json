@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/0.0-introduction/02-lab-goals.md",
   "sourceDirName": "0.0-introduction",
   "slug": "/0.0-introduction/lab-goals",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/lab-goals",
+  "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/lab-goals",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "1. Visión General del App Engine",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/app-engine-overview"
+    "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/app-engine-overview"
   },
   "next": {
     "title": "3. Caso de Uso",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/use-case"
+    "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/use-case"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/labs/telework-vancouver-101/0.0-introduction/01-servicenow-overview.md",
   "sourceDirName": "0.0-introduction",
   "slug": "/0.0-introduction/app-engine-overview",
-  "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/app-engine-overview",
+  "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/app-engine-overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "teleworkvancouver",
   "previous": {
     "title": "🏞️ Vancouver",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/vancouver"
+    "permalink": "/workshops/labs/telework-vancouver-101/vancouver"
   },
   "next": {
     "title": "2. Metas del Laboratorio",
-    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/lab-goals"
+    "permalink": "/workshops/labs/telework-vancouver-101/0.0-introduction/lab-goals"
   }
 }
