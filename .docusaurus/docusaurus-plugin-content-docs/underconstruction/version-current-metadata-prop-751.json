@@ -1,0 +1,28 @@
+{
+  "pluginId": "underconstruction",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "defaultSidebar": [
+      {
+        "type": "link",
+        "label": "En Construcción",
+        "href": "/workshops-es/labs/underconstruction/underconstruction",
+        "docId": "underconstruction"
+      }
+    ]
+  },
+  "docs": {
+    "underconstruction": {
+      "id": "underconstruction",
+      "title": "En Construcción",
+      "description": "Esta guía de laboratorio está en construcción. Pronto estará disponible.",
+      "sidebar": "defaultSidebar"
+    }
+  }
+}

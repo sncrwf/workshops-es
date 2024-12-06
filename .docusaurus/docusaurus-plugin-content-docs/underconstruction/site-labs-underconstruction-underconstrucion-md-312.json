@@ -1,0 +1,24 @@
+{
+  "unversionedId": "underconstruction",
+  "id": "underconstruction",
+  "title": "Under Construction",
+  "description": "Esta guía de laboratorio está en construcción. Pronto estará disponible.",
+  "source": "@site/labs/underconstruction/underconstrucion.md",
+  "sourceDirName": ".",
+  "slug": "/underconstruction",
+  "permalink": "/workshops-es/labs/underconstruction/underconstruction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "underconstruction",
+    "title": "Under Construction",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "underconstruction",
+  "next": {
+    "title": "Pesquisa",
+    "permalink": "/workshops-es/labs/underconstruction/survey"
+  }
+}

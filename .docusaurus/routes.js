@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/workshops-es/__docusaurus/debug',
+    component: ComponentCreator('/workshops-es/__docusaurus/debug', '89c'),
+    exact: true
+  },
+  {
+    path: '/workshops-es/__docusaurus/debug/config',
+    component: ComponentCreator('/workshops-es/__docusaurus/debug/config', '029'),
+    exact: true
+  },
+  {
+    path: '/workshops-es/__docusaurus/debug/content',
+    component: ComponentCreator('/workshops-es/__docusaurus/debug/content', '611'),
+    exact: true
+  },
+  {
+    path: '/workshops-es/__docusaurus/debug/globalData',
+    component: ComponentCreator('/workshops-es/__docusaurus/debug/globalData', 'bdd'),
+    exact: true
+  },
+  {
+    path: '/workshops-es/__docusaurus/debug/metadata',
+    component: ComponentCreator('/workshops-es/__docusaurus/debug/metadata', '94b'),
+    exact: true
+  },
+  {
+    path: '/workshops-es/__docusaurus/debug/registry',
+    component: ComponentCreator('/workshops-es/__docusaurus/debug/registry', '001'),
+    exact: true
+  },
+  {
+    path: '/workshops-es/__docusaurus/debug/routes',
+    component: ComponentCreator('/workshops-es/__docusaurus/debug/routes', '033'),
+    exact: true
+  },
+  {
     path: '/workshops-es/labs/collaborate-vancouver/tags',
     component: ComponentCreator('/workshops-es/labs/collaborate-vancouver/tags', '58d'),
     exact: true
@@ -19,7 +54,7 @@ export default [
   },
   {
     path: '/workshops-es/labs/collaborate-vancouver',
-    component: ComponentCreator('/workshops-es/labs/collaborate-vancouver', 'e41'),
+    component: ComponentCreator('/workshops-es/labs/collaborate-vancouver', 'ef9'),
     routes: [
       {
         path: '/workshops-es/labs/collaborate-vancouver/0.0-get_started/common',
@@ -122,6 +157,11 @@ export default [
         component: ComponentCreator('/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template', '0c8'),
         exact: true,
         sidebar: "labaemc"
+      },
+      {
+        path: '/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2',
+        component: ComponentCreator('/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2', '3ee'),
+        exact: true
       },
       {
         path: '/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval',
@@ -325,11 +365,53 @@ export default [
   },
   {
     path: '/workshops-es/labs/logistics',
-    component: ComponentCreator('/workshops-es/labs/logistics', '71e'),
+    component: ComponentCreator('/workshops-es/labs/logistics', '54e'),
     routes: [
+      {
+        path: '/workshops-es/labs/logistics/build_an_app/overview',
+        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/overview', 'ddf'),
+        exact: true,
+        sidebar: "logistics"
+      },
+      {
+        path: '/workshops-es/labs/logistics/build_an_app/purpose',
+        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/purpose', '6d1'),
+        exact: true,
+        sidebar: "logistics"
+      },
+      {
+        path: '/workshops-es/labs/logistics/build_an_app/section1',
+        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/section1', 'a6a'),
+        exact: true,
+        sidebar: "logistics"
+      },
+      {
+        path: '/workshops-es/labs/logistics/build_an_app/section2',
+        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/section2', 'cd0'),
+        exact: true,
+        sidebar: "logistics"
+      },
+      {
+        path: '/workshops-es/labs/logistics/get_started/goals',
+        component: ComponentCreator('/workshops-es/labs/logistics/get_started/goals', '578'),
+        exact: true,
+        sidebar: "logistics"
+      },
       {
         path: '/workshops-es/labs/logistics/get_started/overview',
         component: ComponentCreator('/workshops-es/labs/logistics/get_started/overview', '502'),
+        exact: true,
+        sidebar: "logistics"
+      },
+      {
+        path: '/workshops-es/labs/logistics/get_started/setup',
+        component: ComponentCreator('/workshops-es/labs/logistics/get_started/setup', 'c1a'),
+        exact: true,
+        sidebar: "logistics"
+      },
+      {
+        path: '/workshops-es/labs/logistics/get_started/usecase',
+        component: ComponentCreator('/workshops-es/labs/logistics/get_started/usecase', '51f'),
         exact: true,
         sidebar: "logistics"
       },
@@ -588,229 +670,14 @@ export default [
     ]
   },
   {
-    path: '/workshops-es/labs/telework-vancouver-101',
-    component: ComponentCreator('/workshops-es/labs/telework-vancouver-101', '13d'),
+    path: '/workshops-es/labs/underconstruction',
+    component: ComponentCreator('/workshops-es/labs/underconstruction', '07f'),
     routes: [
       {
-        path: '/workshops-es/labs/telework-vancouver-101/0.0-introduction/app-engine-overview',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/0.0-introduction/app-engine-overview', 'a56'),
+        path: '/workshops-es/labs/underconstruction/underconstruction',
+        component: ComponentCreator('/workshops-es/labs/underconstruction/underconstruction', '640'),
         exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/0.0-introduction/lab-goals',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/0.0-introduction/lab-goals', '631'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/0.0-introduction/planning',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/0.0-introduction/planning', 'a76'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/0.0-introduction/takeoff',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/0.0-introduction/takeoff', 'bfe'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/0.0-introduction/use-case',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/0.0-introduction/use-case', '5a4'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form', '779'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-app',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-app', '2bd'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-telework-case-table',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-telework-case-table', 'c4f'),
-        exact: true
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/import-data',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/import-data', 'b21'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview', '347'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review', '583'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data', 'fae'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/table-builder-data',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/table-builder-data', 'c74'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/configure-record-producer',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/configure-record-producer', '89e'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer', '83d'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/overview',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/overview', '18e'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes', '17c'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal', '23e'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/review',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/review', 'f82'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow', 'c29'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/overview',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/overview', '1e0'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/review',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/review', '8b5'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow', '55a'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard', '006'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists', '879'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/create',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/create', 'eb1'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview', 'f9d'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/review',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/review', '1a9'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/use',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/use', 'b87'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/5.0-conclusion/appendix',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/5.0-conclusion/appendix', '23f'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/5.0-conclusion/lab-review',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/5.0-conclusion/lab-review', '631'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/5.0-conclusion/resources',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/5.0-conclusion/resources', 'fc2'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke', '443'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/CHANGELOG',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/CHANGELOG', '850'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/lab-guide-pdf',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/lab-guide-pdf', '4ae'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/Survey',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/Survey', '366'),
-        exact: true,
-        sidebar: "teleworkvancouver"
-      },
-      {
-        path: '/workshops-es/labs/telework-vancouver-101/vancouver',
-        component: ComponentCreator('/workshops-es/labs/telework-vancouver-101/vancouver', '817'),
-        exact: true,
-        sidebar: "teleworkvancouver"
+        sidebar: "defaultSidebar"
       }
     ]
   },

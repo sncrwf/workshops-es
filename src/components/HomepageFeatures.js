@@ -54,7 +54,7 @@ const FeatureList = [
       <div class="button-homepage-vancouver">🛠️ App Engine Studio (AES)</div><br/><strong>Nivel 1 - </strong>Gana experiencia valiosa a través de ejercicios prácticos con el App Engine Studio.
       </>
     ),
-    to: '/labs/telework-vancouver-101/0.0-introduction/app-engine-overview',
+    to: 'labs/underconstruction/underconstruction',
     target: '_self',
   },
 
@@ -66,7 +66,7 @@ const FeatureList = [
       <div class="button-homepage-vancouver">🛠️ App Engine Studio (AES)</div><br/><strong>Nivel 2 - </strong>Profundiza en el caso de uso explorando recursos más avanzados.
       </>
     ),
-    to: '/labs/telework-201_vancouver/Introduction/Overview',
+    to: 'labs/underconstruction/underconstruction',
     target: '_self',
   },
 
@@ -78,7 +78,7 @@ const FeatureList = [
       <div class="button-homepage-vancouver">📊 App Engine Management Center (AEMC)</div><br/>Aprende a gestionar aplicaciones low-code con el Centro de Gestión del App Engine.
       </>
     ),
-    to: '/labs/collaborate-vancouver/0.0-get_started/intro',
+    to: 'labs/underconstruction/underconstruction',
     target: '_self',
   },
 
@@ -90,7 +90,7 @@ const FeatureList = [
       <div class="button-homepage-vancouver">🧩 Integration Hub</div><br/>Obtén más información sobre la función más reciente del Integration Hub: Generador de Spokes.
       </>
     ),
-    to: '/labs/spokegen/overview',
+    to: 'labs/underconstruction/underconstruction',
     target: '_self',
   },
 
@@ -102,7 +102,7 @@ const FeatureList = [
       <div class="button-homepage-vancouver">⚙️ Automation Engine</div><br/>Obtén más información sobre el proceso de Automatización de Procesos de ServiceNow.
       </>
     ),
-    to: '/labs/rpa/introduction',
+    to: 'labs/underconstruction/underconstruction',
     target: '_self',
   },
 
@@ -114,7 +114,7 @@ const FeatureList = [
       <div class="button-homepage-vancouver">⚙️ Automation Engine</div><br/>Automatiza tus flujos de trabajo basados en documentos con la Inteligencia Documental.
       </>
     ),
-    to: '/labs/docintel/introduction',
+    to: 'labs/underconstruction/underconstruction',
     target: '_self',
   }
 

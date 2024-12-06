@@ -390,6 +390,11 @@
       "description": "Tempo Estimado de Conclusão: 15 minutos",
       "sidebar": "labaemc"
     },
+    "2.0-simulation/build-app-from-template-v2": {
+      "id": "2.0-simulation/build-app-from-template-v2",
+      "title": "3. Construir um App completo do zero",
+      "description": "ESTA SEÇÃO ESTÁ EM CONSTRUÇÃO."
+    },
     "2.0-simulation/collaboration-approval": {
       "id": "2.0-simulation/collaboration-approval",
       "title": "5. Aprovação de Colaboração",
