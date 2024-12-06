@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/workshops-es/__docusaurus/debug',
-    component: ComponentCreator('/workshops-es/__docusaurus/debug', '89c'),
-    exact: true
-  },
-  {
-    path: '/workshops-es/__docusaurus/debug/config',
-    component: ComponentCreator('/workshops-es/__docusaurus/debug/config', '029'),
-    exact: true
-  },
-  {
-    path: '/workshops-es/__docusaurus/debug/content',
-    component: ComponentCreator('/workshops-es/__docusaurus/debug/content', '611'),
-    exact: true
-  },
-  {
-    path: '/workshops-es/__docusaurus/debug/globalData',
-    component: ComponentCreator('/workshops-es/__docusaurus/debug/globalData', 'bdd'),
-    exact: true
-  },
-  {
-    path: '/workshops-es/__docusaurus/debug/metadata',
-    component: ComponentCreator('/workshops-es/__docusaurus/debug/metadata', '94b'),
-    exact: true
-  },
-  {
-    path: '/workshops-es/__docusaurus/debug/registry',
-    component: ComponentCreator('/workshops-es/__docusaurus/debug/registry', '001'),
-    exact: true
-  },
-  {
-    path: '/workshops-es/__docusaurus/debug/routes',
-    component: ComponentCreator('/workshops-es/__docusaurus/debug/routes', '033'),
-    exact: true
-  },
-  {
     path: '/workshops-es/labs/collaborate-vancouver/tags',
     component: ComponentCreator('/workshops-es/labs/collaborate-vancouver/tags', '58d'),
     exact: true
@@ -54,7 +19,7 @@ export default [
   },
   {
     path: '/workshops-es/labs/collaborate-vancouver',
-    component: ComponentCreator('/workshops-es/labs/collaborate-vancouver', 'ef9'),
+    component: ComponentCreator('/workshops-es/labs/collaborate-vancouver', 'e41'),
     routes: [
       {
         path: '/workshops-es/labs/collaborate-vancouver/0.0-get_started/common',
@@ -157,11 +122,6 @@ export default [
         component: ComponentCreator('/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template', '0c8'),
         exact: true,
         sidebar: "labaemc"
-      },
-      {
-        path: '/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2',
-        component: ComponentCreator('/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2', '3ee'),
-        exact: true
       },
       {
         path: '/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval',
@@ -365,53 +325,11 @@ export default [
   },
   {
     path: '/workshops-es/labs/logistics',
-    component: ComponentCreator('/workshops-es/labs/logistics', '54e'),
+    component: ComponentCreator('/workshops-es/labs/logistics', '71e'),
     routes: [
-      {
-        path: '/workshops-es/labs/logistics/build_an_app/overview',
-        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/overview', 'ddf'),
-        exact: true,
-        sidebar: "logistics"
-      },
-      {
-        path: '/workshops-es/labs/logistics/build_an_app/purpose',
-        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/purpose', '6d1'),
-        exact: true,
-        sidebar: "logistics"
-      },
-      {
-        path: '/workshops-es/labs/logistics/build_an_app/section1',
-        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/section1', 'a6a'),
-        exact: true,
-        sidebar: "logistics"
-      },
-      {
-        path: '/workshops-es/labs/logistics/build_an_app/section2',
-        component: ComponentCreator('/workshops-es/labs/logistics/build_an_app/section2', 'cd0'),
-        exact: true,
-        sidebar: "logistics"
-      },
-      {
-        path: '/workshops-es/labs/logistics/get_started/goals',
-        component: ComponentCreator('/workshops-es/labs/logistics/get_started/goals', '578'),
-        exact: true,
-        sidebar: "logistics"
-      },
       {
         path: '/workshops-es/labs/logistics/get_started/overview',
         component: ComponentCreator('/workshops-es/labs/logistics/get_started/overview', '502'),
-        exact: true,
-        sidebar: "logistics"
-      },
-      {
-        path: '/workshops-es/labs/logistics/get_started/setup',
-        component: ComponentCreator('/workshops-es/labs/logistics/get_started/setup', 'c1a'),
-        exact: true,
-        sidebar: "logistics"
-      },
-      {
-        path: '/workshops-es/labs/logistics/get_started/usecase',
-        component: ComponentCreator('/workshops-es/labs/logistics/get_started/usecase', '51f'),
         exact: true,
         sidebar: "logistics"
       },

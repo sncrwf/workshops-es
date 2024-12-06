@@ -281,6 +281,80 @@
       ],
       "breadcrumbs": false
     },
+    "spokegen": {
+      "path": "/workshops-es/labs/spokegen",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/spokegen",
+          "mainDocId": "vancouver",
+          "docs": [
+            {
+              "id": "create-the-spoke",
+              "path": "/workshops-es/labs/spokegen/create-the-spoke",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops-es/labs/spokegen/lab-guide-pdf",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "optional-lab-section-1",
+              "path": "/workshops-es/labs/spokegen/optional-lab-section-1",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "optional-lab-section-2",
+              "path": "/workshops-es/labs/spokegen/optional-lab-section-2",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "overview",
+              "path": "/workshops-es/labs/spokegen/overview",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "Survey",
+              "path": "/workshops-es/labs/spokegen/Survey",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "test-the-spoke",
+              "path": "/workshops-es/labs/spokegen/test-the-spoke",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "use-case",
+              "path": "/workshops-es/labs/spokegen/use-case",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "use-spoke-in-a-flow",
+              "path": "/workshops-es/labs/spokegen/use-spoke-in-a-flow",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "vancouver",
+              "path": "/workshops-es/labs/spokegen/vancouver",
+              "sidebar": "spokegen"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "spokegen": {
+              "link": {
+                "path": "/workshops-es/labs/spokegen/vancouver",
+                "label": "vancouver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
     "telework-201_vancouver": {
       "path": "/workshops-es/labs/telework-201_vancouver",
       "versions": [
@@ -484,80 +558,6 @@
       ],
       "breadcrumbs": false
     },
-    "spokegen": {
-      "path": "/workshops-es/labs/spokegen",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/workshops-es/labs/spokegen",
-          "mainDocId": "vancouver",
-          "docs": [
-            {
-              "id": "create-the-spoke",
-              "path": "/workshops-es/labs/spokegen/create-the-spoke",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "lab-guide-pdf",
-              "path": "/workshops-es/labs/spokegen/lab-guide-pdf",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "optional-lab-section-1",
-              "path": "/workshops-es/labs/spokegen/optional-lab-section-1",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "optional-lab-section-2",
-              "path": "/workshops-es/labs/spokegen/optional-lab-section-2",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "overview",
-              "path": "/workshops-es/labs/spokegen/overview",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "Survey",
-              "path": "/workshops-es/labs/spokegen/Survey",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "test-the-spoke",
-              "path": "/workshops-es/labs/spokegen/test-the-spoke",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "use-case",
-              "path": "/workshops-es/labs/spokegen/use-case",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "use-spoke-in-a-flow",
-              "path": "/workshops-es/labs/spokegen/use-spoke-in-a-flow",
-              "sidebar": "spokegen"
-            },
-            {
-              "id": "vancouver",
-              "path": "/workshops-es/labs/spokegen/vancouver",
-              "sidebar": "spokegen"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "spokegen": {
-              "link": {
-                "path": "/workshops-es/labs/spokegen/vancouver",
-                "label": "vancouver"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": false
-    },
     "logistics": {
       "path": "/workshops-es/labs/logistics",
       "versions": [
@@ -569,43 +569,8 @@
           "mainDocId": "get_started/overview",
           "docs": [
             {
-              "id": "build_an_app/overview",
-              "path": "/workshops-es/labs/logistics/build_an_app/overview",
-              "sidebar": "logistics"
-            },
-            {
-              "id": "build_an_app/purpose",
-              "path": "/workshops-es/labs/logistics/build_an_app/purpose",
-              "sidebar": "logistics"
-            },
-            {
-              "id": "build_an_app/section1",
-              "path": "/workshops-es/labs/logistics/build_an_app/section1",
-              "sidebar": "logistics"
-            },
-            {
-              "id": "build_an_app/section2",
-              "path": "/workshops-es/labs/logistics/build_an_app/section2",
-              "sidebar": "logistics"
-            },
-            {
-              "id": "get_started/goals",
-              "path": "/workshops-es/labs/logistics/get_started/goals",
-              "sidebar": "logistics"
-            },
-            {
               "id": "get_started/overview",
               "path": "/workshops-es/labs/logistics/get_started/overview",
-              "sidebar": "logistics"
-            },
-            {
-              "id": "get_started/setup",
-              "path": "/workshops-es/labs/logistics/get_started/setup",
-              "sidebar": "logistics"
-            },
-            {
-              "id": "get_started/usecase",
-              "path": "/workshops-es/labs/logistics/get_started/usecase",
               "sidebar": "logistics"
             },
             {
@@ -613,7 +578,15 @@
               "path": "/workshops-es/labs/logistics/utah"
             }
           ],
-          "draftIds": [],
+          "draftIds": [
+            "build_an_app/overview",
+            "build_an_app/purpose",
+            "build_an_app/section1",
+            "build_an_app/section2",
+            "get_started/goals",
+            "get_started/usecase",
+            "get_started/setup"
+          ],
           "sidebars": {
             "logistics": {
               "link": {
@@ -722,10 +695,6 @@
               "sidebar": "labaemc"
             },
             {
-              "id": "2.0-simulation/build-app-from-template-v2",
-              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2"
-            },
-            {
               "id": "2.0-simulation/collaboration-approval",
               "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval",
               "sidebar": "labaemc"
@@ -831,7 +800,9 @@
               "sidebar": "labaemc"
             }
           ],
-          "draftIds": [],
+          "draftIds": [
+            "2.0-simulation/build-app-from-template-v2"
+          ],
           "sidebars": {
             "labaemc": {
               "link": {

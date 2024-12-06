@@ -19,9 +19,5 @@
     "hide_table_of_contents": true,
     "draft": false
   },
-  "sidebar": "logistics",
-  "next": {
-    "title": "Goals",
-    "permalink": "/workshops-es/labs/logistics/get_started/goals"
-  }
+  "sidebar": "logistics"
 }

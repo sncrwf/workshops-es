@@ -211,10 +211,6 @@ export default {
               "href": "https://developer.servicenow.com/dev.do#!/guides/vancouver/now-platform/glossary/developer-glossary"
             },
             {
-              "label": "CSM-VA-Utah",
-              "href": "/labs/csm-va-utah/overview"
-            },
-            {
               "label": "Now Create",
               "href": "https://nowlearning.servicenow.com/nowcreate"
             },
