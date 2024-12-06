@@ -5,35 +5,35 @@ hide_table_of_contents: true
 draft: false
 ---
 
-## Visão Geral
+## Visión General
 
-Hoje, você se colocará no lugar de um Desenvolvedor ServiceNow, encarregado de transformar um processo crítico de negócios. A melhor parte? Você não precisa de um conhecimento técnico para ter sucesso. Com o poder do **App Engine**, você verá como qualquer pessoa pode dominar essa tarefa sem conhecimentos prévios em desenvolvimento de aplicativos.
+Hoy, te pondrás en el lugar de un Desarrollador ServiceNow, encargado de transformar un proceso crítico de negocio. ¿La mejor parte? No necesitas conocimientos técnicos para tener éxito. Con el poder de **App Engine**, verás cómo cualquier persona puede dominar esta tarea sin experiencia previa en desarrollo de aplicaciones.
 
 ## Contexto
 
-Conheça Amanda, uma funcionária no Escritório de Assuntos Regulatórios do governo. A equipe de Amanda lida com vários pedidos e casos, com um foco específico em autorizar e equipar funcionários para o trabalho remoto, também conhecido como **Casos de Teletrabalho**. Atualmente, os funcionários seguem um processo cansativo: imprimem um formulário em PDF, preenchem à mão, digitalizam e então enviam por e-mail para a equipe de Amanda. Esse processo manual é demorado.
+Conoce a Amanda, una empleada en la Oficina de Asuntos Regulatorios del gobierno. El equipo de Amanda gestiona varios pedidos y casos, con un enfoque específico en autorizar y equipar a los empleados para el trabajo remoto, también conocido como **Casos de Teletrabajo**. Actualmente, los empleados siguen un proceso tedioso: imprimen un formulario en PDF, lo completan a mano, lo escanean y luego lo envían por correo electrónico al equipo de Amanda. Este proceso manual consume mucho tiempo.
 
-Uma vez que os pedidos chegam à equipe de Amanda, eles dependem de uma caixa de e-mail compartilhada e uma planilha para gerenciá-los. Infelizmente, essa abordagem desconexa leva a ineficiências e apresenta riscos de segurança, já que esses casos envolvem três departamentos: o departamento do funcionário, RH e TI.
+Una vez que los pedidos llegan al equipo de Amanda, dependen de un buzón de correo compartido y una hoja de cálculo para gestionarlos. Desafortunadamente, este enfoque desconectado genera ineficiencias y presenta riesgos de seguridad, ya que estos casos involucran tres departamentos: el departamento del empleado, RR. HH. y TI.
 
-## Ferramentas Atuais Utilizadas
+## Herramientas Actuales Utilizadas
 
-* **Formulário PDF / Word:** Um formulário em PDF para preencher os detalhes sobre o pedido.
+* **Formulario PDF / Word:** Un formulario en PDF para llenar los detalles sobre el pedido.
 
-* **E-mails:** Eles enviam o pedido em formato PDF por e-mail, recebem submissões e comunicam atualizações de tarefas.
+* **Correos Electrónicos:** Envían el pedido en formato PDF por correo, reciben envíos y comunican actualizaciones de tareas.
 
-* **Planilha:** Uma planilha compartilhada rastreia aprovações e tarefas entre os departamentos, incluindo solicitações de TI para acesso remoto e atualizações de segurança e gestão de RH para casos de Teletrabalho.
+* **Hoja de Cálculo:** Una hoja de cálculo compartida rastrea aprobaciones y tareas entre los departamentos, incluyendo solicitudes de TI para acceso remoto y actualizaciones de seguridad y gestión de RR. HH. para casos de Teletrabajo.
 
-## Desafios
+## Desafíos
 
-Esse sistema fragmentado resulta em:
+Este sistema fragmentado resulta en:
 
-* **Tempo Perdido:** A equipe de Amanda tem dificuldade em coordenar e comunicar efetivamente.
-* **Crises Desnecessárias:** Muitas vezes, eles acabam lidando com questões urgentes para evitar preocupações de segurança e segurança.
-* **Desgaste da Equipe:** A carga de trabalho se concentra em crises imediatas, levando ao desgaste da equipe.
-* **Visibilidade Insuficiente:** Os departamentos carecem de uma visão clara do status de seu trabalho.
+* **Pérdida de Tiempo:** El equipo de Amanda tiene dificultades para coordinar y comunicarse efectivamente.
+* **Crisis Innecesarias:** A menudo terminan lidiando con cuestiones urgentes para evitar preocupaciones de seguridad y protección.
+* **Desgaste del Equipo:** La carga de trabajo se concentra en crisis inmediatas, lo que lleva al agotamiento del equipo.
+* **Falta de Visibilidad:** Los departamentos carecen de una visión clara del estado de su trabajo.
 
-Amanda procurou ajuda do departamento de TI, mas eles estão sobrecarregados. No entanto, Amanda obteve acesso como Desenvolvedora Cidadã à instância de desenvolvimento ServiceNow da organização.
+Amanda buscó ayuda en el departamento de TI, pero ellos están sobrecargados. Sin embargo, Amanda obtuvo acceso como Desarrolladora Ciudadana a la instancia de desarrollo ServiceNow de la organización.
 
-Sua missão, caso decida aceitá-la, é assumir o papel de Amanda e criar uma solução para gerenciar eficientemente o trabalho entre departamentos. Vamos melhorar o mundo do trabalho dela...
+Tu misión, si decides aceptarla, es asumir el papel de Amanda y crear una solución para gestionar eficientemente el trabajo entre departamentos. Vamos a mejorar el mundo de trabajo de Amanda...
 
-**Como você abordará esse desafio? Que soluções você pode imaginar?**
+**¿Cómo abordarás este desafío? ¿Qué soluciones puedes imaginar?**

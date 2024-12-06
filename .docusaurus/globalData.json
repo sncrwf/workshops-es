@@ -9,194 +9,6 @@
     }
   },
   "docusaurus-plugin-content-docs": {
-    "telework-201_vancouver": {
-      "path": "/workshops/labs/telework-201_vancouver",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/workshops/labs/telework-201_vancouver",
-          "mainDocId": "Introduction/vancouver",
-          "docs": [
-            {
-              "id": "CHANGELOG",
-              "path": "/workshops/labs/telework-201_vancouver/CHANGELOG",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Conclusion/index",
-              "path": "/workshops/labs/telework-201_vancouver/Conclusion/",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Flow/Create-Decision-Table",
-              "path": "/workshops/labs/telework-201_vancouver/Flow/Create-Decision-Table",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Flow/Create-People-Finder-Spoke",
-              "path": "/workshops/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Flow/index",
-              "path": "/workshops/labs/telework-201_vancouver/Flow/"
-            },
-            {
-              "id": "Flow/Modify-Main-Flow",
-              "path": "/workshops/labs/telework-201_vancouver/Flow/Modify-Main-Flow",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Governance/index",
-              "path": "/workshops/labs/telework-201_vancouver/Governance/"
-            },
-            {
-              "id": "Governance/Securely-Expand",
-              "path": "/workshops/labs/telework-201_vancouver/Governance/Securely-Expand"
-            },
-            {
-              "id": "Introduction/Import-App",
-              "path": "/workshops/labs/telework-201_vancouver/Introduction/Import-App",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Introduction/Overview",
-              "path": "/workshops/labs/telework-201_vancouver/Introduction/Overview",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Introduction/takeoff",
-              "path": "/workshops/labs/telework-201_vancouver/Introduction/takeoff",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Introduction/vancouver",
-              "path": "/workshops/labs/telework-201_vancouver/Introduction/vancouver",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "lab-guide-pdf",
-              "path": "/workshops/labs/telework-201_vancouver/lab-guide-pdf",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Portal/3.1 Branding",
-              "path": "/workshops/labs/telework-201_vancouver/Portal/3.1 Branding",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Portal/3.2 Add a Widget",
-              "path": "/workshops/labs/telework-201_vancouver/Portal/3.2 Add a Widget",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Portal/3.3 Create a Widget",
-              "path": "/workshops/labs/telework-201_vancouver/Portal/3.3 Create a Widget",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Portal/index",
-              "path": "/workshops/labs/telework-201_vancouver/Portal/"
-            },
-            {
-              "id": "Smarter-Forms/index",
-              "path": "/workshops/labs/telework-201_vancouver/Smarter-Forms/"
-            },
-            {
-              "id": "Smarter-Forms/Playbook",
-              "path": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Playbook",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Smarter-Forms/Record-Producer",
-              "path": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Record-Producer",
-              "sidebar": "teleworkvancouver"
-            },
-            {
-              "id": "Survey",
-              "path": "/workshops/labs/telework-201_vancouver/Survey",
-              "sidebar": "teleworkvancouver"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "teleworkvancouver": {
-              "link": {
-                "path": "/workshops/labs/telework-201_vancouver/Introduction/vancouver",
-                "label": "Introduction/vancouver"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": false
-    },
-    "rpa": {
-      "path": "/workshops/labs/rpa",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/workshops/labs/rpa",
-          "mainDocId": "introduction",
-          "docs": [
-            {
-              "id": "finish",
-              "path": "/workshops/labs/rpa/finish",
-              "sidebar": "rpa"
-            },
-            {
-              "id": "introduction",
-              "path": "/workshops/labs/rpa/introduction",
-              "sidebar": "rpa"
-            },
-            {
-              "id": "lab-guide-pdf",
-              "path": "/workshops/labs/rpa/lab-guide-pdf",
-              "sidebar": "rpa"
-            },
-            {
-              "id": "review-app",
-              "path": "/workshops/labs/rpa/review-app",
-              "sidebar": "rpa"
-            },
-            {
-              "id": "rpa-design",
-              "path": "/workshops/labs/rpa/rpa-design",
-              "sidebar": "rpa"
-            },
-            {
-              "id": "rpa-hub",
-              "path": "/workshops/labs/rpa/rpa-hub",
-              "sidebar": "rpa"
-            },
-            {
-              "id": "survey",
-              "path": "/workshops/labs/rpa/survey",
-              "sidebar": "rpa"
-            },
-            {
-              "id": "vm-connect",
-              "path": "/workshops/labs/rpa/vm-connect",
-              "sidebar": "rpa"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "rpa": {
-              "link": {
-                "path": "/workshops/labs/rpa/introduction",
-                "label": "introduction"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": false
-    },
     "teleworkvancouver-101": {
       "path": "/workshops/labs/telework-vancouver-101",
       "versions": [
@@ -405,6 +217,130 @@
       ],
       "breadcrumbs": false
     },
+    "telework-201_vancouver": {
+      "path": "/workshops/labs/telework-201_vancouver",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops/labs/telework-201_vancouver",
+          "mainDocId": "Introduction/vancouver",
+          "docs": [
+            {
+              "id": "CHANGELOG",
+              "path": "/workshops/labs/telework-201_vancouver/CHANGELOG",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Conclusion/index",
+              "path": "/workshops/labs/telework-201_vancouver/Conclusion/",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Flow/Create-Decision-Table",
+              "path": "/workshops/labs/telework-201_vancouver/Flow/Create-Decision-Table",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Flow/Create-People-Finder-Spoke",
+              "path": "/workshops/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Flow/index",
+              "path": "/workshops/labs/telework-201_vancouver/Flow/"
+            },
+            {
+              "id": "Flow/Modify-Main-Flow",
+              "path": "/workshops/labs/telework-201_vancouver/Flow/Modify-Main-Flow",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Governance/index",
+              "path": "/workshops/labs/telework-201_vancouver/Governance/"
+            },
+            {
+              "id": "Governance/Securely-Expand",
+              "path": "/workshops/labs/telework-201_vancouver/Governance/Securely-Expand"
+            },
+            {
+              "id": "Introduction/Import-App",
+              "path": "/workshops/labs/telework-201_vancouver/Introduction/Import-App",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Introduction/Overview",
+              "path": "/workshops/labs/telework-201_vancouver/Introduction/Overview",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Introduction/takeoff",
+              "path": "/workshops/labs/telework-201_vancouver/Introduction/takeoff",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Introduction/vancouver",
+              "path": "/workshops/labs/telework-201_vancouver/Introduction/vancouver",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops/labs/telework-201_vancouver/lab-guide-pdf",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/3.1 Branding",
+              "path": "/workshops/labs/telework-201_vancouver/Portal/3.1 Branding",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/3.2 Add a Widget",
+              "path": "/workshops/labs/telework-201_vancouver/Portal/3.2 Add a Widget",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/3.3 Create a Widget",
+              "path": "/workshops/labs/telework-201_vancouver/Portal/3.3 Create a Widget",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/index",
+              "path": "/workshops/labs/telework-201_vancouver/Portal/"
+            },
+            {
+              "id": "Smarter-Forms/index",
+              "path": "/workshops/labs/telework-201_vancouver/Smarter-Forms/"
+            },
+            {
+              "id": "Smarter-Forms/Playbook",
+              "path": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Playbook",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Smarter-Forms/Record-Producer",
+              "path": "/workshops/labs/telework-201_vancouver/Smarter-Forms/Record-Producer",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Survey",
+              "path": "/workshops/labs/telework-201_vancouver/Survey",
+              "sidebar": "teleworkvancouver"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "teleworkvancouver": {
+              "link": {
+                "path": "/workshops/labs/telework-201_vancouver/Introduction/vancouver",
+                "label": "Introduction/vancouver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
     "spokegen": {
       "path": "/workshops/labs/spokegen",
       "versions": [
@@ -472,6 +408,70 @@
               "link": {
                 "path": "/workshops/labs/spokegen/vancouver",
                 "label": "vancouver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
+    "rpa": {
+      "path": "/workshops/labs/rpa",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops/labs/rpa",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "finish",
+              "path": "/workshops/labs/rpa/finish",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "introduction",
+              "path": "/workshops/labs/rpa/introduction",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops/labs/rpa/lab-guide-pdf",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "review-app",
+              "path": "/workshops/labs/rpa/review-app",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "rpa-design",
+              "path": "/workshops/labs/rpa/rpa-design",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "rpa-hub",
+              "path": "/workshops/labs/rpa/rpa-hub",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "survey",
+              "path": "/workshops/labs/rpa/survey",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "vm-connect",
+              "path": "/workshops/labs/rpa/vm-connect",
+              "sidebar": "rpa"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "rpa": {
+              "link": {
+                "path": "/workshops/labs/rpa/introduction",
+                "label": "introduction"
               }
             }
           }
