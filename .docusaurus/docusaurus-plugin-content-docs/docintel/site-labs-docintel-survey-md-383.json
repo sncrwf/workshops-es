@@ -1,0 +1,23 @@
+{
+  "unversionedId": "survey",
+  "id": "survey",
+  "title": "Valorizamos Seu Feedback!",
+  "description": "Ajude-nos a Melhorar Sua Experiência de Aprendizado",
+  "source": "@site/labs/docintel/survey.md",
+  "sourceDirName": ".",
+  "slug": "/survey",
+  "permalink": "/workshops-es/labs/docintel/survey",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Valorizamos Seu Feedback!",
+    "sidebar_label": "Pesquisa",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docintel",
+  "previous": {
+    "title": "Baixar Guia do Laboratório em PDF",
+    "permalink": "/workshops-es/labs/docintel/lab-guide-pdf"
+  }
+}

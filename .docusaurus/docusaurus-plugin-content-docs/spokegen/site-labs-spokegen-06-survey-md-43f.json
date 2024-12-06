@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Survey",
+  "id": "Survey",
+  "title": "Valorizamos Seu Feedback!",
+  "description": "Ajude-nos a Melhorar Sua Experiência de Aprendizado",
+  "source": "@site/labs/spokegen/06-Survey.md",
+  "sourceDirName": ".",
+  "slug": "/Survey",
+  "permalink": "/workshops-es/labs/spokegen/Survey",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Valorizamos Seu Feedback!",
+    "sidebar_label": "Pesquisa",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "spokegen",
+  "previous": {
+    "title": "Baixar Guia do Laboratório em PDF",
+    "permalink": "/workshops-es/labs/spokegen/lab-guide-pdf"
+  }
+}

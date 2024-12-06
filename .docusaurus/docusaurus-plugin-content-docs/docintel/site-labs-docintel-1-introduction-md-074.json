@@ -1,0 +1,25 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "title": "1. Introdução",
+  "description": "Visão Geral",
+  "source": "@site/labs/docintel/1-introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/workshops-es/labs/docintel/introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "introduction",
+    "title": "1. Introdução",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "docintel",
+  "next": {
+    "title": "1.1 Localize os documentos na sua instância",
+    "permalink": "/workshops-es/labs/docintel/design/1-locate-doc"
+  }
+}

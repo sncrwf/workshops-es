@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/configure-integration",
+  "id": "2.0-simulation/configure-integration",
+  "title": "6. Configurar Integração",
+  "description": "Tempo Estimado de Conclusão: 15 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/6-configure-integration.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/configure-integration",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/configure-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "configure-integration",
+    "title": "6. Configurar Integração",
+    "sidebar_position": 6
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "5. Aprovação de Colaboração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval"
+  },
+  "next": {
+    "title": "7. Requisição de Deploy",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-request"
+  }
+}

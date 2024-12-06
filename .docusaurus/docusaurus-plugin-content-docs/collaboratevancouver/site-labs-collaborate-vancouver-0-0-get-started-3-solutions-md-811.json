@@ -1,0 +1,29 @@
+{
+  "unversionedId": "0.0-get_started/solutions",
+  "id": "0.0-get_started/solutions",
+  "title": "Soluções",
+  "description": "Soluções no-code e low-code da ServiceNow",
+  "source": "@site/labs/collaborate-vancouver/0.0-get_started/3-solutions.md",
+  "sourceDirName": "0.0-get_started",
+  "slug": "/0.0-get_started/solutions",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "solutions",
+    "title": "Soluções",
+    "hide_table_of_contents": true,
+    "sidebar_position": 3
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Desafios Comuns",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common"
+  },
+  "next": {
+    "title": "Estrutura do Laboratório",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure"
+  }
+}

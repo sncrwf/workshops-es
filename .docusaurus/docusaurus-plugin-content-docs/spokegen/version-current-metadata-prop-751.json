@@ -1,0 +1,152 @@
+{
+  "pluginId": "spokegen",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "spokegen": [
+      {
+        "type": "link",
+        "label": "🏞️ Vancouver",
+        "href": "/workshops-es/labs/spokegen/vancouver",
+        "docId": "vancouver"
+      },
+      {
+        "type": "link",
+        "label": "Visão Geral",
+        "href": "/workshops-es/labs/spokegen/overview",
+        "docId": "overview"
+      },
+      {
+        "type": "category",
+        "label": "Main Lab",
+        "items": [
+          {
+            "type": "link",
+            "label": "Caso de Uso",
+            "href": "/workshops-es/labs/spokegen/use-case",
+            "docId": "use-case"
+          },
+          {
+            "type": "link",
+            "label": "Criar o Spoke",
+            "href": "/workshops-es/labs/spokegen/create-the-spoke",
+            "docId": "create-the-spoke"
+          },
+          {
+            "type": "link",
+            "label": "Teste o Spoke",
+            "href": "/workshops-es/labs/spokegen/test-the-spoke",
+            "docId": "test-the-spoke"
+          },
+          {
+            "type": "link",
+            "label": "Use o Spoke em um Fluxo",
+            "href": "/workshops-es/labs/spokegen/use-spoke-in-a-flow",
+            "docId": "use-spoke-in-a-flow"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Optional Lab",
+        "items": [
+          {
+            "type": "link",
+            "label": "Seção 1",
+            "href": "/workshops-es/labs/spokegen/optional-lab-section-1",
+            "docId": "optional-lab-section-1"
+          },
+          {
+            "type": "link",
+            "label": "Seção 2",
+            "href": "/workshops-es/labs/spokegen/optional-lab-section-2",
+            "docId": "optional-lab-section-2"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Baixar Guia do Laboratório em PDF",
+        "href": "/workshops-es/labs/spokegen/lab-guide-pdf",
+        "docId": "lab-guide-pdf"
+      },
+      {
+        "type": "link",
+        "label": "Pesquisa",
+        "href": "/workshops-es/labs/spokegen/Survey",
+        "docId": "Survey"
+      }
+    ]
+  },
+  "docs": {
+    "create-the-spoke": {
+      "id": "create-the-spoke",
+      "title": "Criar o Spoke",
+      "description": "Visão Geral",
+      "sidebar": "spokegen"
+    },
+    "lab-guide-pdf": {
+      "id": "lab-guide-pdf",
+      "title": "Baixar Guia do Laboratório em PDF",
+      "description": "Clique aqui para baixar o Guia do Laboratório em PDF",
+      "sidebar": "spokegen"
+    },
+    "optional-lab-section-1": {
+      "id": "optional-lab-section-1",
+      "title": "Laboratório Opcional: Seção 1",
+      "description": "Visão Geral",
+      "sidebar": "spokegen"
+    },
+    "optional-lab-section-2": {
+      "id": "optional-lab-section-2",
+      "title": "Laboratório Opcional: Seção 2",
+      "description": "Visão Geral",
+      "sidebar": "spokegen"
+    },
+    "overview": {
+      "id": "overview",
+      "title": "Hub de Integração: Gerador de Spokes",
+      "description": "Introdução",
+      "sidebar": "spokegen"
+    },
+    "Survey": {
+      "id": "Survey",
+      "title": "Valorizamos Seu Feedback!",
+      "description": "Ajude-nos a Melhorar Sua Experiência de Aprendizado",
+      "sidebar": "spokegen"
+    },
+    "test-the-spoke": {
+      "id": "test-the-spoke",
+      "title": "Teste o Spoke",
+      "description": "Visão Geral",
+      "sidebar": "spokegen"
+    },
+    "use-case": {
+      "id": "use-case",
+      "title": "Caso de Uso",
+      "description": "A ACME Inc. atualmente utiliza um sistema de terceiros para gerenciar o acesso e a autorização de visitantes aos seus edifícios, que é supervisionado por uma empresa de Segurança e Gestão de Propriedades. A ACME Inc. visa melhorar a experiência tanto para visitantes quanto para funcionários. Eles utilizam o ServiceNow e pretendem automatizar o processo de verificação de acesso de visitantes e impressão de crachás através de fluxos de trabalho no ServiceNow. A ACME Inc. desenvolveu uma experiência modernizada usando a plataforma ServiceNow, permitindo que os visitantes façam o check-in de forma independente através de quiosques localizados na recepção de cada edifício.",
+      "sidebar": "spokegen"
+    },
+    "use-spoke-in-a-flow": {
+      "id": "use-spoke-in-a-flow",
+      "title": "Use o Spoke em um Fluxo",
+      "description": "Visão Geral",
+      "sidebar": "spokegen"
+    },
+    "vancouver": {
+      "id": "vancouver",
+      "title": "🏞️ Vancouver",
+      "description": "Esta é a Edição de Vancouver deste guia de laboratório.",
+      "sidebar": "spokegen"
+    }
+  }
+}

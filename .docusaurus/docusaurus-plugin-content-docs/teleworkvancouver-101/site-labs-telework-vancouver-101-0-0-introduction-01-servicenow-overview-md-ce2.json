@@ -1,0 +1,29 @@
+{
+  "unversionedId": "0.0-introduction/app-engine-overview",
+  "id": "0.0-introduction/app-engine-overview",
+  "title": "1. Visión General del App Engine",
+  "description": "Toda organización enfrenta el desafío de responder rápidamente a las necesidades de sus clientes. Esto es más fácil decirlo que hacerlo, ya que la mayoría de las plataformas de desarrollo de aplicaciones requieren una curva de aprendizaje pronunciada antes de volverse productivas. El ServiceNow App Engine Studio elimina la complejidad de construir aplicaciones, permitiendo que más personas participen y se concentren en resolver problemas de negocio en lugar de escribir código. Es aquí donde entra en escena el App Engine, ofreciendo un conjunto de capacidades para impulsar su viaje de desarrollo.",
+  "source": "@site/labs/telework-vancouver-101/0.0-introduction/01-servicenow-overview.md",
+  "sourceDirName": "0.0-introduction",
+  "slug": "/0.0-introduction/app-engine-overview",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/app-engine-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "app-engine-overview",
+    "title": "1. Visión General del App Engine",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "🏞️ Vancouver",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/vancouver"
+  },
+  "next": {
+    "title": "2. Metas del Laboratorio",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/lab-goals"
+  }
+}

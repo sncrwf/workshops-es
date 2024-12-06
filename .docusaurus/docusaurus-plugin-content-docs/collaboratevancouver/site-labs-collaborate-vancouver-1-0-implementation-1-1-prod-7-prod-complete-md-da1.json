@@ -1,0 +1,29 @@
+{
+  "unversionedId": "1.0-implementation/1.1-prod/complete",
+  "id": "1.0-implementation/1.1-prod/complete",
+  "title": "Prod Complete",
+  "description": "Isso conclui a seção Prod da Implementação.",
+  "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.1-prod/7-prod-complete.md",
+  "sourceDirName": "1.0-implementation/1.1-prod",
+  "slug": "/1.0-implementation/1.1-prod/complete",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "complete",
+    "title": "Prod Complete",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "6. App Engine Admins",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group"
+  },
+  "next": {
+    "title": "1. Credential Alias",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential"
+  }
+}

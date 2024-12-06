@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Portal/3.1 Branding",
+  "id": "Portal/3.1 Branding",
+  "title": "Portal: Branding",
+  "description": "Após todo o trabalho realizado para melhorar a funcionalidade da aplicação de Gerenciamento de Casos de Teletrabalho, finalmente é hora de deixá-la bonita!",
+  "source": "@site/labs/telework-201_vancouver/04-Portal/3.1 Branding.md",
+  "sourceDirName": "04-Portal",
+  "slug": "/Portal/3.1 Branding",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.1 Branding",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Portal: Branding",
+    "sidebar_label": "1. Branding",
+    "hide_table_of_contents": true,
+    "pagination_label": "Portal"
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "2. Record Producer",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer"
+  },
+  "next": {
+    "title": "Portal",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.2 Add a Widget"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "1.0-implementation/1.1-prod/user-provisioning",
+  "id": "1.0-implementation/1.1-prod/user-provisioning",
+  "title": "4. Provisionamento de Usuários",
+  "description": "Tempo Estimado para Conclusão: 5 minutos",
+  "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.1-prod/4-prod-user-provisioning.md",
+  "sourceDirName": "1.0-implementation/1.1-prod",
+  "slug": "/1.0-implementation/1.1-prod/user-provisioning",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "user-provisioning",
+    "title": "4. Provisionamento de Usuários",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "3. Pipeline",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline"
+  },
+  "next": {
+    "title": "5. App Intake",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3.0-additional_content/personas",
+  "id": "3.0-additional_content/personas",
+  "title": "Personas e Papéis",
+  "description": "Esta parte do laboratório é apenas para fins informativos. Nenhuma atividade é necessária.",
+  "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-personas-and-roles.md",
+  "sourceDirName": "3.0-additional_content",
+  "slug": "/3.0-additional_content/personas",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/personas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9000,
+  "frontMatter": {
+    "id": "personas",
+    "title": "Personas e Papéis",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Tarefas Opcionais de Configuração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks"
+  },
+  "next": {
+    "title": "Preparar Ambientes",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/prepare-env"
+  }
+}

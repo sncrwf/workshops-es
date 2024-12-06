@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/deployment-approval",
+  "id": "2.0-simulation/deployment-approval",
+  "title": "8. Deployment Approval",
+  "description": "Tempo Estimado de Conclusão: 15 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/8-deployment-approval.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/deployment-approval",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-approval",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "deployment-approval",
+    "title": "8. Deployment Approval",
+    "sidebar_position": 8
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "7. Requisição de Deploy",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-request"
+  },
+  "next": {
+    "title": "Lab Completo",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/lab-complete"
+  }
+}

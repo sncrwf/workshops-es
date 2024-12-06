@@ -1,0 +1,20 @@
+{
+  "unversionedId": "2.0-simulation/build-app-from-template-v2",
+  "id": "2.0-simulation/build-app-from-template-v2",
+  "title": "3. Construir um App completo do zero",
+  "description": "ESTA SEÇÃO ESTÁ EM CONSTRUÇÃO.",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/3-build-app-v2.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/build-app-from-template-v2",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "build-app-from-template-v2",
+    "title": "3. Construir um App completo do zero",
+    "sidebar_position": 3,
+    "draft": true
+  }
+}

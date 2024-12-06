@@ -1,0 +1,31 @@
+{
+  "unversionedId": "build_an_app/section2",
+  "id": "build_an_app/section2",
+  "title": "Creating Data",
+  "description": "Now that we have an application framework, we can start to fill in some ofthe details that will give our application purpose. In this step, we will create the core table that will act as the primary data container for our application.",
+  "source": "@site/labs/logistics/build_an_app/section2.md",
+  "sourceDirName": "build_an_app",
+  "slug": "/build_an_app/section2",
+  "permalink": "/workshops-es/labs/logistics/build_an_app/section2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "section2",
+    "sidebar_position": 2,
+    "sidebar_label": "Create Data",
+    "title": "Creating Data",
+    "hide_table_of_contents": true,
+    "draft": true
+  },
+  "sidebar": "logistics",
+  "previous": {
+    "title": "App Framework",
+    "permalink": "/workshops-es/labs/logistics/build_an_app/section1"
+  },
+  "next": {
+    "title": "Purpose",
+    "permalink": "/workshops-es/labs/logistics/build_an_app/purpose"
+  }
+}

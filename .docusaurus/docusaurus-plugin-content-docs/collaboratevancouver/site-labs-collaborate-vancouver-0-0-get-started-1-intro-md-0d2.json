@@ -1,0 +1,30 @@
+{
+  "unversionedId": "0.0-get_started/intro",
+  "id": "0.0-get_started/intro",
+  "title": "Colabore para Acelerar",
+  "description": "Neste laboratório, você aprenderá:",
+  "source": "@site/labs/collaborate-vancouver/0.0-get_started/1-intro.md",
+  "sourceDirName": "0.0-get_started",
+  "slug": "/0.0-get_started/intro",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "Colabore para Acelerar",
+    "sidebar_label": "Introdução",
+    "sidebar_position": 1,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "🏞️ Vancouver",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/vancouver"
+  },
+  "next": {
+    "title": "Desafios Comuns",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common"
+  }
+}

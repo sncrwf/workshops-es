@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/collaboration-request",
+  "id": "2.0-simulation/collaboration-request",
+  "title": "4. Requisição de Colaboração",
+  "description": "Tempo Estimado de Conclusão: 5 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/4-collaboration-request.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/collaboration-request",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "collaboration-request",
+    "title": "4. Requisição de Colaboração",
+    "sidebar_position": 4
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "3. Construir App via template",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template"
+  },
+  "next": {
+    "title": "5. Aprovação de Colaboração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval"
+  }
+}

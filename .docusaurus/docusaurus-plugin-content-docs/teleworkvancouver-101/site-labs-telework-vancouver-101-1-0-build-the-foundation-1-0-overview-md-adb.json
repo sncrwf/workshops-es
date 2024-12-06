@@ -1,0 +1,30 @@
+{
+  "unversionedId": "1.0-Build-the-Foundation/overview",
+  "id": "1.0-Build-the-Foundation/overview",
+  "title": "1. Construir a Fundação: Visão Geral",
+  "description": "No primeiro exercício do laboratório, Construir a Fundação, você criará seu aplicativo, importará dados para ele e começará a configurar os formulários que serão usados no backend para visualizar os pedidos.",
+  "source": "@site/labs/telework-vancouver-101/1.0-Build-the-Foundation/1.0-overview.md",
+  "sourceDirName": "1.0-Build-the-Foundation",
+  "slug": "/1.0-Build-the-Foundation/overview",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview",
+    "title": "1. Construir a Fundação: Visão Geral",
+    "pagination_label": "1. Construir a Fundação: Visão Geral",
+    "sidebar_label": "Visão Geral",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "5. Lista de Verificação para Decolagem 🚀",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/takeoff"
+  },
+  "next": {
+    "title": "1.1 Revisar os Dados de Entrada",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data"
+  }
+}

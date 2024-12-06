@@ -1,0 +1,30 @@
+{
+  "unversionedId": "3.0-Automate-Work/overview",
+  "id": "3.0-Automate-Work/overview",
+  "title": "3. Automatize o trabalho com Fluxos: Visão Geral",
+  "description": "Neste exercício, vamos além da simples digitalização da entrada de dados e focaremos em maneiras de impulsionar a otimização por meio de Fluxos automatizados.",
+  "source": "@site/labs/telework-vancouver-101/3.0-Automate-Work/3.0-overview.md",
+  "sourceDirName": "3.0-Automate-Work",
+  "slug": "/3.0-Automate-Work/overview",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview",
+    "title": "3. Automatize o trabalho com Fluxos: Visão Geral",
+    "pagination_label": "3. Automatize o trabalho com Fluxos: Visão Geral",
+    "sidebar_label": "Visão Geral",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "Revisão",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/review"
+  },
+  "next": {
+    "title": "3.1 Criar o Fluxo",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow"
+  }
+}

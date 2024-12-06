@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Conclusion/index",
+  "id": "Conclusion/index",
+  "title": "Conclusão",
+  "description": "Neste laboratório, construímos, implementamos e testamos um aplicativo usando os componentes fundamentais de uma aplicação: Dados, Experiência do Usuário e Automação.",
+  "source": "@site/labs/telework-201_vancouver/05-Conclusion/index.mdx",
+  "sourceDirName": "05-Conclusion",
+  "slug": "/Conclusion/",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Conclusion/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Conclusão",
+    "nav_order": 5,
+    "has_children": true,
+    "has_toc": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "Portal",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.3 Create a Widget"
+  },
+  "next": {
+    "title": "CHANGELOG",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/CHANGELOG"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Smarter-Forms/index",
+  "id": "Smarter-Forms/index",
+  "title": "Formulários Inteligentes",
+  "description": "Propósito",
+  "source": "@site/labs/telework-201_vancouver/03-Smarter-Forms/index.md",
+  "sourceDirName": "03-Smarter-Forms",
+  "slug": "/Smarter-Forms/",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Formulários Inteligentes",
+    "sidebar_label": "3. Formulários Inteligentes",
+    "hide_table_of_contents": true
+  }
+}

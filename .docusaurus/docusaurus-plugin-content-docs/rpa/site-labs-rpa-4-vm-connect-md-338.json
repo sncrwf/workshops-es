@@ -1,0 +1,31 @@
+{
+  "unversionedId": "vm-connect",
+  "id": "vm-connect",
+  "title": "Conectando à VM",
+  "description": "Uma Máquina Virtual (VM) Windows é necessária para completar este laboratório. O endereço IP e as credenciais de login foram fornecidos durante a inscrição. Se você estiver usando um laptop Mac, certifique-se de que o Microsoft Remote Desktop App esteja instalado como pré-requisito para este laboratório.",
+  "source": "@site/labs/rpa/4-vm-connect.md",
+  "sourceDirName": ".",
+  "slug": "/vm-connect",
+  "permalink": "/workshops-es/labs/rpa/vm-connect",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "vm-connect",
+    "title": "Conectando à VM",
+    "pagination_label": "1. Conectando à VM",
+    "sidebar_label": "1. Conectando à VM",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "rpa",
+  "previous": {
+    "title": "3. RPA Hub Workspace",
+    "permalink": "/workshops-es/labs/rpa/rpa-hub"
+  },
+  "next": {
+    "title": "2. RPA Design Studio",
+    "permalink": "/workshops-es/labs/rpa/rpa-design"
+  }
+}

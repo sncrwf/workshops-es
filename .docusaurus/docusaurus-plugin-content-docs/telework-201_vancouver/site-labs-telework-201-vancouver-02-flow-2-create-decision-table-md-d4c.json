@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Flow/Create-Decision-Table",
+  "id": "Flow/Create-Decision-Table",
+  "title": "Criar Tabela de Decisão",
+  "description": "Uma Tabela de Decisão permite que os usuários definam regras de negócios complexas e lógica de decisão usando um formato tabular. As tabelas de decisão são particularmente úteis para automatizar processos de tomada de decisão dentro de fluxos de trabalho, aprovações ou outros processos de negócios.",
+  "source": "@site/labs/telework-201_vancouver/02-Flow/2-Create-Decision-Table.md",
+  "sourceDirName": "02-Flow",
+  "slug": "/Flow/Create-Decision-Table",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Criar Tabela de Decisão",
+    "sidebar_label": "2. Criar Tabela de Decisão",
+    "hide_table_of_contents": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "1. Criar People Finder Spoke",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke"
+  },
+  "next": {
+    "title": "3. Modificar Fluxo de Aprovação de Caso de Teletrabalho",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-The-User-Experience/configure-record-producer",
+  "id": "2.0-The-User-Experience/configure-record-producer",
+  "title": "2.2 Adicionar campos",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/2.0-The-User-Experience/2.2-configure-record-producer.md.md",
+  "sourceDirName": "2.0-The-User-Experience",
+  "slug": "/2.0-The-User-Experience/configure-record-producer",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/configure-record-producer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "configure-record-producer",
+    "title": "2.2 Adicionar campos",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "2.1 Criar o Formulário de Solicitação",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer"
+  },
+  "next": {
+    "title": "2.3 Visualizar no AES",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes"
+  }
+}

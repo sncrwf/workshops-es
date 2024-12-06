@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3.0-Automate-Work/test-workflow",
+  "id": "3.0-Automate-Work/test-workflow",
+  "title": "3.2 Testar o Fluxo",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/3.0-Automate-Work/3.2-test-flow.md",
+  "sourceDirName": "3.0-Automate-Work",
+  "slug": "/3.0-Automate-Work/test-workflow",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "test-workflow",
+    "title": "3.2 Testar o Fluxo",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "3.1 Criar o Fluxo",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow"
+  },
+  "next": {
+    "title": "Revisão",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/review"
+  }
+}

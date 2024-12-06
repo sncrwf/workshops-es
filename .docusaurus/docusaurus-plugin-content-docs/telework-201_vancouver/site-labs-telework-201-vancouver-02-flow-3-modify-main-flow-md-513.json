@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Flow/Modify-Main-Flow",
+  "id": "Flow/Modify-Main-Flow",
+  "title": "Modificar Fluxo de Aprovação de Caso de Teletrabalho",
+  "description": "Agora que criamos o People Finder Spoke e nossa Tabela de Decisão de Aprovação Automática, vamos modificar o Fluxo de Aprovação de Caso de Teletrabalho para permitir a aprovação automática para aqueles que foram pré-certificados ou solicitaram 3 dias ou menos para Teletrabalho Situacional.",
+  "source": "@site/labs/telework-201_vancouver/02-Flow/3-Modify-Main-Flow.md",
+  "sourceDirName": "02-Flow",
+  "slug": "/Flow/Modify-Main-Flow",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Modificar Fluxo de Aprovação de Caso de Teletrabalho",
+    "sidebar_label": "3. Modificar Fluxo de Aprovação de Caso de Teletrabalho",
+    "hide_table_of_contents": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "2. Criar Tabela de Decisão",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table"
+  },
+  "next": {
+    "title": "1. Adicionar um playbook",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook"
+  }
+}

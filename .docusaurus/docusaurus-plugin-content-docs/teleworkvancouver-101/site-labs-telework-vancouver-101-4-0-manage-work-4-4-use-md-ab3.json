@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4.0-Manage-Work/use",
+  "id": "4.0-Manage-Work/use",
+  "title": "4.4 Usar o Workspace",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.4-use.md",
+  "sourceDirName": "4.0-Manage-Work",
+  "slug": "/4.0-Manage-Work/use",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/use",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "use",
+    "title": "4.4 Usar o Workspace",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "4.3 Configurar Dashboard",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard"
+  },
+  "next": {
+    "title": "4. Gerenciar trabalho: Revisão",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/review"
+  }
+}

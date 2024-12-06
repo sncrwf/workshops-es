@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Introduction/vancouver",
+  "id": "Introduction/vancouver",
+  "title": "🏞️ Vancouver",
+  "description": "Esta é a Edição Vancouver deste guia de laboratório.",
+  "source": "@site/labs/telework-201_vancouver/00-Introduction/0-vancouver.md",
+  "sourceDirName": "00-Introduction",
+  "slug": "/Introduction/vancouver",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/vancouver",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "🏞️ Vancouver",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "teleworkvancouver",
+  "next": {
+    "title": "1. Visão Geral do Laboratório",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Overview"
+  }
+}

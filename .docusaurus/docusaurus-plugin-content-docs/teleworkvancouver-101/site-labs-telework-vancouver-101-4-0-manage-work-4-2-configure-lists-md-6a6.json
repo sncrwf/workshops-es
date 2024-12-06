@@ -1,0 +1,29 @@
+{
+  "unversionedId": "4.0-Manage-Work/configure-lists",
+  "id": "4.0-Manage-Work/configure-lists",
+  "title": "4.2 Configurar as Listas do Workspace",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.2-configure-lists.md",
+  "sourceDirName": "4.0-Manage-Work",
+  "slug": "/4.0-Manage-Work/configure-lists",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "configure-lists",
+    "title": "4.2 Configurar as Listas do Workspace",
+    "sidebar_label": "4.2 Configurar Listas",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "4.1 Criar um Workspace",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/create"
+  },
+  "next": {
+    "title": "4.3 Configurar Dashboard",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard"
+  }
+}

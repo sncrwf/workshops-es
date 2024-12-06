@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3.0-additional_content/install-reqs",
+  "id": "3.0-additional_content/install-reqs",
+  "title": "Requisitos de Instalação",
+  "description": "Como instalar o App Engine Studio?",
+  "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-install-reqs.md",
+  "sourceDirName": "3.0-additional_content",
+  "slug": "/3.0-additional_content/install-reqs",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9000,
+  "frontMatter": {
+    "id": "install-reqs",
+    "title": "Requisitos de Instalação",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/faqs"
+  },
+  "next": {
+    "title": "Tarefas Opcionais de Configuração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/intake-approval",
+  "id": "2.0-simulation/intake-approval",
+  "title": "2. Aprovação de Intake",
+  "description": "Tempo Estimado de Conclusão: 10 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/2-intake-approval.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/intake-approval",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-approval",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "intake-approval",
+    "title": "2. Aprovação de Intake",
+    "sidebar_position": 2
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "1. Requisição de Intake",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake"
+  },
+  "next": {
+    "title": "3. Construir App via template",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template"
+  }
+}

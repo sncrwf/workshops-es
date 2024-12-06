@@ -8,13 +8,13 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Workshop Creator Workflows",
-  tagline: "Pronto para aprender algo novo?",
+  tagline: "¿Listo para aprender algo nuevo?",
   url: "https://sncrwf.github.io",
   trailingSlash: false,
-  baseUrl: "/workshops/", // Set the /<baseUrl>/ pathname under which your site is served. For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: "/workshops-es/", // Set the /<baseUrl>/ pathname under which your site is served. For GitHub pages deployment, it is often '/<projectName>/'
   favicon: "img/favicon.ico",
   organizationName: "sncrwf", // GitHub pages deployment config.
-  projectName: "workshops",
+  projectName: "workshops-es",
 
   staticDirectories: ["static"],
 
@@ -137,54 +137,12 @@ const config = {
         breadcrumbs: false,
       },
     ],
-    /*
-     * EWF+CrWF: Dept Svc
-     */
-
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        path: "labs/deptsvc",
-        id: "deptsvc",
-        routeBasePath: "labs/deptsvc",
-        sidebarPath: require.resolve("./labs/deptsvc/sidebar.js"),
-        showLastUpdateAuthor: false,
-        showLastUpdateTime: false,
-        breadcrumbs: false,
-      },
-    ],
-
-    /*
-     * TRAVEL REQUEST
-     */
-
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        path: "labs/travelrequest",
-        id: "travelrequest",
-        routeBasePath: "labs/travelrequest",
-        sidebarPath: require.resolve("./labs/travelrequest/sidebar.js"),
-        breadcrumbs: false,
-      },
-    ],
-
 
     /*
      * THE FOLLOWING SECTIONS ARE NOT CURRENTLY IN USE.
      * THEY ARE DEFINED HERE TO MAKE IT EASY TO MANUALLY GO THE URL AND TEST THEM.
      */
 
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        path: "labs/complaint-vancouver",
-        id: "complaintvancouver",
-        routeBasePath: "labs/complaint-vancouver",
-        sidebarPath: require.resolve("./labs/complaint-vancouver/sidebar.js"),
-        breadcrumbs: false,
-      },
-    ],
 
     [
       "@docusaurus/plugin-content-docs",
@@ -198,16 +156,7 @@ const config = {
     ],
 
 
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        path: "labs/csm-va-utah",
-        id: "csmvautah",
-        routeBasePath: "labs/csm-va-utah",
-        sidebarPath: require.resolve("./labs/csm-va-utah/sidebar.js"),
-        breadcrumbs: false,
-      },
-    ],
+
 
   ],
 

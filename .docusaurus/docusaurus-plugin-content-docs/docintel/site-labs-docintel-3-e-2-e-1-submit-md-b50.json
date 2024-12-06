@@ -1,0 +1,29 @@
+{
+  "unversionedId": "e2e/1-submit",
+  "id": "e2e/1-submit",
+  "title": "3.1 Enviar como solicitante e processar um documento",
+  "description": "1. Envie uma solicitação para o processamento de fatura:",
+  "source": "@site/labs/docintel/3-e2e/1-submit.md",
+  "sourceDirName": "3-e2e",
+  "slug": "/e2e/1-submit",
+  "permalink": "/workshops-es/labs/docintel/e2e/1-submit",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1-submit",
+    "title": "3.1 Enviar como solicitante e processar um documento",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "docintel",
+  "previous": {
+    "title": "2.3 Adicionar Flows para processamento avançado",
+    "permalink": "/workshops-es/labs/docintel/configure-docintel/3-advanced"
+  },
+  "next": {
+    "title": "3.2 Aumente a produtividade do agente com Autofill",
+    "permalink": "/workshops-es/labs/docintel/e2e/2-autofill"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "get_started/usecase",
+  "id": "get_started/usecase",
+  "title": "Use Case",
+  "description": "This use case walks through the creation of a Logistics Management solution.",
+  "source": "@site/labs/logistics/get_started/02-usecase.md",
+  "sourceDirName": "get_started",
+  "slug": "/get_started/usecase",
+  "permalink": "/workshops-es/labs/logistics/get_started/usecase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "usecase",
+    "sidebar_position": 2,
+    "sidebar_label": "Use Case",
+    "title": "Use Case",
+    "hide_table_of_contents": true,
+    "draft": true
+  },
+  "sidebar": "logistics",
+  "previous": {
+    "title": "Goals",
+    "permalink": "/workshops-es/labs/logistics/get_started/goals"
+  },
+  "next": {
+    "title": "Setup",
+    "permalink": "/workshops-es/labs/logistics/get_started/setup"
+  }
+}

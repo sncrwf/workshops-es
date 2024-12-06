@@ -1,0 +1,29 @@
+{
+  "unversionedId": "0.0-get_started/common",
+  "id": "0.0-get_started/common",
+  "title": "Desafios Comuns",
+  "description": "Desafios comuns no desenvolvimento de aplicativos para os negócios",
+  "source": "@site/labs/collaborate-vancouver/0.0-get_started/2-common-problems.md",
+  "sourceDirName": "0.0-get_started",
+  "slug": "/0.0-get_started/common",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "common",
+    "title": "Desafios Comuns",
+    "hide_table_of_contents": true,
+    "sidebar_position": 2
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Introdução",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro"
+  },
+  "next": {
+    "title": "Soluções",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions"
+  }
+}

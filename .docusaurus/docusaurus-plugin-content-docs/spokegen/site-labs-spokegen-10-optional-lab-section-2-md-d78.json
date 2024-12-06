@@ -1,0 +1,31 @@
+{
+  "unversionedId": "optional-lab-section-2",
+  "id": "optional-lab-section-2",
+  "title": "Laboratório Opcional: Seção 2",
+  "description": "Visão Geral",
+  "source": "@site/labs/spokegen/10-optional-lab-section-2.md",
+  "sourceDirName": ".",
+  "slug": "/optional-lab-section-2",
+  "permalink": "/workshops-es/labs/spokegen/optional-lab-section-2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "optional-lab-section-2",
+    "title": "Laboratório Opcional: Seção 2",
+    "pagination_label": "Laboratório Opcional: Seção 2",
+    "sidebar_label": "Seção 2",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "spokegen",
+  "previous": {
+    "title": "Laboratório Opcional: Seção 1",
+    "permalink": "/workshops-es/labs/spokegen/optional-lab-section-1"
+  },
+  "next": {
+    "title": "Baixar Guia do Laboratório em PDF",
+    "permalink": "/workshops-es/labs/spokegen/lab-guide-pdf"
+  }
+}

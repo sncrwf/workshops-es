@@ -1,0 +1,19 @@
+{
+  "unversionedId": "1.0-Build-the-Foundation/create-telework-case-table",
+  "id": "1.0-Build-the-Foundation/create-telework-case-table",
+  "title": "1.4 Tabela de Casos de Teletrabalho",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/1.0-Build-the-Foundation/9.4-create-telework-case-table.md",
+  "sourceDirName": "1.0-Build-the-Foundation",
+  "slug": "/1.0-Build-the-Foundation/create-telework-case-table",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-telework-case-table",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-telework-case-table",
+    "title": "1.4 Tabela de Casos de Teletrabalho",
+    "hide_table_of_contents": true,
+    "draft": false
+  }
+}

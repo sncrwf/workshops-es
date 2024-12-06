@@ -1,0 +1,27 @@
+{
+  "unversionedId": "get_started/overview",
+  "id": "get_started/overview",
+  "title": "Logistics Lab",
+  "description": "COMING SOON!",
+  "source": "@site/labs/logistics/get_started/00-introduction.md",
+  "sourceDirName": "get_started",
+  "slug": "/get_started/overview",
+  "permalink": "/workshops-es/labs/logistics/get_started/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "overview",
+    "sidebar_position": 0,
+    "sidebar_label": "Overview",
+    "title": "Logistics Lab",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "logistics",
+  "next": {
+    "title": "Goals",
+    "permalink": "/workshops-es/labs/logistics/get_started/goals"
+  }
+}

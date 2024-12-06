@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4.0-Manage-Work/create",
+  "id": "4.0-Manage-Work/create",
+  "title": "4.1 Criar um Workspace",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.1-create.md",
+  "sourceDirName": "4.0-Manage-Work",
+  "slug": "/4.0-Manage-Work/create",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/create",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create",
+    "title": "4.1 Criar um Workspace",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "4. Gerenciar trabalho: Visão Geral",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview"
+  },
+  "next": {
+    "title": "4.2 Configurar Listas",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists"
+  }
+}

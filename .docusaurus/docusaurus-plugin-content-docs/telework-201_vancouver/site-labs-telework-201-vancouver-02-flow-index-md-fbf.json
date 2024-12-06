@@ -1,0 +1,18 @@
+{
+  "unversionedId": "Flow/index",
+  "id": "Flow/index",
+  "title": "Fluxo: Visão Geral",
+  "description": "Objetivo",
+  "source": "@site/labs/telework-201_vancouver/02-Flow/index.md",
+  "sourceDirName": "02-Flow",
+  "slug": "/Flow/",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluxo: Visão Geral",
+    "sidebar_label": "2. Fluxo",
+    "pagination_label": "Fluxo"
+  }
+}

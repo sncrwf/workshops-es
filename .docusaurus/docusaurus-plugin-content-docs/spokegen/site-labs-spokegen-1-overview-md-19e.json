@@ -1,0 +1,31 @@
+{
+  "unversionedId": "overview",
+  "id": "overview",
+  "title": "Hub de Integração: Gerador de Spokes",
+  "description": "Introdução",
+  "source": "@site/labs/spokegen/1-overview.md",
+  "sourceDirName": ".",
+  "slug": "/overview",
+  "permalink": "/workshops-es/labs/spokegen/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "overview",
+    "title": "Hub de Integração: Gerador de Spokes",
+    "pagination_label": "Visão Geral",
+    "sidebar_label": "Visão Geral",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "spokegen",
+  "previous": {
+    "title": "🏞️ Vancouver",
+    "permalink": "/workshops-es/labs/spokegen/vancouver"
+  },
+  "next": {
+    "title": "Caso de Uso",
+    "permalink": "/workshops-es/labs/spokegen/use-case"
+  }
+}

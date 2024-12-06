@@ -1,0 +1,848 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-P6HQJZPT0C"
+      ],
+      "anonymizeIP": false,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "teleworkvancouver-101": {
+      "path": "/workshops-es/labs/telework-vancouver-101",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/telework-vancouver-101",
+          "mainDocId": "vancouver",
+          "docs": [
+            {
+              "id": "0.0-introduction/app-engine-overview",
+              "path": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/app-engine-overview",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "0.0-introduction/lab-goals",
+              "path": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/lab-goals",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "0.0-introduction/planning",
+              "path": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/planning",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "0.0-introduction/takeoff",
+              "path": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/takeoff",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "0.0-introduction/use-case",
+              "path": "/workshops-es/labs/telework-vancouver-101/0.0-introduction/use-case",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/configure-telework-form",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/create-app",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-app",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/create-telework-case-table",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/create-telework-case-table"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/import-data",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/import-data",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/overview",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/overview",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/review",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/review-input-data",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review-input-data",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "1.0-Build-the-Foundation/table-builder-data",
+              "path": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/table-builder-data",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "2.0-The-User-Experience/configure-record-producer",
+              "path": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/configure-record-producer",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "2.0-The-User-Experience/create-record-producer",
+              "path": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "2.0-The-User-Experience/overview",
+              "path": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/overview",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "2.0-The-User-Experience/preview-in-aes",
+              "path": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "2.0-The-User-Experience/preview-in-portal",
+              "path": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "2.0-The-User-Experience/review",
+              "path": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/review",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "3.0-Automate-Work/create-workflow",
+              "path": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/create-workflow",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "3.0-Automate-Work/overview",
+              "path": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/overview",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "3.0-Automate-Work/review",
+              "path": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/review",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "3.0-Automate-Work/test-workflow",
+              "path": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "4.0-Manage-Work/configure-dashboard",
+              "path": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-dashboard",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "4.0-Manage-Work/configure-lists",
+              "path": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/configure-lists",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "4.0-Manage-Work/create",
+              "path": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/create",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "4.0-Manage-Work/overview",
+              "path": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "4.0-Manage-Work/review",
+              "path": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/review",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "4.0-Manage-Work/use",
+              "path": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/use",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "5.0-conclusion/appendix",
+              "path": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/appendix",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "5.0-conclusion/lab-review",
+              "path": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/lab-review",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "5.0-conclusion/resources",
+              "path": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/resources",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "6.0-Bonus/Create-People-Finder-Spoke",
+              "path": "/workshops-es/labs/telework-vancouver-101/6.0-Bonus/Create-People-Finder-Spoke",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "CHANGELOG",
+              "path": "/workshops-es/labs/telework-vancouver-101/CHANGELOG",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops-es/labs/telework-vancouver-101/lab-guide-pdf",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Survey",
+              "path": "/workshops-es/labs/telework-vancouver-101/Survey",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "vancouver",
+              "path": "/workshops-es/labs/telework-vancouver-101/vancouver",
+              "sidebar": "teleworkvancouver"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "teleworkvancouver": {
+              "link": {
+                "path": "/workshops-es/labs/telework-vancouver-101/vancouver",
+                "label": "vancouver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
+    "rpa": {
+      "path": "/workshops-es/labs/rpa",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/rpa",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "finish",
+              "path": "/workshops-es/labs/rpa/finish",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "introduction",
+              "path": "/workshops-es/labs/rpa/introduction",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops-es/labs/rpa/lab-guide-pdf",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "review-app",
+              "path": "/workshops-es/labs/rpa/review-app",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "rpa-design",
+              "path": "/workshops-es/labs/rpa/rpa-design",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "rpa-hub",
+              "path": "/workshops-es/labs/rpa/rpa-hub",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "survey",
+              "path": "/workshops-es/labs/rpa/survey",
+              "sidebar": "rpa"
+            },
+            {
+              "id": "vm-connect",
+              "path": "/workshops-es/labs/rpa/vm-connect",
+              "sidebar": "rpa"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "rpa": {
+              "link": {
+                "path": "/workshops-es/labs/rpa/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
+    "telework-201_vancouver": {
+      "path": "/workshops-es/labs/telework-201_vancouver",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/telework-201_vancouver",
+          "mainDocId": "Introduction/vancouver",
+          "docs": [
+            {
+              "id": "CHANGELOG",
+              "path": "/workshops-es/labs/telework-201_vancouver/CHANGELOG",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Conclusion/index",
+              "path": "/workshops-es/labs/telework-201_vancouver/Conclusion/",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Flow/Create-Decision-Table",
+              "path": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Flow/Create-People-Finder-Spoke",
+              "path": "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Flow/index",
+              "path": "/workshops-es/labs/telework-201_vancouver/Flow/"
+            },
+            {
+              "id": "Flow/Modify-Main-Flow",
+              "path": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Governance/index",
+              "path": "/workshops-es/labs/telework-201_vancouver/Governance/"
+            },
+            {
+              "id": "Governance/Securely-Expand",
+              "path": "/workshops-es/labs/telework-201_vancouver/Governance/Securely-Expand"
+            },
+            {
+              "id": "Introduction/Import-App",
+              "path": "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Introduction/Overview",
+              "path": "/workshops-es/labs/telework-201_vancouver/Introduction/Overview",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Introduction/takeoff",
+              "path": "/workshops-es/labs/telework-201_vancouver/Introduction/takeoff",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Introduction/vancouver",
+              "path": "/workshops-es/labs/telework-201_vancouver/Introduction/vancouver",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops-es/labs/telework-201_vancouver/lab-guide-pdf",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/3.1 Branding",
+              "path": "/workshops-es/labs/telework-201_vancouver/Portal/3.1 Branding",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/3.2 Add a Widget",
+              "path": "/workshops-es/labs/telework-201_vancouver/Portal/3.2 Add a Widget",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/3.3 Create a Widget",
+              "path": "/workshops-es/labs/telework-201_vancouver/Portal/3.3 Create a Widget",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Portal/index",
+              "path": "/workshops-es/labs/telework-201_vancouver/Portal/"
+            },
+            {
+              "id": "Smarter-Forms/index",
+              "path": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/"
+            },
+            {
+              "id": "Smarter-Forms/Playbook",
+              "path": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Smarter-Forms/Record-Producer",
+              "path": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer",
+              "sidebar": "teleworkvancouver"
+            },
+            {
+              "id": "Survey",
+              "path": "/workshops-es/labs/telework-201_vancouver/Survey",
+              "sidebar": "teleworkvancouver"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "teleworkvancouver": {
+              "link": {
+                "path": "/workshops-es/labs/telework-201_vancouver/Introduction/vancouver",
+                "label": "Introduction/vancouver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
+    "docintel": {
+      "path": "/workshops-es/labs/docintel",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/docintel",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "configure-docintel/1-use-case",
+              "path": "/workshops-es/labs/docintel/configure-docintel/1-use-case",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "configure-docintel/2-flow",
+              "path": "/workshops-es/labs/docintel/configure-docintel/2-flow",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "configure-docintel/3-advanced",
+              "path": "/workshops-es/labs/docintel/configure-docintel/3-advanced",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "design/1-locate-doc",
+              "path": "/workshops-es/labs/docintel/design/1-locate-doc",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "design/2-explore-tables",
+              "path": "/workshops-es/labs/docintel/design/2-explore-tables",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "e2e/1-submit",
+              "path": "/workshops-es/labs/docintel/e2e/1-submit",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "e2e/2-autofill",
+              "path": "/workshops-es/labs/docintel/e2e/2-autofill",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "e2e/3-export",
+              "path": "/workshops-es/labs/docintel/e2e/3-export",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "introduction",
+              "path": "/workshops-es/labs/docintel/introduction",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops-es/labs/docintel/lab-guide-pdf",
+              "sidebar": "docintel"
+            },
+            {
+              "id": "survey",
+              "path": "/workshops-es/labs/docintel/survey",
+              "sidebar": "docintel"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docintel": {
+              "link": {
+                "path": "/workshops-es/labs/docintel/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
+    "spokegen": {
+      "path": "/workshops-es/labs/spokegen",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/spokegen",
+          "mainDocId": "vancouver",
+          "docs": [
+            {
+              "id": "create-the-spoke",
+              "path": "/workshops-es/labs/spokegen/create-the-spoke",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops-es/labs/spokegen/lab-guide-pdf",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "optional-lab-section-1",
+              "path": "/workshops-es/labs/spokegen/optional-lab-section-1",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "optional-lab-section-2",
+              "path": "/workshops-es/labs/spokegen/optional-lab-section-2",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "overview",
+              "path": "/workshops-es/labs/spokegen/overview",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "Survey",
+              "path": "/workshops-es/labs/spokegen/Survey",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "test-the-spoke",
+              "path": "/workshops-es/labs/spokegen/test-the-spoke",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "use-case",
+              "path": "/workshops-es/labs/spokegen/use-case",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "use-spoke-in-a-flow",
+              "path": "/workshops-es/labs/spokegen/use-spoke-in-a-flow",
+              "sidebar": "spokegen"
+            },
+            {
+              "id": "vancouver",
+              "path": "/workshops-es/labs/spokegen/vancouver",
+              "sidebar": "spokegen"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "spokegen": {
+              "link": {
+                "path": "/workshops-es/labs/spokegen/vancouver",
+                "label": "vancouver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
+    "logistics": {
+      "path": "/workshops-es/labs/logistics",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/logistics",
+          "mainDocId": "get_started/overview",
+          "docs": [
+            {
+              "id": "build_an_app/overview",
+              "path": "/workshops-es/labs/logistics/build_an_app/overview",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "build_an_app/purpose",
+              "path": "/workshops-es/labs/logistics/build_an_app/purpose",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "build_an_app/section1",
+              "path": "/workshops-es/labs/logistics/build_an_app/section1",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "build_an_app/section2",
+              "path": "/workshops-es/labs/logistics/build_an_app/section2",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "get_started/goals",
+              "path": "/workshops-es/labs/logistics/get_started/goals",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "get_started/overview",
+              "path": "/workshops-es/labs/logistics/get_started/overview",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "get_started/setup",
+              "path": "/workshops-es/labs/logistics/get_started/setup",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "get_started/usecase",
+              "path": "/workshops-es/labs/logistics/get_started/usecase",
+              "sidebar": "logistics"
+            },
+            {
+              "id": "utah",
+              "path": "/workshops-es/labs/logistics/utah"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "logistics": {
+              "link": {
+                "path": "/workshops-es/labs/logistics/get_started/overview",
+                "label": "get_started/overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    },
+    "collaboratevancouver": {
+      "path": "/workshops-es/labs/collaborate-vancouver",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/workshops-es/labs/collaborate-vancouver",
+          "mainDocId": "vancouver",
+          "docs": [
+            {
+              "id": "0.0-get_started/common",
+              "path": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/common",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "0.0-get_started/intro",
+              "path": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/intro",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "0.0-get_started/lab-structure",
+              "path": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "0.0-get_started/solutions",
+              "path": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "0.0-get_started/tips",
+              "path": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/tips",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.1-prod/admins-group",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/admins-group",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.1-prod/complete",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/complete",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.1-prod/credential",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.1-prod/environments",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.1-prod/intake",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/intake",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.1-prod/pipeline",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.1-prod/user-provisioning",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/user-provisioning",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.2-dev/collaboration",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.2-dev/complete",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/complete",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.2-dev/credential",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "1.0-implementation/1.2-dev/environment",
+              "path": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/build-app-from-template",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/build-app-from-template-v2",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template-v2"
+            },
+            {
+              "id": "2.0-simulation/collaboration-approval",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/collaboration-request",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/configure-integration",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/configure-integration",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/deployment-approval",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-approval",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/deployment-request",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-request",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/intake",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/intake-approval",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-approval",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/lab-complete",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/lab-complete",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "2.0-simulation/overview",
+              "path": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/overview",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/admin-guide",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/admin-guide",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/aes-vs-studio",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/aes-vs-studio",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/cloning",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/cloning",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/docs",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/docs",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/faqs",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/faqs",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/install-reqs",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/optional-tasks",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/optional-tasks",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/personas",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/personas",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "3.0-additional_content/prepare-env",
+              "path": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/prepare-env",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "lab-guide-pdf",
+              "path": "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "Survey",
+              "path": "/workshops-es/labs/collaborate-vancouver/Survey",
+              "sidebar": "labaemc"
+            },
+            {
+              "id": "vancouver",
+              "path": "/workshops-es/labs/collaborate-vancouver/vancouver",
+              "sidebar": "labaemc"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "labaemc": {
+              "link": {
+                "path": "/workshops-es/labs/collaborate-vancouver/vancouver",
+                "label": "vancouver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    }
+  }
+}

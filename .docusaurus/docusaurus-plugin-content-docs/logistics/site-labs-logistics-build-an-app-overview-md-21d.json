@@ -1,0 +1,31 @@
+{
+  "unversionedId": "build_an_app/overview",
+  "id": "build_an_app/overview",
+  "title": "Overview",
+  "description": "Purpose",
+  "source": "@site/labs/logistics/build_an_app/overview.md",
+  "sourceDirName": "build_an_app",
+  "slug": "/build_an_app/overview",
+  "permalink": "/workshops-es/labs/logistics/build_an_app/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "overview",
+    "sidebar_position": 0,
+    "sidebar_label": "Overview",
+    "title": "Overview",
+    "hide_table_of_contents": true,
+    "draft": true
+  },
+  "sidebar": "logistics",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/workshops-es/labs/logistics/get_started/setup"
+  },
+  "next": {
+    "title": "App Framework",
+    "permalink": "/workshops-es/labs/logistics/build_an_app/section1"
+  }
+}

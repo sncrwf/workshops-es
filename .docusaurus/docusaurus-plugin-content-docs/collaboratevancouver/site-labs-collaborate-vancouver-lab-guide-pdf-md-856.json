@@ -1,0 +1,27 @@
+{
+  "unversionedId": "lab-guide-pdf",
+  "id": "lab-guide-pdf",
+  "title": "Baixar Guia do Laboratório em PDF",
+  "description": "Clique aqui para baixar o Guia do Laboratório em PDF",
+  "source": "@site/labs/collaborate-vancouver/lab-guide-pdf.md",
+  "sourceDirName": ".",
+  "slug": "/lab-guide-pdf",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lab-guide-pdf",
+    "title": "Baixar Guia do Laboratório em PDF",
+    "draft": false
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Guia do Administrador - App Engine",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/admin-guide"
+  },
+  "next": {
+    "title": "Pesquisa",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/Survey"
+  }
+}

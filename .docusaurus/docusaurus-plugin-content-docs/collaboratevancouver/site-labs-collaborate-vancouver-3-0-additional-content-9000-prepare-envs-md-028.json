@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3.0-additional_content/prepare-env",
+  "id": "3.0-additional_content/prepare-env",
+  "title": "Preparar Ambientes",
+  "description": "Antes de instalar o App Engine Studio, revise todos os requisitos da plataforma e defina uma estratégia de instância organizacional para preparar a instalação e configuração bem-sucedidas.",
+  "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-prepare-envs.md",
+  "sourceDirName": "3.0-additional_content",
+  "slug": "/3.0-additional_content/prepare-env",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/prepare-env",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9000,
+  "frontMatter": {
+    "id": "prepare-env",
+    "title": "Preparar Ambientes",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Personas e Papéis",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/personas"
+  },
+  "next": {
+    "title": "Documentação do Produto",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/docs"
+  }
+}

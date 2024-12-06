@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Portal/3.3 Create a Widget",
+  "id": "Portal/3.3 Create a Widget",
+  "title": "Portal: Create a Widget",
+  "description": "Neste exercício, aprenderemos como clonar um widget existente para modificá-lo. Utilizaremos o botão para permitir que os usuários naveguem para uma visão editável dos Casos de Teletrabalho que enviaram ou estão atribuídos a eles.",
+  "source": "@site/labs/telework-201_vancouver/04-Portal/3.3 Create a Widget.md",
+  "sourceDirName": "04-Portal",
+  "slug": "/Portal/3.3 Create a Widget",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.3 Create a Widget",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Portal: Create a Widget",
+    "sidebar_label": "3. Create a Widget",
+    "hide_table_of_contents": true,
+    "pagination_label": "Portal"
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "Portal",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.2 Add a Widget"
+  },
+  "next": {
+    "title": "Conclusão",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Conclusion/"
+  }
+}

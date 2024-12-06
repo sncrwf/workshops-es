@@ -1,0 +1,31 @@
+{
+  "unversionedId": "rpa-hub",
+  "id": "rpa-hub",
+  "title": "RPA Hub Workspace",
+  "description": "Na próxima etapa, realizaremos algumas tarefas administrativas dentro do Espaço de Trabalho do RPA Hub para ajudá-lo a se familiarizar com as várias configurações disponíveis. Faça login na instância atribuída a você usando as credenciais de administrador que recebeu ao reivindicar essa instância.",
+  "source": "@site/labs/rpa/3-rpa-hub.md",
+  "sourceDirName": ".",
+  "slug": "/rpa-hub",
+  "permalink": "/workshops-es/labs/rpa/rpa-hub",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "rpa-hub",
+    "title": "RPA Hub Workspace",
+    "pagination_label": "3. RPA Hub Workspace",
+    "sidebar_label": "3. RPA Hub Workspace",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "rpa",
+  "previous": {
+    "title": "2. Revisar Aplicativo",
+    "permalink": "/workshops-es/labs/rpa/review-app"
+  },
+  "next": {
+    "title": "1. Conectando à VM",
+    "permalink": "/workshops-es/labs/rpa/vm-connect"
+  }
+}

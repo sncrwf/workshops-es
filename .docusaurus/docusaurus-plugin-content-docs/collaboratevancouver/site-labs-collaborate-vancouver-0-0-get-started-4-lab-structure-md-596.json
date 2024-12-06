@@ -1,0 +1,29 @@
+{
+  "unversionedId": "0.0-get_started/lab-structure",
+  "id": "0.0-get_started/lab-structure",
+  "title": "Estrutura do Laboratório",
+  "description": "Implementação",
+  "source": "@site/labs/collaborate-vancouver/0.0-get_started/4-lab-structure.md",
+  "sourceDirName": "0.0-get_started",
+  "slug": "/0.0-get_started/lab-structure",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "lab-structure",
+    "title": "Estrutura do Laboratório",
+    "hide_table_of_contents": true,
+    "sidebar_position": 4
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Soluções",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/solutions"
+  },
+  "next": {
+    "title": "Dicas e Truques",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/tips"
+  }
+}

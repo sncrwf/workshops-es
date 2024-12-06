@@ -1,44 +1,44 @@
 ---
 id: app-engine-overview
-title: "1. Visão Geral do App Engine"
+title: "1. Visión General del App Engine"
 hide_table_of_contents: true
 draft: false
 ---
 
-Toda organização enfrenta o desafio de responder rapidamente às necessidades de seus clientes. Isso é mais fácil de dizer do que fazer, já que a maioria das plataformas de desenvolvimento de aplicativos exige uma curva de aprendizado acentuada antes de se tornar produtiva. O ServiceNow App Engine Studio elimina a complexidade da construção de aplicativos, permitindo que mais pessoas participem e se concentrem na resolução de problemas de negócios em vez de escrever código. É aqui que o **App Engine** entra em cena, oferecendo um conjunto de capacidades para impulsionar sua jornada de desenvolvimento.
+Toda organización enfrenta el desafío de responder rápidamente a las necesidades de sus clientes. Esto es más fácil decirlo que hacerlo, ya que la mayoría de las plataformas de desarrollo de aplicaciones requieren una curva de aprendizaje pronunciada antes de volverse productivas. El ServiceNow App Engine Studio elimina la complejidad de construir aplicaciones, permitiendo que más personas participen y se concentren en resolver problemas de negocio en lugar de escribir código. Es aquí donde entra en escena el **App Engine**, ofreciendo un conjunto de capacidades para impulsar su viaje de desarrollo.
 
-**App Engine** inclui:
+**App Engine** incluye:
 
-* **App Engine Studio (AES):** Um ambiente de criação de aplicativos projetado para capacitar usuários de todos os níveis de habilidade a aproveitar todo o potencial da Now Platform para criar e gerenciar seus aplicativos. Não é necessário ter experiência prévia em codificação ou desenvolvimento de aplicativos.
-  * **Mais Informações:** [Documentação do Produto: Construir aplicativos usando o App Engine Studio](https://docs.servicenow.com/csh?topicname=aes-overview.html&version=latest)
+* **App Engine Studio (AES):** Un entorno de creación de aplicaciones diseñado para capacitar a usuarios de todos los niveles de habilidad a aprovechar todo el potencial de la Now Platform para crear y gestionar sus aplicaciones. No se requiere experiencia previa en codificación o desarrollo de aplicaciones.
+  * **Más Información:** [Documentación del Producto: Construir aplicaciones utilizando el App Engine Studio](https://docs.servicenow.com/csh?topicname=aes-overview.html&version=latest)
 
-* **App Engine Management Center (AEMC):** Uma ferramenta essencial para Administradores da Plataforma ServiceNow para supervisionar e gerenciar solicitações do App Engine Studio (AES), implantações, aplicativos e desenvolvedores colaborativos em uma instância de produção. O AEMC simplifica todo o processo de desenvolvimento de aplicativos, desde a recepção até a produção.
-  * **Mais Informações:** [Documentação do Produto: Gerenciar o desenvolvimento de aplicativos usando o App Engine Management Center](https://docs.servicenow.com/csh?topicname=monitor-requests-using-aemc.html&version=latest)
+* **App Engine Management Center (AEMC):** Una herramienta esencial para Administradores de la Plataforma ServiceNow para supervisar y gestionar solicitudes del App Engine Studio (AES), implementaciones, aplicaciones y desarrolladores colaborativos en una instancia de producción. El AEMC simplifica todo el proceso de desarrollo de aplicaciones, desde la recepción hasta la producción.
+  * **Más Información:** [Documentación del Producto: Gestionar el desarrollo de aplicaciones utilizando el App Engine Management Center](https://docs.servicenow.com/csh?topicname=monitor-requests-using-aemc.html&version=latest)
 
-Na ServiceNow, acreditamos em não apenas entregar soluções, mas também em capacitar você a criar as suas próprias, adaptadas às suas necessidades empresariais únicas. Vamos embarcar juntos nessa jornada de inovação e eficiência!
+En ServiceNow, creemos en no solo entregar soluciones, sino también en empoderarte para crear las tuyas propias, adaptadas a tus necesidades empresariales únicas. ¡Embarquémonos juntos en este viaje de innovación y eficiencia!
 
-## O que é a ServiceNow?
+## ¿Qué es ServiceNow?
 
-Bem-vindo ao mundo da ServiceNow, onde a transformação digital encontra a eficiência. A ServiceNow é mais do que apenas uma empresa; é uma força revolucionária no mundo dos Aplicativos Empresariais. No coração de nossas soluções está a Now Platform, um robusto ecossistema em nuvem que tem impulsionado a inovação por quase duas décadas. Ao contrário de muitos provedores de nuvem, lidamos com tudo internamente, desde a gestão da infraestrutura até backups de dados e redundância de rede.
+Bienvenido al mundo de ServiceNow, donde la transformación digital se encuentra con la eficiencia. ServiceNow es más que solo una empresa; es una fuerza revolucionaria en el mundo de las Aplicaciones Empresariales. En el corazón de nuestras soluciones está la Now Platform, un robusto ecosistema en la nube que ha impulsado la innovación durante casi dos décadas. A diferencia de muchos proveedores en la nube, manejamos todo internamente, desde la gestión de infraestructura hasta copias de seguridad de datos y redundancia de red.
 
-A ServiceNow, a empresa, oferece uma ampla gama de aplicativos pré-construídos atendendo a TI, Atendimento ao Cliente, Recursos Humanos e muito mais, todos integrados de forma contínua com a Plataforma ServiceNow. Quando um cliente investe em um de nossos aplicativos, ele não adquire apenas uma solução, mas também se torna parte de nosso ecossistema. Chamamos o espaço de trabalho único de cada cliente dentro de nossa plataforma de "instância".
+ServiceNow, la empresa, ofrece una amplia gama de aplicaciones preconstruidas que atienden a TI, Atención al Cliente, Recursos Humanos y mucho más, todas integradas de manera continua con la Plataforma ServiceNow. Cuando un cliente invierte en una de nuestras aplicaciones, no solo adquiere una solución, sino que también se convierte en parte de nuestro ecosistema. Llamamos al espacio de trabajo único de cada cliente dentro de nuestra plataforma "instancia".
 
-Uma plataforma. Uma arquitetura. Um modelo de dados.
+Una plataforma. Una arquitectura. Un modelo de datos.
 
-## Compreendendo os Papéis dos Usuários da ServiceNow
+## Comprendiendo los Roles de los Usuarios de ServiceNow
 
-A ServiceNow é uma plataforma versátil com diversos papéis de usuário, cada um desempenhando uma parte única em seu ecossistema. Esses papéis abrangem uma variedade de personas, cada uma contribuindo para a funcionalidade e valor da ServiceNow:
+ServiceNow es una plataforma versátil con diversos roles de usuario, cada uno desempeñando una parte única en su ecosistema. Estos roles abarcan una variedad de personas, cada una contribuyendo a la funcionalidad y valor de ServiceNow:
 
-* **Solicitantes / Usuários Finais**
-  * Esses usuários interagem com a ServiceNow para solicitar bens ou serviços, geralmente através de um portal amigável ou de um aplicativo móvel.
+* **Solicitantes / Usuarios Finales**
+  * Estos usuarios interactúan con ServiceNow para solicitar bienes o servicios, generalmente a través de un portal amigable o de una aplicación móvil.
 
-* **Atendentes / Agentes / Fulfiller**
-  * Atendentes, frequentemente chamados de agentes ou fulfiller, são os usuários responsáveis por lidar e resolver tíquetes ou casos. Eles auxiliam os solicitantes em suas necessidades de serviço.
+* **Atendientes / Agentes / Fulfillers**
+  * Los atendientes, frecuentemente llamados agentes o fulfillers, son los usuarios responsables de manejar y resolver tickets o casos. Ellos ayudan a los solicitantes con sus necesidades de servicio.
 
-* **Administrador da Plataforma / Administrador do Sistema**
-  * Administradores da plataforma ou administradores do sistema desempenham um papel crucial na manutenção da estabilidade e segurança de uma instância da ServiceNow. Eles supervisionam o bem-estar geral da plataforma.
+* **Administrador de la Plataforma / Administrador del Sistema**
+  * Los administradores de la plataforma o administradores del sistema desempeñan un papel crucial en el mantenimiento de la estabilidad y seguridad de una instancia de ServiceNow. Supervisan el bienestar general de la plataforma.
 
-* **Desenvolvedor Profissional / Desenvolvedor Low-Code / Desenvolvedor Distribuído / Desenvolvedor Delegado / Desenvolvedor Cidadão**
-  * A ServiceNow atende a um espectro de desenvolvedores, desde profissionais experientes (Desenvolvedores Profissionais) até aqueles que utilizam capacidades low-code. Isso inclui desenvolvedores distribuídos e delegados, que ampliam as capacidades da plataforma. Além disso, desenvolvedores cidadãos, que podem não ter formação tradicional em codificação, também contribuem para personalizar e aprimorar a ServiceNow.
+* **Desarrollador Profesional / Desarrollador Low-Code / Desarrollador Distribuido / Desarrollador Delegado / Desarrollador Ciudadano**
+  * ServiceNow atiende a un espectro de desarrolladores, desde profesionales experimentados (Desarrolladores Profesionales) hasta aquellos que utilizan capacidades low-code. Esto incluye desarrolladores distribuidos y delegados, que amplían las capacidades de la plataforma. Además, los desarrolladores ciudadanos, que pueden no tener formación tradicional en codificación, también contribuyen a personalizar y mejorar ServiceNow.
 
-Esses papéis distintos colaboram dentro do ecossistema ServiceNow, garantindo que a plataforma atenda de forma eficaz a uma ampla gama de necessidades organizacionais.
+Estos roles distintos colaboran dentro del ecosistema de ServiceNow, asegurando que la plataforma atienda de manera efectiva una amplia gama de necesidades organizacionales.

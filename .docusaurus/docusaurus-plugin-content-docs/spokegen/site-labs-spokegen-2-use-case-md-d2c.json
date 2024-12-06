@@ -1,0 +1,31 @@
+{
+  "unversionedId": "use-case",
+  "id": "use-case",
+  "title": "Caso de Uso",
+  "description": "A ACME Inc. atualmente utiliza um sistema de terceiros para gerenciar o acesso e a autorização de visitantes aos seus edifícios, que é supervisionado por uma empresa de Segurança e Gestão de Propriedades. A ACME Inc. visa melhorar a experiência tanto para visitantes quanto para funcionários. Eles utilizam o ServiceNow e pretendem automatizar o processo de verificação de acesso de visitantes e impressão de crachás através de fluxos de trabalho no ServiceNow. A ACME Inc. desenvolveu uma experiência modernizada usando a plataforma ServiceNow, permitindo que os visitantes façam o check-in de forma independente através de quiosques localizados na recepção de cada edifício.",
+  "source": "@site/labs/spokegen/2-use-case.md",
+  "sourceDirName": ".",
+  "slug": "/use-case",
+  "permalink": "/workshops-es/labs/spokegen/use-case",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "use-case",
+    "title": "Caso de Uso",
+    "pagination_label": "Caso de Uso",
+    "sidebar_label": "Caso de Uso",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "spokegen",
+  "previous": {
+    "title": "Visão Geral",
+    "permalink": "/workshops-es/labs/spokegen/overview"
+  },
+  "next": {
+    "title": "Criar o Spoke",
+    "permalink": "/workshops-es/labs/spokegen/create-the-spoke"
+  }
+}

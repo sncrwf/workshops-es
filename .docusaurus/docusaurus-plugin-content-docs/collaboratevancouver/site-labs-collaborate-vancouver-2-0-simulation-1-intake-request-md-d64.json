@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/intake",
+  "id": "2.0-simulation/intake",
+  "title": "1. Requisição de Intake",
+  "description": "Tempo Estimado de Conclusão: 10 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/1-intake-request.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/intake",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intake",
+    "title": "1. Requisição de Intake",
+    "sidebar_position": 1
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Visão Geral",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/overview"
+  },
+  "next": {
+    "title": "2. Aprovação de Intake",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-approval"
+  }
+}

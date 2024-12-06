@@ -1,0 +1,29 @@
+{
+  "unversionedId": "3.0-Automate-Work/review",
+  "id": "3.0-Automate-Work/review",
+  "title": "3. Automatize o trabalho com Fluxos: Revisão",
+  "description": "Neste exercício, você aprendeu como usar o Flow Designer para configurar um Fluxo automatizado para garantir que aprovações, tarefas e comunicações ocorram automaticamente na ordem correta.",
+  "source": "@site/labs/telework-vancouver-101/3.0-Automate-Work/3.3-review.md",
+  "sourceDirName": "3.0-Automate-Work",
+  "slug": "/3.0-Automate-Work/review",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/review",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "review",
+    "title": "3. Automatize o trabalho com Fluxos: Revisão",
+    "sidebar_label": "Revisão",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "3.2 Testar o Fluxo",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/test-workflow"
+  },
+  "next": {
+    "title": "4. Gerenciar trabalho: Visão Geral",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview"
+  }
+}

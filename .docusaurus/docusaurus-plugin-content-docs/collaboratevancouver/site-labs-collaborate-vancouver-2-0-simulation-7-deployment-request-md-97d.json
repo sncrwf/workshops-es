@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/deployment-request",
+  "id": "2.0-simulation/deployment-request",
+  "title": "7. Requisição de Deploy",
+  "description": "Tempo Estimado de Conclusão: 5 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/7-deployment-request.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/deployment-request",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-request",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "deployment-request",
+    "title": "7. Requisição de Deploy",
+    "sidebar_position": 7
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "6. Configurar Integração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/configure-integration"
+  },
+  "next": {
+    "title": "8. Deployment Approval",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-approval"
+  }
+}

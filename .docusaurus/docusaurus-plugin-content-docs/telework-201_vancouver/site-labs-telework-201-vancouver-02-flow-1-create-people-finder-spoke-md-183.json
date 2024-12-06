@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Flow/Create-People-Finder-Spoke",
+  "id": "Flow/Create-People-Finder-Spoke",
+  "title": "Criar People Finder Spoke",
+  "description": "PULE ESTA SESSÃO CASO VOCÊ JÁ TENHA REALIZADO A ATIVIDADE BÔNUS DO LAB CASOS DE TELETRABALHO NÍVEL 1.",
+  "source": "@site/labs/telework-201_vancouver/02-Flow/1-Create-People-Finder-Spoke.md",
+  "sourceDirName": "02-Flow",
+  "slug": "/Flow/Create-People-Finder-Spoke",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Criar People Finder Spoke",
+    "sidebar_label": "1. Criar People Finder Spoke",
+    "hide_table_of_contents": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "3. Importar o aplicativo",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App"
+  },
+  "next": {
+    "title": "2. Criar Tabela de Decisão",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table"
+  }
+}

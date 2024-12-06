@@ -1,0 +1,28 @@
+{
+  "unversionedId": "1.0-Build-the-Foundation/configure-telework-form",
+  "id": "1.0-Build-the-Foundation/configure-telework-form",
+  "title": "1.5 Configurar o Formulário do Caso de Teletrabalho",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/1.0-Build-the-Foundation/1.5-configure-telework-form.md",
+  "sourceDirName": "1.0-Build-the-Foundation",
+  "slug": "/1.0-Build-the-Foundation/configure-telework-form",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/configure-telework-form",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "configure-telework-form",
+    "title": "1.5 Configurar o Formulário do Caso de Teletrabalho",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "1.4 Dados no Table Builder",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/table-builder-data"
+  },
+  "next": {
+    "title": "Revisão",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/1.0-Build-the-Foundation/review"
+  }
+}

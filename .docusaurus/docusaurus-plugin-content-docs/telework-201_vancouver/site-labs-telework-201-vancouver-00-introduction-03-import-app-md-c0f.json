@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Introduction/Import-App",
+  "id": "Introduction/Import-App",
+  "title": "Importar o Aplicativo de Teletrabalho",
+  "description": "Neste exercício, aprenderemos como importar um aplicativo com escopo existente usando um Update Set ou um arquivo XML. Este aplicativo foi criado no laboratório 101, Gerenciamento de Casos de Teletrabalho.",
+  "source": "@site/labs/telework-201_vancouver/00-Introduction/03-Import-App.md",
+  "sourceDirName": "00-Introduction",
+  "slug": "/Introduction/Import-App",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Importar o Aplicativo de Teletrabalho",
+    "sidebar_label": "3. Importar o aplicativo",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "2. Lista de Verificação para Decolagem 🚀",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/takeoff"
+  },
+  "next": {
+    "title": "1. Criar People Finder Spoke",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke"
+  }
+}

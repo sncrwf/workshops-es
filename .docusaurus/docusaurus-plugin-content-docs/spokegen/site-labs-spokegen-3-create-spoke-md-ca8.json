@@ -1,0 +1,29 @@
+{
+  "unversionedId": "create-the-spoke",
+  "id": "create-the-spoke",
+  "title": "Criar o Spoke",
+  "description": "Visão Geral",
+  "source": "@site/labs/spokegen/3-create-spoke.md",
+  "sourceDirName": ".",
+  "slug": "/create-the-spoke",
+  "permalink": "/workshops-es/labs/spokegen/create-the-spoke",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "create-the-spoke",
+    "title": "Criar o Spoke",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "spokegen",
+  "previous": {
+    "title": "Caso de Uso",
+    "permalink": "/workshops-es/labs/spokegen/use-case"
+  },
+  "next": {
+    "title": "Teste o Spoke",
+    "permalink": "/workshops-es/labs/spokegen/test-the-spoke"
+  }
+}

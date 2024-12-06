@@ -1,0 +1,19 @@
+{
+  "unversionedId": "utah",
+  "id": "utah",
+  "title": "🏔️ Utah",
+  "description": "This is the Utah Edition of this lab guide.",
+  "source": "@site/labs/logistics/utah.md",
+  "sourceDirName": ".",
+  "slug": "/utah",
+  "permalink": "/workshops-es/labs/logistics/utah",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "utah",
+    "title": "🏔️ Utah",
+    "hide_table_of_contents": true,
+    "draft": false
+  }
+}

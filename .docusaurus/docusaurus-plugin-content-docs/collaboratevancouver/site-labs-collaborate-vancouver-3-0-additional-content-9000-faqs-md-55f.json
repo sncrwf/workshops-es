@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3.0-additional_content/faqs",
+  "id": "3.0-additional_content/faqs",
+  "title": "FAQs",
+  "description": "As aplicações do App Engine Studio são construídas em um escopo de aplicação privada?",
+  "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-faqs.md",
+  "sourceDirName": "3.0-additional_content",
+  "slug": "/3.0-additional_content/faqs",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/faqs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9000,
+  "frontMatter": {
+    "id": "faqs",
+    "title": "FAQs",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Dicas de Clonagem",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/cloning"
+  },
+  "next": {
+    "title": "Requisitos de Instalação",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/install-reqs"
+  }
+}

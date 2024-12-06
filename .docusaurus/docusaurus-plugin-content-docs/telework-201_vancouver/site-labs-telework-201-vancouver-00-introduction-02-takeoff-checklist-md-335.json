@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Introduction/takeoff",
+  "id": "Introduction/takeoff",
+  "title": "2. Lista de Verificação para Decolagem 🚀",
+  "description": "Bem-vindo à próxima fase do nosso workshop! Esta sessão, que se estende por dois dias, baseia-se no trabalho que você fez anteriormente na criação do aplicativo de Gerenciamento de Casos de Teletrabalho. Alguns de vocês podem ter desenvolvido esse aplicativo durante a sessão de ontem, enquanto outros podem tê-lo criado em um workshop anterior. Independentemente de quando você o construiu, começaremos garantindo que todos tenham o mesmo aplicativo fundamental.",
+  "source": "@site/labs/telework-201_vancouver/00-Introduction/02-Takeoff_Checklist.md",
+  "sourceDirName": "00-Introduction",
+  "slug": "/Introduction/takeoff",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/takeoff",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "takeoff",
+    "title": "2. Lista de Verificação para Decolagem 🚀",
+    "sidebar_label": "2. Lista de Verificação para Decolagem 🚀",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "1. Visão Geral do Laboratório",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Overview"
+  },
+  "next": {
+    "title": "3. Importar o aplicativo",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App"
+  }
+}

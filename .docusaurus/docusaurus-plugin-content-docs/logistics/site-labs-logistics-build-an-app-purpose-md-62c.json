@@ -1,0 +1,27 @@
+{
+  "unversionedId": "build_an_app/purpose",
+  "id": "build_an_app/purpose",
+  "title": "Purpose",
+  "description": "",
+  "source": "@site/labs/logistics/build_an_app/purpose.md",
+  "sourceDirName": "build_an_app",
+  "slug": "/build_an_app/purpose",
+  "permalink": "/workshops-es/labs/logistics/build_an_app/purpose",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "purpose",
+    "sidebar_position": 4,
+    "sidebar_label": "Purpose",
+    "title": "Purpose",
+    "hide_table_of_contents": true,
+    "draft": true
+  },
+  "sidebar": "logistics",
+  "previous": {
+    "title": "Create Data",
+    "permalink": "/workshops-es/labs/logistics/build_an_app/section2"
+  }
+}

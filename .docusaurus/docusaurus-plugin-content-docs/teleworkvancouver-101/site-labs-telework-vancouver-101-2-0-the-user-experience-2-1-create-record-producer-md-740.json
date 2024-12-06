@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-The-User-Experience/create-record-producer",
+  "id": "2.0-The-User-Experience/create-record-producer",
+  "title": "2.1 Criar o Formulário de Solicitação",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/2.0-The-User-Experience/2.1-create-record-producer.md",
+  "sourceDirName": "2.0-The-User-Experience",
+  "slug": "/2.0-The-User-Experience/create-record-producer",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/create-record-producer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-record-producer",
+    "title": "2.1 Criar o Formulário de Solicitação",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "2. Experiência do Usuário: Visão Geral",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/overview"
+  },
+  "next": {
+    "title": "2.2 Adicionar campos",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/configure-record-producer"
+  }
+}

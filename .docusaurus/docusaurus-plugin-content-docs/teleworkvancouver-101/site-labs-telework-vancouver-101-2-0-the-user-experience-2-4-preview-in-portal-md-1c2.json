@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-The-User-Experience/preview-in-portal",
+  "id": "2.0-The-User-Experience/preview-in-portal",
+  "title": "2.4 Visualizar no portal",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/2.0-The-User-Experience/2.4-preview-in-portal.md",
+  "sourceDirName": "2.0-The-User-Experience",
+  "slug": "/2.0-The-User-Experience/preview-in-portal",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "preview-in-portal",
+    "title": "2.4 Visualizar no portal",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "2.3 Visualizar no AES",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes"
+  },
+  "next": {
+    "title": "Revisão",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/review"
+  }
+}

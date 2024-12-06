@@ -1,0 +1,31 @@
+{
+  "unversionedId": "get_started/goals",
+  "id": "get_started/goals",
+  "title": "Goals",
+  "description": "ServiceNow is committed to empowering our users to provide better experiences while digitally transforming workflows across the enterprise. Two important capabilities we leverage to deliver these outcomes are App Engine Studio and IntegrationHub.",
+  "source": "@site/labs/logistics/get_started/01-goals.md",
+  "sourceDirName": "get_started",
+  "slug": "/get_started/goals",
+  "permalink": "/workshops-es/labs/logistics/get_started/goals",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "goals",
+    "sidebar_position": 1,
+    "sidebar_label": "Goals",
+    "title": "Goals",
+    "hide_table_of_contents": true,
+    "draft": true
+  },
+  "sidebar": "logistics",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/workshops-es/labs/logistics/get_started/overview"
+  },
+  "next": {
+    "title": "Use Case",
+    "permalink": "/workshops-es/labs/logistics/get_started/usecase"
+  }
+}

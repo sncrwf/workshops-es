@@ -1,0 +1,29 @@
+{
+  "unversionedId": "1.0-implementation/1.1-prod/environments",
+  "id": "1.0-implementation/1.1-prod/environments",
+  "title": "2. Ambientes",
+  "description": "Tempo Estimado para Conclusão: 10 minutos",
+  "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.1-prod/2-prod-environments.md",
+  "sourceDirName": "1.0-implementation/1.1-prod",
+  "slug": "/1.0-implementation/1.1-prod/environments",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/environments",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "environments",
+    "title": "2. Ambientes",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "1. Credenciais",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential"
+  },
+  "next": {
+    "title": "3. Pipeline",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/pipeline"
+  }
+}

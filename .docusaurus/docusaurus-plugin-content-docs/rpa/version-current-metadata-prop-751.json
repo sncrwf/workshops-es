@@ -1,0 +1,128 @@
+{
+  "pluginId": "rpa",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "rpa": [
+      {
+        "type": "category",
+        "label": "Introdução",
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Introdução",
+            "href": "/workshops-es/labs/rpa/introduction",
+            "docId": "introduction"
+          },
+          {
+            "type": "link",
+            "label": "2. Revisar Aplicativo",
+            "href": "/workshops-es/labs/rpa/review-app",
+            "docId": "review-app"
+          },
+          {
+            "type": "link",
+            "label": "3. RPA Hub Workspace",
+            "href": "/workshops-es/labs/rpa/rpa-hub",
+            "docId": "rpa-hub"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Laboratório",
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Conectando à VM",
+            "href": "/workshops-es/labs/rpa/vm-connect",
+            "docId": "vm-connect"
+          },
+          {
+            "type": "link",
+            "label": "2. RPA Design Studio",
+            "href": "/workshops-es/labs/rpa/rpa-design",
+            "docId": "rpa-design"
+          },
+          {
+            "type": "link",
+            "label": "3. Não tem tempo para terminar? ",
+            "href": "/workshops-es/labs/rpa/finish",
+            "docId": "finish"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Baixar Guia do Laboratório em PDF",
+        "href": "/workshops-es/labs/rpa/lab-guide-pdf",
+        "docId": "lab-guide-pdf"
+      },
+      {
+        "type": "link",
+        "label": "Pesquisa",
+        "href": "/workshops-es/labs/rpa/survey",
+        "docId": "survey"
+      }
+    ]
+  },
+  "docs": {
+    "finish": {
+      "id": "finish",
+      "title": "Não tem tempo para terminar?",
+      "description": "Se você está tendo dificuldades para construir essa automação, você pode baixar o pacote de automação a partir deste link: Link. Extraia-o na máquina onde você tem o RPA Studio e abra-o no Studio.",
+      "sidebar": "rpa"
+    },
+    "introduction": {
+      "id": "introduction",
+      "title": "Introdução",
+      "description": "RPA",
+      "sidebar": "rpa"
+    },
+    "lab-guide-pdf": {
+      "id": "lab-guide-pdf",
+      "title": "Baixar Guia do Laboratório em PDF",
+      "description": "Clique aqui para baixar o Guia do Laboratório em PDF",
+      "sidebar": "rpa"
+    },
+    "review-app": {
+      "id": "review-app",
+      "title": "Revisando o Aplicativo de Badging",
+      "description": "De um navegador da web, abra este Link para acessar o aplicativo de badging baseado na web. Depois disso, você deve ver a tela de autenticação abaixo.",
+      "sidebar": "rpa"
+    },
+    "rpa-design": {
+      "id": "rpa-design",
+      "title": "Introdução ao RPA Design Studio",
+      "description": "O Robotic Process Automation (RPA) Desktop Design Studio é um Ambiente de Desenvolvimento Integrado (IDE) low-code onde você pode projetar ou configurar fluxos de trabalho de automação RPA arrastando e soltando componentes na superfície de design. O RPA Desktop Design Studio é um aplicativo nativo do Windows.",
+      "sidebar": "rpa"
+    },
+    "rpa-hub": {
+      "id": "rpa-hub",
+      "title": "RPA Hub Workspace",
+      "description": "Na próxima etapa, realizaremos algumas tarefas administrativas dentro do Espaço de Trabalho do RPA Hub para ajudá-lo a se familiarizar com as várias configurações disponíveis. Faça login na instância atribuída a você usando as credenciais de administrador que recebeu ao reivindicar essa instância.",
+      "sidebar": "rpa"
+    },
+    "survey": {
+      "id": "survey",
+      "title": "Valorizamos Seu Feedback!",
+      "description": "Ajude-nos a Melhorar Sua Experiência de Aprendizado",
+      "sidebar": "rpa"
+    },
+    "vm-connect": {
+      "id": "vm-connect",
+      "title": "Conectando à VM",
+      "description": "Uma Máquina Virtual (VM) Windows é necessária para completar este laboratório. O endereço IP e as credenciais de login foram fornecidos durante a inscrição. Se você estiver usando um laptop Mac, certifique-se de que o Microsoft Remote Desktop App esteja instalado como pré-requisito para este laboratório.",
+      "sidebar": "rpa"
+    }
+  }
+}

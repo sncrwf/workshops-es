@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Portal/3.2 Add a Widget",
+  "id": "Portal/3.2 Add a Widget",
+  "title": "Portal: Add a Widget",
+  "description": "Neste exercício, aprenderemos como configurar uma página existente e um widget para dar aos usuários acesso à lista de solicitações de Teletrabalho que eles enviaram ou estão atribuídas a eles.",
+  "source": "@site/labs/telework-201_vancouver/04-Portal/3.2 Add a Widget.md",
+  "sourceDirName": "04-Portal",
+  "slug": "/Portal/3.2 Add a Widget",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.2 Add a Widget",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Portal: Add a Widget",
+    "sidebar_label": "2. Add a Widget",
+    "hide_table_of_contents": true,
+    "pagination_label": "Portal"
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "Portal",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.1 Branding"
+  },
+  "next": {
+    "title": "Portal",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.3 Create a Widget"
+  }
+}

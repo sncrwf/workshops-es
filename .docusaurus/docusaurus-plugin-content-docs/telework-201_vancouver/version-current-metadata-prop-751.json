@@ -1,0 +1,265 @@
+{
+  "pluginId": "telework-201_vancouver",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "teleworkvancouver": [
+      {
+        "type": "category",
+        "label": "Introdução",
+        "items": [
+          {
+            "type": "link",
+            "label": "🏞️ Vancouver",
+            "href": "/workshops-es/labs/telework-201_vancouver/Introduction/vancouver",
+            "docId": "Introduction/vancouver"
+          },
+          {
+            "type": "link",
+            "label": "1. Visão Geral do Laboratório",
+            "href": "/workshops-es/labs/telework-201_vancouver/Introduction/Overview",
+            "docId": "Introduction/Overview"
+          },
+          {
+            "type": "link",
+            "label": "2. Lista de Verificação para Decolagem 🚀",
+            "href": "/workshops-es/labs/telework-201_vancouver/Introduction/takeoff",
+            "docId": "Introduction/takeoff"
+          },
+          {
+            "type": "link",
+            "label": "3. Importar o aplicativo",
+            "href": "/workshops-es/labs/telework-201_vancouver/Introduction/Import-App",
+            "docId": "Introduction/Import-App"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "1. Fluxo de Trabalho",
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Criar People Finder Spoke",
+            "href": "/workshops-es/labs/telework-201_vancouver/Flow/Create-People-Finder-Spoke",
+            "docId": "Flow/Create-People-Finder-Spoke"
+          },
+          {
+            "type": "link",
+            "label": "2. Criar Tabela de Decisão",
+            "href": "/workshops-es/labs/telework-201_vancouver/Flow/Create-Decision-Table",
+            "docId": "Flow/Create-Decision-Table"
+          },
+          {
+            "type": "link",
+            "label": "3. Modificar Fluxo de Aprovação de Caso de Teletrabalho",
+            "href": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow",
+            "docId": "Flow/Modify-Main-Flow"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "2. Formulários Inteligentes",
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Adicionar um playbook",
+            "href": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook",
+            "docId": "Smarter-Forms/Playbook"
+          },
+          {
+            "type": "link",
+            "label": "2. Record Producer",
+            "href": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer",
+            "docId": "Smarter-Forms/Record-Producer"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "3. [Bônus] Portal",
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Branding",
+            "href": "/workshops-es/labs/telework-201_vancouver/Portal/3.1 Branding",
+            "docId": "Portal/3.1 Branding"
+          },
+          {
+            "type": "link",
+            "label": "2. Add a Widget",
+            "href": "/workshops-es/labs/telework-201_vancouver/Portal/3.2 Add a Widget",
+            "docId": "Portal/3.2 Add a Widget"
+          },
+          {
+            "type": "link",
+            "label": "3. Create a Widget",
+            "href": "/workshops-es/labs/telework-201_vancouver/Portal/3.3 Create a Widget",
+            "docId": "Portal/3.3 Create a Widget"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Conclusão",
+        "href": "/workshops-es/labs/telework-201_vancouver/Conclusion/",
+        "docId": "Conclusion/index"
+      },
+      {
+        "type": "link",
+        "label": "CHANGELOG",
+        "href": "/workshops-es/labs/telework-201_vancouver/CHANGELOG",
+        "docId": "CHANGELOG"
+      },
+      {
+        "type": "link",
+        "label": "Baixar Guia do Laboratório em PDF",
+        "href": "/workshops-es/labs/telework-201_vancouver/lab-guide-pdf",
+        "docId": "lab-guide-pdf"
+      },
+      {
+        "type": "link",
+        "label": "Pesquisa",
+        "href": "/workshops-es/labs/telework-201_vancouver/Survey",
+        "docId": "Survey"
+      }
+    ]
+  },
+  "docs": {
+    "CHANGELOG": {
+      "id": "CHANGELOG",
+      "title": "CHANGELOG",
+      "description": "History",
+      "sidebar": "teleworkvancouver"
+    },
+    "Conclusion/index": {
+      "id": "Conclusion/index",
+      "title": "Conclusão",
+      "description": "Neste laboratório, construímos, implementamos e testamos um aplicativo usando os componentes fundamentais de uma aplicação: Dados, Experiência do Usuário e Automação.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Flow/Create-Decision-Table": {
+      "id": "Flow/Create-Decision-Table",
+      "title": "Criar Tabela de Decisão",
+      "description": "Uma Tabela de Decisão permite que os usuários definam regras de negócios complexas e lógica de decisão usando um formato tabular. As tabelas de decisão são particularmente úteis para automatizar processos de tomada de decisão dentro de fluxos de trabalho, aprovações ou outros processos de negócios.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Flow/Create-People-Finder-Spoke": {
+      "id": "Flow/Create-People-Finder-Spoke",
+      "title": "Criar People Finder Spoke",
+      "description": "PULE ESTA SESSÃO CASO VOCÊ JÁ TENHA REALIZADO A ATIVIDADE BÔNUS DO LAB CASOS DE TELETRABALHO NÍVEL 1.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Flow/index": {
+      "id": "Flow/index",
+      "title": "Fluxo: Visão Geral",
+      "description": "Objetivo"
+    },
+    "Flow/Modify-Main-Flow": {
+      "id": "Flow/Modify-Main-Flow",
+      "title": "Modificar Fluxo de Aprovação de Caso de Teletrabalho",
+      "description": "Agora que criamos o People Finder Spoke e nossa Tabela de Decisão de Aprovação Automática, vamos modificar o Fluxo de Aprovação de Caso de Teletrabalho para permitir a aprovação automática para aqueles que foram pré-certificados ou solicitaram 3 dias ou menos para Teletrabalho Situacional.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Governance/index": {
+      "id": "Governance/index",
+      "title": "Governance",
+      "description": "Caso de Uso"
+    },
+    "Governance/Securely-Expand": {
+      "id": "Governance/Securely-Expand",
+      "title": "1. Securely Expand",
+      "description": "Amanda implementou com sucesso seu aplicativo para sua equipe, e ele chamou a atenção de outra equipe que também deseja usá-lo. Uma condição principal é manter a privacidade dos registros entre as duas equipes."
+    },
+    "Introduction/Import-App": {
+      "id": "Introduction/Import-App",
+      "title": "Importar o Aplicativo de Teletrabalho",
+      "description": "Neste exercício, aprenderemos como importar um aplicativo com escopo existente usando um Update Set ou um arquivo XML. Este aplicativo foi criado no laboratório 101, Gerenciamento de Casos de Teletrabalho.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Introduction/Overview": {
+      "id": "Introduction/Overview",
+      "title": "Visão Geral do Laboratório",
+      "description": "Introdução",
+      "sidebar": "teleworkvancouver"
+    },
+    "Introduction/takeoff": {
+      "id": "Introduction/takeoff",
+      "title": "2. Lista de Verificação para Decolagem 🚀",
+      "description": "Bem-vindo à próxima fase do nosso workshop! Esta sessão, que se estende por dois dias, baseia-se no trabalho que você fez anteriormente na criação do aplicativo de Gerenciamento de Casos de Teletrabalho. Alguns de vocês podem ter desenvolvido esse aplicativo durante a sessão de ontem, enquanto outros podem tê-lo criado em um workshop anterior. Independentemente de quando você o construiu, começaremos garantindo que todos tenham o mesmo aplicativo fundamental.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Introduction/vancouver": {
+      "id": "Introduction/vancouver",
+      "title": "🏞️ Vancouver",
+      "description": "Esta é a Edição Vancouver deste guia de laboratório.",
+      "sidebar": "teleworkvancouver"
+    },
+    "lab-guide-pdf": {
+      "id": "lab-guide-pdf",
+      "title": "Baixar Guia do Laboratório em PDF",
+      "description": "Clique aqui para baixar o Guia do Laboratório em PDF",
+      "sidebar": "teleworkvancouver"
+    },
+    "Portal/3.1 Branding": {
+      "id": "Portal/3.1 Branding",
+      "title": "Portal: Branding",
+      "description": "Após todo o trabalho realizado para melhorar a funcionalidade da aplicação de Gerenciamento de Casos de Teletrabalho, finalmente é hora de deixá-la bonita!",
+      "sidebar": "teleworkvancouver"
+    },
+    "Portal/3.2 Add a Widget": {
+      "id": "Portal/3.2 Add a Widget",
+      "title": "Portal: Add a Widget",
+      "description": "Neste exercício, aprenderemos como configurar uma página existente e um widget para dar aos usuários acesso à lista de solicitações de Teletrabalho que eles enviaram ou estão atribuídas a eles.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Portal/3.3 Create a Widget": {
+      "id": "Portal/3.3 Create a Widget",
+      "title": "Portal: Create a Widget",
+      "description": "Neste exercício, aprenderemos como clonar um widget existente para modificá-lo. Utilizaremos o botão para permitir que os usuários naveguem para uma visão editável dos Casos de Teletrabalho que enviaram ou estão atribuídos a eles.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Portal/index": {
+      "id": "Portal/index",
+      "title": "Portal: Overview",
+      "description": "Purpose"
+    },
+    "Smarter-Forms/index": {
+      "id": "Smarter-Forms/index",
+      "title": "Formulários Inteligentes",
+      "description": "Propósito"
+    },
+    "Smarter-Forms/Playbook": {
+      "id": "Smarter-Forms/Playbook",
+      "title": "Adicionar um playbook",
+      "description": "A equipe de Amanda está crescendo e o espaço de trabalho que ela usa para gerenciar e relatar casos de teletrabalho agora é utilizado por mais de seus subordinados diretos. Ela percebeu que alguns desses subordinados nem sempre estão cientes do que validar nas solicitações e Amanda gostaria de uma forma para que qualquer pessoa que visualize os Casos de Teletrabalho seja orientada sobre o que procurar, garantir que o processo seja seguido e que todos os casos sejam tratados de forma igualitária.",
+      "sidebar": "teleworkvancouver"
+    },
+    "Smarter-Forms/Record-Producer": {
+      "id": "Smarter-Forms/Record-Producer",
+      "title": "Atualizar o Record Producer",
+      "description": "- Verificar o gerente e auto-preencher o campo 'Requested For'",
+      "sidebar": "teleworkvancouver"
+    },
+    "Survey": {
+      "id": "Survey",
+      "title": "Valorizamos Seu Feedback!",
+      "description": "Ajude-nos a Melhorar Sua Experiência de Aprendizado",
+      "sidebar": "teleworkvancouver"
+    }
+  }
+}

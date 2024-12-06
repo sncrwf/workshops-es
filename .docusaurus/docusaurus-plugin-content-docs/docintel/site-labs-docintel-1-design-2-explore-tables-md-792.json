@@ -1,0 +1,29 @@
+{
+  "unversionedId": "design/2-explore-tables",
+  "id": "design/2-explore-tables",
+  "title": "1.2 Explore as tabelas e entenda a solução",
+  "description": "As tabelas já estão criadas na instância com fluxos básicos.",
+  "source": "@site/labs/docintel/1-design/2-explore-tables.md",
+  "sourceDirName": "1-design",
+  "slug": "/design/2-explore-tables",
+  "permalink": "/workshops-es/labs/docintel/design/2-explore-tables",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2-explore-tables",
+    "title": "1.2 Explore as tabelas e entenda a solução",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "docintel",
+  "previous": {
+    "title": "1.1 Localize os documentos na sua instância",
+    "permalink": "/workshops-es/labs/docintel/design/1-locate-doc"
+  },
+  "next": {
+    "title": "2.1 Configurar um caso de uso com Document Intelligence Admin",
+    "permalink": "/workshops-es/labs/docintel/configure-docintel/1-use-case"
+  }
+}

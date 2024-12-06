@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-The-User-Experience/preview-in-aes",
+  "id": "2.0-The-User-Experience/preview-in-aes",
+  "title": "2.3 Visualizar no AES",
+  "description": "Visão Geral",
+  "source": "@site/labs/telework-vancouver-101/2.0-The-User-Experience/2.3-preview-in-aes.md",
+  "sourceDirName": "2.0-The-User-Experience",
+  "slug": "/2.0-The-User-Experience/preview-in-aes",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-aes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "preview-in-aes",
+    "title": "2.3 Visualizar no AES",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "2.2 Adicionar campos",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/configure-record-producer"
+  },
+  "next": {
+    "title": "2.4 Visualizar no portal",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/2.0-The-User-Experience/preview-in-portal"
+  }
+}

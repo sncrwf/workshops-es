@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/collaboration-approval",
+  "id": "2.0-simulation/collaboration-approval",
+  "title": "5. Aprovação de Colaboração",
+  "description": "Tempo Estimado de Conclusão: 5 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/5-collaboration-approval.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/collaboration-approval",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-approval",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "collaboration-approval",
+    "title": "5. Aprovação de Colaboração",
+    "sidebar_position": 5
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "4. Requisição de Colaboração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request"
+  },
+  "next": {
+    "title": "6. Configurar Integração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/configure-integration"
+  }
+}

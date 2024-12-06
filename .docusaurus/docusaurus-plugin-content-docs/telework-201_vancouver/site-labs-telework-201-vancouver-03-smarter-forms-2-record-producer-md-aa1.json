@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Smarter-Forms/Record-Producer",
+  "id": "Smarter-Forms/Record-Producer",
+  "title": "Atualizar o Record Producer",
+  "description": "- Verificar o gerente e auto-preencher o campo 'Requested For'",
+  "source": "@site/labs/telework-201_vancouver/03-Smarter-Forms/2-Record-Producer.md",
+  "sourceDirName": "03-Smarter-Forms",
+  "slug": "/Smarter-Forms/Record-Producer",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Atualizar o Record Producer",
+    "sidebar_label": "2. Record Producer",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "1. Adicionar um playbook",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook"
+  },
+  "next": {
+    "title": "Portal",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Portal/3.1 Branding"
+  }
+}

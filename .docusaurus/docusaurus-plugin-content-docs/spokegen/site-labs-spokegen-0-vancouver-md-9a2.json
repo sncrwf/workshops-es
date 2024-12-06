@@ -1,0 +1,25 @@
+{
+  "unversionedId": "vancouver",
+  "id": "vancouver",
+  "title": "🏞️ Vancouver",
+  "description": "Esta é a Edição de Vancouver deste guia de laboratório.",
+  "source": "@site/labs/spokegen/0-vancouver.md",
+  "sourceDirName": ".",
+  "slug": "/vancouver",
+  "permalink": "/workshops-es/labs/spokegen/vancouver",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "vancouver",
+    "title": "🏞️ Vancouver",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "spokegen",
+  "next": {
+    "title": "Visão Geral",
+    "permalink": "/workshops-es/labs/spokegen/overview"
+  }
+}

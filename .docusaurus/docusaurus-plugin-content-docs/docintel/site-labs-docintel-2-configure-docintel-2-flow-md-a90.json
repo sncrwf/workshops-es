@@ -1,0 +1,29 @@
+{
+  "unversionedId": "configure-docintel/2-flow",
+  "id": "configure-docintel/2-flow",
+  "title": "2.2 Configurar Flows para Document Intelligence",
+  "description": "Com o caso de uso aberto na página de administração do Document Intelligence:",
+  "source": "@site/labs/docintel/2-configure-docintel/2-flow.md",
+  "sourceDirName": "2-configure-docintel",
+  "slug": "/configure-docintel/2-flow",
+  "permalink": "/workshops-es/labs/docintel/configure-docintel/2-flow",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2-flow",
+    "title": "2.2 Configurar Flows para Document Intelligence",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "docintel",
+  "previous": {
+    "title": "2.1 Configurar um caso de uso com Document Intelligence Admin",
+    "permalink": "/workshops-es/labs/docintel/configure-docintel/1-use-case"
+  },
+  "next": {
+    "title": "2.3 Adicionar Flows para processamento avançado",
+    "permalink": "/workshops-es/labs/docintel/configure-docintel/3-advanced"
+  }
+}

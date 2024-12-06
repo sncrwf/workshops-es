@@ -1,0 +1,29 @@
+{
+  "unversionedId": "5.0-conclusion/resources",
+  "id": "5.0-conclusion/resources",
+  "title": "Recursos Suplementares",
+  "description": "Além deste Guia do Laboratório e dos recursos discutidos no workshop ao vivo, os seguintes recursos estão sempre disponíveis para ajudar com esta ou qualquer outra atividade no ServiceNow.",
+  "source": "@site/labs/telework-vancouver-101/5.0-conclusion/01-Supplemental-Resources.md",
+  "sourceDirName": "5.0-conclusion",
+  "slug": "/5.0-conclusion/resources",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/resources",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "resources",
+    "title": "Recursos Suplementares",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "Revisão do Laboratório",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/lab-review"
+  },
+  "next": {
+    "title": "Apêndice",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/5.0-conclusion/appendix"
+  }
+}

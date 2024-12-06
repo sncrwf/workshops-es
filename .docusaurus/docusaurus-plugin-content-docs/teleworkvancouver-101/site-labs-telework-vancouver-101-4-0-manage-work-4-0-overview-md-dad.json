@@ -1,0 +1,30 @@
+{
+  "unversionedId": "4.0-Manage-Work/overview",
+  "id": "4.0-Manage-Work/overview",
+  "title": "4. Gerenciar trabalho: Visão Geral",
+  "description": "Neste exercício, aprenderemos a criar uma experiência de Workspace para fulfillers usando o poderoso Workspace Builder dentro do App Engine Studio. Isso permitirá que a equipe de fulfillers da Amanda acompanhe e gerencie facilmente os Casos de Teletrabalho em toda a empresa.",
+  "source": "@site/labs/telework-vancouver-101/4.0-Manage-Work/4.0-overview.md",
+  "sourceDirName": "4.0-Manage-Work",
+  "slug": "/4.0-Manage-Work/overview",
+  "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview",
+    "title": "4. Gerenciar trabalho: Visão Geral",
+    "pagination_label": "4. Gerenciar trabalho: Visão Geral",
+    "sidebar_label": "Visão Geral",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "Revisão",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/3.0-Automate-Work/review"
+  },
+  "next": {
+    "title": "4.1 Criar um Workspace",
+    "permalink": "/workshops-es/labs/telework-vancouver-101/4.0-Manage-Work/create"
+  }
+}

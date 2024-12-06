@@ -1,0 +1,29 @@
+{
+  "unversionedId": "2.0-simulation/lab-complete",
+  "id": "2.0-simulation/lab-complete",
+  "title": "Lab Completo",
+  "description": "Gostou do feedback?",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/9-lab-complete.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/lab-complete",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/lab-complete",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "lab-complete",
+    "title": "Lab Completo",
+    "sidebar_position": 9,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "8. Deployment Approval",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/deployment-approval"
+  },
+  "next": {
+    "title": "AES vs. Studio",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/aes-vs-studio"
+  }
+}

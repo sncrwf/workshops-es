@@ -1,0 +1,31 @@
+{
+  "unversionedId": "finish",
+  "id": "finish",
+  "title": "Não tem tempo para terminar?",
+  "description": "Se você está tendo dificuldades para construir essa automação, você pode baixar o pacote de automação a partir deste link: Link. Extraia-o na máquina onde você tem o RPA Studio e abra-o no Studio.",
+  "source": "@site/labs/rpa/6-finish.md",
+  "sourceDirName": ".",
+  "slug": "/finish",
+  "permalink": "/workshops-es/labs/rpa/finish",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "finish",
+    "title": "Não tem tempo para terminar?",
+    "pagination_label": "3. Não tem tempo para terminar?",
+    "sidebar_label": "3. Não tem tempo para terminar? ",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "rpa",
+  "previous": {
+    "title": "2. RPA Design Studio",
+    "permalink": "/workshops-es/labs/rpa/rpa-design"
+  },
+  "next": {
+    "title": "Baixar Guia do Laboratório em PDF",
+    "permalink": "/workshops-es/labs/rpa/lab-guide-pdf"
+  }
+}

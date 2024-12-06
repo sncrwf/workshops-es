@@ -1,0 +1,172 @@
+{
+  "pluginId": "docintel",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docintel": [
+      {
+        "type": "link",
+        "label": "1. Introdução",
+        "href": "/workshops-es/labs/docintel/introduction",
+        "docId": "introduction"
+      },
+      {
+        "type": "category",
+        "label": "1. Desenhe a solução",
+        "items": [
+          {
+            "type": "link",
+            "label": "1.1 Localize os documentos na sua instância",
+            "href": "/workshops-es/labs/docintel/design/1-locate-doc",
+            "docId": "design/1-locate-doc"
+          },
+          {
+            "type": "link",
+            "label": "1.2 Explore as tabelas e entenda a solução",
+            "href": "/workshops-es/labs/docintel/design/2-explore-tables",
+            "docId": "design/2-explore-tables"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "2. Configure o caso de uso do Document Intelligence e Integração",
+        "items": [
+          {
+            "type": "link",
+            "label": "2.1 Configurar um caso de uso com Document Intelligence Admin",
+            "href": "/workshops-es/labs/docintel/configure-docintel/1-use-case",
+            "docId": "configure-docintel/1-use-case"
+          },
+          {
+            "type": "link",
+            "label": "2.2 Configurar Flows para Document Intelligence",
+            "href": "/workshops-es/labs/docintel/configure-docintel/2-flow",
+            "docId": "configure-docintel/2-flow"
+          },
+          {
+            "type": "link",
+            "label": "2.3 Adicionar Flows para processamento avançado",
+            "href": "/workshops-es/labs/docintel/configure-docintel/3-advanced",
+            "docId": "configure-docintel/3-advanced"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "3. Processo End-to-End",
+        "items": [
+          {
+            "type": "link",
+            "label": "3.1 Enviar como solicitante e processar um documento",
+            "href": "/workshops-es/labs/docintel/e2e/1-submit",
+            "docId": "e2e/1-submit"
+          },
+          {
+            "type": "link",
+            "label": "3.2 Aumente a produtividade do agente com Autofill",
+            "href": "/workshops-es/labs/docintel/e2e/2-autofill",
+            "docId": "e2e/2-autofill"
+          },
+          {
+            "type": "link",
+            "label": "3.3 Exporte sua solução",
+            "href": "/workshops-es/labs/docintel/e2e/3-export",
+            "docId": "e2e/3-export"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Baixar Guia do Laboratório em PDF",
+        "href": "/workshops-es/labs/docintel/lab-guide-pdf",
+        "docId": "lab-guide-pdf"
+      },
+      {
+        "type": "link",
+        "label": "Pesquisa",
+        "href": "/workshops-es/labs/docintel/survey",
+        "docId": "survey"
+      }
+    ]
+  },
+  "docs": {
+    "configure-docintel/1-use-case": {
+      "id": "configure-docintel/1-use-case",
+      "title": "2.1 Configurar um caso de uso com Document Intelligence Admin",
+      "description": "1. Navegue para Document Intelligence > Administration > Home.",
+      "sidebar": "docintel"
+    },
+    "configure-docintel/2-flow": {
+      "id": "configure-docintel/2-flow",
+      "title": "2.2 Configurar Flows para Document Intelligence",
+      "description": "Com o caso de uso aberto na página de administração do Document Intelligence:",
+      "sidebar": "docintel"
+    },
+    "configure-docintel/3-advanced": {
+      "id": "configure-docintel/3-advanced",
+      "title": "2.3 Adicionar Flows para processamento avançado",
+      "description": "DESAFIO: Agora é hora de testar seus conhecimentos",
+      "sidebar": "docintel"
+    },
+    "design/1-locate-doc": {
+      "id": "design/1-locate-doc",
+      "title": "1.1 Localize os documentos na sua instância",
+      "description": "No menu de navegação, abra Invoice Documents for Lab:",
+      "sidebar": "docintel"
+    },
+    "design/2-explore-tables": {
+      "id": "design/2-explore-tables",
+      "title": "1.2 Explore as tabelas e entenda a solução",
+      "description": "As tabelas já estão criadas na instância com fluxos básicos.",
+      "sidebar": "docintel"
+    },
+    "e2e/1-submit": {
+      "id": "e2e/1-submit",
+      "title": "3.1 Enviar como solicitante e processar um documento",
+      "description": "1. Envie uma solicitação para o processamento de fatura:",
+      "sidebar": "docintel"
+    },
+    "e2e/2-autofill": {
+      "id": "e2e/2-autofill",
+      "title": "3.2 Aumente a produtividade do agente com Autofill",
+      "description": "1. Finalize o Impersonation .",
+      "sidebar": "docintel"
+    },
+    "e2e/3-export": {
+      "id": "e2e/3-export",
+      "title": "3.3 Exporte sua solução",
+      "description": "OPCIONAL: Laboratório com atividade adicional para aprimorar seus conhecimentos.",
+      "sidebar": "docintel"
+    },
+    "introduction": {
+      "id": "introduction",
+      "title": "1. Introdução",
+      "description": "Visão Geral",
+      "sidebar": "docintel"
+    },
+    "lab-guide-pdf": {
+      "id": "lab-guide-pdf",
+      "title": "Baixar Guia do Laboratório em PDF",
+      "description": "Clique aqui para baixar o Guia do Laboratório em PDF",
+      "sidebar": "docintel"
+    },
+    "survey": {
+      "id": "survey",
+      "title": "Valorizamos Seu Feedback!",
+      "description": "Ajude-nos a Melhorar Sua Experiência de Aprendizado",
+      "sidebar": "docintel"
+    }
+  }
+}

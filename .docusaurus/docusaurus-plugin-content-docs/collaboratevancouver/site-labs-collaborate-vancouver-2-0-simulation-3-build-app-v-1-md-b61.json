@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2.0-simulation/build-app-from-template",
+  "id": "2.0-simulation/build-app-from-template",
+  "title": "3. Construir App via template",
+  "description": "Tempo Estimado de Conclusão: 15 minutos",
+  "source": "@site/labs/collaborate-vancouver/2.0-simulation/3-build-app-v1.md",
+  "sourceDirName": "2.0-simulation",
+  "slug": "/2.0-simulation/build-app-from-template",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/build-app-from-template",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "build-app-from-template",
+    "title": "3. Construir App via template",
+    "sidebar_position": 3
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "2. Aprovação de Intake",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/intake-approval"
+  },
+  "next": {
+    "title": "4. Requisição de Colaboração",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/collaboration-request"
+  }
+}

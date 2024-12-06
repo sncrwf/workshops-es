@@ -1,0 +1,133 @@
+{
+  "pluginId": "logistics",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "logistics": [
+      {
+        "type": "category",
+        "label": "Logistics Lab",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/workshops-es/labs/logistics/get_started/overview",
+            "docId": "get_started/overview"
+          },
+          {
+            "type": "link",
+            "label": "Goals",
+            "href": "/workshops-es/labs/logistics/get_started/goals",
+            "docId": "get_started/goals"
+          },
+          {
+            "type": "link",
+            "label": "Use Case",
+            "href": "/workshops-es/labs/logistics/get_started/usecase",
+            "docId": "get_started/usecase"
+          },
+          {
+            "type": "link",
+            "label": "Setup",
+            "href": "/workshops-es/labs/logistics/get_started/setup",
+            "docId": "get_started/setup"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "1. Build an App",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/workshops-es/labs/logistics/build_an_app/overview",
+            "docId": "build_an_app/overview"
+          },
+          {
+            "type": "link",
+            "label": "App Framework",
+            "href": "/workshops-es/labs/logistics/build_an_app/section1",
+            "docId": "build_an_app/section1"
+          },
+          {
+            "type": "link",
+            "label": "Create Data",
+            "href": "/workshops-es/labs/logistics/build_an_app/section2",
+            "docId": "build_an_app/section2"
+          },
+          {
+            "type": "link",
+            "label": "Purpose",
+            "href": "/workshops-es/labs/logistics/build_an_app/purpose",
+            "docId": "build_an_app/purpose"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "build_an_app/overview": {
+      "id": "build_an_app/overview",
+      "title": "Overview",
+      "description": "Purpose",
+      "sidebar": "logistics"
+    },
+    "build_an_app/purpose": {
+      "id": "build_an_app/purpose",
+      "title": "Purpose",
+      "description": "",
+      "sidebar": "logistics"
+    },
+    "build_an_app/section1": {
+      "id": "build_an_app/section1",
+      "title": "Create the Application Framework",
+      "description": "In this section, we will learn how to use App Engine Studio to create a new application which will hold all the functionality we need for our solution. We will also acquaint ourselves with core elements of this lab, and the App Engine Studio interface.",
+      "sidebar": "logistics"
+    },
+    "build_an_app/section2": {
+      "id": "build_an_app/section2",
+      "title": "Creating Data",
+      "description": "Now that we have an application framework, we can start to fill in some ofthe details that will give our application purpose. In this step, we will create the core table that will act as the primary data container for our application.",
+      "sidebar": "logistics"
+    },
+    "get_started/goals": {
+      "id": "get_started/goals",
+      "title": "Goals",
+      "description": "ServiceNow is committed to empowering our users to provide better experiences while digitally transforming workflows across the enterprise. Two important capabilities we leverage to deliver these outcomes are App Engine Studio and IntegrationHub.",
+      "sidebar": "logistics"
+    },
+    "get_started/overview": {
+      "id": "get_started/overview",
+      "title": "Logistics Lab",
+      "description": "COMING SOON!",
+      "sidebar": "logistics"
+    },
+    "get_started/setup": {
+      "id": "get_started/setup",
+      "title": "Setup",
+      "description": "To participate in this lab, you will need to reserve and access a Creator Workflows instance. The URL to request your instance will be provided during the workshop.",
+      "sidebar": "logistics"
+    },
+    "get_started/usecase": {
+      "id": "get_started/usecase",
+      "title": "Use Case",
+      "description": "This use case walks through the creation of a Logistics Management solution.",
+      "sidebar": "logistics"
+    },
+    "utah": {
+      "id": "utah",
+      "title": "🏔️ Utah",
+      "description": "This is the Utah Edition of this lab guide."
+    }
+  }
+}

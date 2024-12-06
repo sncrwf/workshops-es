@@ -1,0 +1,31 @@
+{
+  "unversionedId": "review-app",
+  "id": "review-app",
+  "title": "Revisando o Aplicativo de Badging",
+  "description": "De um navegador da web, abra este Link para acessar o aplicativo de badging baseado na web. Depois disso, você deve ver a tela de autenticação abaixo.",
+  "source": "@site/labs/rpa/2-review-app.md",
+  "sourceDirName": ".",
+  "slug": "/review-app",
+  "permalink": "/workshops-es/labs/rpa/review-app",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "review-app",
+    "title": "Revisando o Aplicativo de Badging",
+    "pagination_label": "2. Revisar Aplicativo",
+    "sidebar_label": "2. Revisar Aplicativo",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "rpa",
+  "previous": {
+    "title": "1. Introdução",
+    "permalink": "/workshops-es/labs/rpa/introduction"
+  },
+  "next": {
+    "title": "3. RPA Hub Workspace",
+    "permalink": "/workshops-es/labs/rpa/rpa-hub"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "configure-docintel/3-advanced",
+  "id": "configure-docintel/3-advanced",
+  "title": "2.3 Adicionar Flows para processamento avançado",
+  "description": "DESAFIO: Agora é hora de testar seus conhecimentos",
+  "source": "@site/labs/docintel/2-configure-docintel/3-advanced.md",
+  "sourceDirName": "2-configure-docintel",
+  "slug": "/configure-docintel/3-advanced",
+  "permalink": "/workshops-es/labs/docintel/configure-docintel/3-advanced",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3-advanced",
+    "title": "2.3 Adicionar Flows para processamento avançado",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "docintel",
+  "previous": {
+    "title": "2.2 Configurar Flows para Document Intelligence",
+    "permalink": "/workshops-es/labs/docintel/configure-docintel/2-flow"
+  },
+  "next": {
+    "title": "3.1 Enviar como solicitante e processar um documento",
+    "permalink": "/workshops-es/labs/docintel/e2e/1-submit"
+  }
+}

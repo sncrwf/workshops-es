@@ -1,0 +1,31 @@
+{
+  "unversionedId": "get_started/setup",
+  "id": "get_started/setup",
+  "title": "Setup",
+  "description": "To participate in this lab, you will need to reserve and access a Creator Workflows instance. The URL to request your instance will be provided during the workshop.",
+  "source": "@site/labs/logistics/get_started/03-setup.md",
+  "sourceDirName": "get_started",
+  "slug": "/get_started/setup",
+  "permalink": "/workshops-es/labs/logistics/get_started/setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "setup",
+    "sidebar_position": 3,
+    "sidebar_label": "Setup",
+    "title": "Setup",
+    "hide_table_of_contents": true,
+    "draft": true
+  },
+  "sidebar": "logistics",
+  "previous": {
+    "title": "Use Case",
+    "permalink": "/workshops-es/labs/logistics/get_started/usecase"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/workshops-es/labs/logistics/build_an_app/overview"
+  }
+}

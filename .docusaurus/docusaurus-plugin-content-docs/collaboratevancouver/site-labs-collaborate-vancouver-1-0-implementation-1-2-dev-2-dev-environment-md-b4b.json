@@ -1,0 +1,29 @@
+{
+  "unversionedId": "1.0-implementation/1.2-dev/environment",
+  "id": "1.0-implementation/1.2-dev/environment",
+  "title": "2. Ambiente Controller",
+  "description": "Tempo Estimado de Conclusão: 10 minutos",
+  "source": "@site/labs/collaborate-vancouver/1.0-implementation/1.2-dev/2-dev-environment.md",
+  "sourceDirName": "1.0-implementation/1.2-dev",
+  "slug": "/1.0-implementation/1.2-dev/environment",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/environment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "environment",
+    "title": "2. Ambiente Controller",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "1. Credential Alias",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/credential"
+  },
+  "next": {
+    "title": "3. Collaboration Descriptors",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.2-dev/collaboration"
+  }
+}

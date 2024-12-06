@@ -1,0 +1,37 @@
+{
+  "unversionedId": "0.0-get_started/tips",
+  "id": "0.0-get_started/tips",
+  "title": "Dicas e Truques",
+  "description": "Lembre-se do Botão de Copiar",
+  "source": "@site/labs/collaborate-vancouver/0.0-get_started/5-tips.md",
+  "sourceDirName": "0.0-get_started",
+  "slug": "/0.0-get_started/tips",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/tips",
+  "draft": false,
+  "tags": [
+    {
+      "label": "dicas",
+      "permalink": "/workshops-es/labs/collaborate-vancouver/tags/dicas"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "tips",
+    "title": "Dicas e Truques",
+    "hide_table_of_contents": true,
+    "sidebar_position": 5,
+    "tags": [
+      "dicas"
+    ]
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Estrutura do Laboratório",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/0.0-get_started/lab-structure"
+  },
+  "next": {
+    "title": "1. Credenciais",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/1.0-implementation/1.1-prod/credential"
+  }
+}

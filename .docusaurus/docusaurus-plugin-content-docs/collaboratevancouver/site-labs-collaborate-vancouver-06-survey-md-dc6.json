@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Survey",
+  "id": "Survey",
+  "title": "Valorizamos Seu Feedback!",
+  "description": "Ajude-nos a Melhorar Sua Experiência de Aprendizado",
+  "source": "@site/labs/collaborate-vancouver/06-Survey.md",
+  "sourceDirName": ".",
+  "slug": "/Survey",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/Survey",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Valorizamos Seu Feedback!",
+    "sidebar_label": "Pesquisa",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Baixar Guia do Laboratório em PDF",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/lab-guide-pdf"
+  }
+}

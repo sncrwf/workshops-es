@@ -1,0 +1,31 @@
+{
+  "unversionedId": "build_an_app/section1",
+  "id": "build_an_app/section1",
+  "title": "Create the Application Framework",
+  "description": "In this section, we will learn how to use App Engine Studio to create a new application which will hold all the functionality we need for our solution. We will also acquaint ourselves with core elements of this lab, and the App Engine Studio interface.",
+  "source": "@site/labs/logistics/build_an_app/section1.md",
+  "sourceDirName": "build_an_app",
+  "slug": "/build_an_app/section1",
+  "permalink": "/workshops-es/labs/logistics/build_an_app/section1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "section1",
+    "sidebar_position": 1,
+    "sidebar_label": "App Framework",
+    "title": "Create the Application Framework",
+    "hide_table_of_contents": true,
+    "draft": true
+  },
+  "sidebar": "logistics",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/workshops-es/labs/logistics/build_an_app/overview"
+  },
+  "next": {
+    "title": "Create Data",
+    "permalink": "/workshops-es/labs/logistics/build_an_app/section2"
+  }
+}

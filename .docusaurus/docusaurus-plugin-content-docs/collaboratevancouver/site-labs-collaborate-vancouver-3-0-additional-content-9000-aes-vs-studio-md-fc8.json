@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3.0-additional_content/aes-vs-studio",
+  "id": "3.0-additional_content/aes-vs-studio",
+  "title": "AES vs. Studio",
+  "description": "Esta parte do laboratório é apenas para fins informativos. Nenhuma atividade é necessária.",
+  "source": "@site/labs/collaborate-vancouver/3.0-additional_content/9000-aes-vs-studio.md",
+  "sourceDirName": "3.0-additional_content",
+  "slug": "/3.0-additional_content/aes-vs-studio",
+  "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/aes-vs-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9000,
+  "frontMatter": {
+    "id": "aes-vs-studio",
+    "title": "AES vs. Studio",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "labaemc",
+  "previous": {
+    "title": "Lab Completo",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/2.0-simulation/lab-complete"
+  },
+  "next": {
+    "title": "Dicas de Clonagem",
+    "permalink": "/workshops-es/labs/collaborate-vancouver/3.0-additional_content/cloning"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "title": "Introdução",
+  "description": "RPA",
+  "source": "@site/labs/rpa/1-introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/workshops-es/labs/rpa/introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introdução",
+    "pagination_label": "1. Introdução",
+    "sidebar_label": "1. Introdução",
+    "hide_table_of_contents": true,
+    "draft": false
+  },
+  "sidebar": "rpa",
+  "next": {
+    "title": "2. Revisar Aplicativo",
+    "permalink": "/workshops-es/labs/rpa/review-app"
+  }
+}

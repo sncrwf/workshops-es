@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Smarter-Forms/Playbook",
+  "id": "Smarter-Forms/Playbook",
+  "title": "Adicionar um playbook",
+  "description": "A equipe de Amanda está crescendo e o espaço de trabalho que ela usa para gerenciar e relatar casos de teletrabalho agora é utilizado por mais de seus subordinados diretos. Ela percebeu que alguns desses subordinados nem sempre estão cientes do que validar nas solicitações e Amanda gostaria de uma forma para que qualquer pessoa que visualize os Casos de Teletrabalho seja orientada sobre o que procurar, garantir que o processo seja seguido e que todos os casos sejam tratados de forma igualitária.",
+  "source": "@site/labs/telework-201_vancouver/03-Smarter-Forms/1-Playbook.md",
+  "sourceDirName": "03-Smarter-Forms",
+  "slug": "/Smarter-Forms/Playbook",
+  "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Playbook",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Adicionar um playbook",
+    "sidebar_label": "1. Adicionar um playbook",
+    "hide_table_of_contents": false
+  },
+  "sidebar": "teleworkvancouver",
+  "previous": {
+    "title": "3. Modificar Fluxo de Aprovação de Caso de Teletrabalho",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Flow/Modify-Main-Flow"
+  },
+  "next": {
+    "title": "2. Record Producer",
+    "permalink": "/workshops-es/labs/telework-201_vancouver/Smarter-Forms/Record-Producer"
+  }
+}
